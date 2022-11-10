@@ -1,0 +1,14 @@
+site_name: Le Jeu de Trictrac rendu facile
+site_author: Henri Bourcereau
+# repo_url: https://github.com/mmai/leJeuDeTrictracRenduFacile/
+# edit_uri: edit/master/src/
+theme: readthedocs
+docs_dir: src/
+site_dir: html/
+# google_analytics: ['UA-320049-18', 'auto']
+markdown_extensions:
+  - sane_lists
+extra:
+    version: 0.3
+nav:
+  - Tome 1: index.md

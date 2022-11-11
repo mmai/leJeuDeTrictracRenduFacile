@@ -27,6 +27,7 @@ in
 mkShell {
   buildInputs = [
     mkdocs
+    python39Packages.mkdocs-material
   ] ++ components.buildInputs;
 
   shellHook = ''

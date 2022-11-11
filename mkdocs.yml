@@ -1,14 +1,39 @@
 site_name: Le Jeu de Trictrac rendu facile
 site_author: Henri Bourcereau
-# repo_url: https://github.com/mmai/leJeuDeTrictracRenduFacile/
-# edit_uri: edit/master/src/
-theme: readthedocs
+site_url: https://mmai.github.io/leJeuDeTrictracRenduFacile/
+
+# repository
+repo_url: https://github.com/mmai/leJeuDeTrictracRenduFacile/
+repo_name: code source
+edit_uri: "" # disable edit button linking to repository
+
+# files paths
 docs_dir: src/
 site_dir: html/
-# google_analytics: ['UA-320049-18', 'auto']
-markdown_extensions:
-  - sane_lists
-extra:
-    version: 0.3
+
 nav:
-  - Tome 1: index.md
+  - Home: index.md
+  - Tome 1:
+    - Préface: tome1/preface.md
+    - Avertissement: tome1/avertissement.md
+    - Introduction: tome1/introduction.md
+    - Section 1: tome1/section1.md
+    - Section 2: tome1/section2.md
+    - Section 3: tome1/section3.md
+# - Tome 2: index.md
+
+# -----  Config for Material theme ------
+theme:
+  name: material
+  language: fr
+  analytics:
+    gtag: G-7P8EEWM1YZ
+extra:
+  analytics:
+    provider: google
+    property: G-7P8EEWM1YZ
+# ----- Config for Readthedoc theme ------
+# theme:
+  # name: readthedocs
+  # analytics:
+  #   gtag: G-7P8EEWM1YZ

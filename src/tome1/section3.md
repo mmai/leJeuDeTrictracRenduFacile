@@ -1,12 +1,10 @@
-## SECTION III.
+## XII. Différents genres de parties — partie en douze trous - partie à écrire
 
-### CHAPITRE XII. DIFFÉRENTS GENRES DE PARTIES. — PARTIE EN DOUZE TROCS. PARTIE A ÉCRIRE.
-
-#### §1. PARTIE EN DOUZE TROUS.
+### 12.1 Partie en douze trous
 
 **217. Différences entre ces deux parties.**
 
-La partie de trictrac se joue, soit en douze trous, soit à écrire. A l'une comme à l'autre partie, les règles et les lois sont les mêmes; mais il en est autrement de la conduite du jeu, qui diffère essentiellement en beaucoup de circonstances. La partie à . écrire offre un intérêt plus grand et plus varié , des positions plus critiques, des dangers plus graves, des combinaisons plus compliquées ; les fautes y ont des suites plus funestes, les vicissitudes y ont un caractère plus important dans leurs résultats. Tel coup qui, à la partie en douze trous, doit se jouer de telle manière , veut l'être de telle autre à la partie à écrire telle tenue qui est bonne à Tune ne vaut rien à l'autre. La partie en douze trous peut se gagner et se terminer par les points que l'adversaire donne en battant à faux; ce qui n'arrive pas à la partie à écrire, où l'on ne peut s'en aller que lorsque l'on gagne le trou par un de ses coups. A la partie en douze trous, on pourra, dans certaines positions, défendre avec persévérance un trou qu'on doit céder et abandonner à la partie à écrire, pour ne pas s'exposer à un danger plus grave.
+La partie de trictrac se joue soit en douze trous, soit à écrire. À l'une comme à l'autre partie, les règles et les lois sont les mêmes; mais il en est autrement de la conduite du jeu, qui diffère essentiellement en beaucoup de circonstances. La partie à . écrire offre un intérêt plus grand et plus varié, des positions plus critiques, des dangers plus graves, des combinaisons plus compliquées ; les fautes y ont des suites plus funestes, les vicissitudes y ont un caractère plus important dans leurs résultats. Tel coup qui, à la partie en douze trous, doit se jouer de telle manière, veut l'être de telle autre à la partie à écrire telle tenue qui est bonne à Tune ne vaut rien à l'autre. La partie en douze trous peut se gagner et se terminer par les points que l'adversaire donne en battant à faux; ce qui n'arrive pas à la partie à écrire, où l'on ne peut s'en aller que lorsque l'on gagne le trou par un de ses coups. A la partie en douze trous, on pourra, dans certaines positions, défendre avec persévérance un trou qu'on doit céder et abandonner à la partie à écrire, pour ne pas s'exposer à un danger plus grave.
 
 Par ces motifs, on s'attachera dans ce traité uniquement à la partie à écrire, et les conseils qu'on y donnera seront tous principalement applicables à cette partie.
 
@@ -20,7 +18,7 @@ La manière la plus simple est celle où la partie est terminée et le prix conv
 
 Cette partie se joue très rarement, entre trois, quatre ou cinq joueurs, qui conviennent du nombre de trous nécessaire pour gagner.
 
-#### §2. PARTIE A ÉCRIRE.
+### 12.2 Partie a écrire
 
 **220. Partie à écrire. Marqué.**
 
@@ -40,13 +38,13 @@ Au nombre de trous du gagnant on ajoute 2, ce qu'on nomme _la consolation_; de c
 
 On a vu (n° 143) que, si l'on arrive à douze points sans être interrompu par des points de l'adversaire, on est en _bredouille_ : on d'ouble les points, en doublant le trou. De même, si les trous de celui qui gagne le marqué ont été pris sans être interrompus par aucun de l'adversaire, _on double le nombre de ces trous augmenté de la consolation, avant d'en retrancher le nombre de trous de l'adversaire_. Si l'on a pris huit trous de suite, et que l'adversaire en ait pris ensuite neuf, on dit : neuf et deux font onze, onze fois deux font vingt-deux, vingt-deux moins huit donnent pour reste quatorze, valeur du marqué. Cette valeur diffère bien de trois, qui est celle du _marqué simple_, dont les trous ont été pris avec interruption.
 
-On indique la non-interruption des trous au moyen du pavillon placé dans le trou où était d'a bord le fichet; lorsque le pavillon est au milieu de la bande , cela signifie qu'un seul joueur a des trous ou bien que les deux joueurs sont débredouillés.
+On indique la non-interruption des trous au moyen du pavillon placé dans le trou où était d'a bord le fichet; lorsque le pavillon est au milieu de la bande, cela signifie qu'un seul joueur a des trous ou bien que les deux joueurs sont débredouillés.
 
 **224. Petite et grande bredouille.**
 
-Si l'on a plus de six trous avec la bredouille, on double le nombre de trous du gagnant après y avoir ajouté deux. On a fait une autre convention : _Si le gagnant a plus de onze trous avec le pavillon , à son nombre de trous on ajoute deux; on quadruple cette somme, puis du produit on retranche le nombre de trous de l'adversaire_ : le reste est la valeur du marqué. Pour distinguer ces deux marqués, on dit : _Marqué en grande bredouille_ , _marqué en petite bredouille_. Si l'on a dix-huit trous avec le pavillon et l'adversaire six, on dit: dix-huit et deux font vingt, quatre fois vingt font quatre-vingts , quatre-vingts moins six donnent pour reste soixante-quatorze, valeur du marqué. Sans pavillon c'eût été dix-huit plus deux , vingt, vingt moins six, quatorze, au lieu de soixante-quatorze.
+Si l'on a plus de six trous avec la bredouille, on double le nombre de trous du gagnant après y avoir ajouté deux. On a fait une autre convention : _Si le gagnant a plus de onze trous avec le pavillon, à son nombre de trous on ajoute deux; on quadruple cette somme, puis du produit on retranche le nombre de trous de l'adversaire_ : le reste est la valeur du marqué. Pour distinguer ces deux marqués, on dit : _Marqué en grande bredouille_, _marqué en petite bredouille_. Si l'on a dix-huit trous avec le pavillon et l'adversaire six, on dit: dix-huit et deux font vingt, quatre fois vingt font quatre-vingts, quatre-vingts moins six donnent pour reste soixante-quatorze, valeur du marqué. Sans pavillon c'eût été dix-huit plus deux, vingt, vingt moins six, quatorze, au lieu de soixante-quatorze.
 
-L'adversaire ayant six trous, comparez les marqués en bredouille avec onze trous ou douze trous. Le premier donne onze plus deux, treize ; treize fois deux, vingt-six ; vingt-six moins six , vingt. Avec le deuxième on a douze plus deux, quatorze; quatre fois quatorze, cinquante-six; cinquante-six moins six, cinquante: ainsi un trou de plus ajoute trente, ou trois fiches.
+L'adversaire ayant six trous, comparez les marqués en bredouille avec onze trous ou douze trous. Le premier donne onze plus deux, treize ; treize fois deux, vingt-six ; vingt-six moins six, vingt. Avec le deuxième on a douze plus deux, quatorze; quatre fois quatorze, cinquante-six; cinquante-six moins six, cinquante: ainsi un trou de plus ajoute trente, ou trois fiches.
 
 **225. Douze trous de suite, sans pavillon.**
 
@@ -58,7 +56,7 @@ Si, lorsqu'on s'en va, les deux joueurs ont un nombre égal de trous, et si ce n
 
 **227. Nombre des marqués. Postillons.**
 
-Celui qui est marqué, outre le paiement qu'il fait avec ses jetons placés près de son talon, met un ou deux jetons près de son coin, pour indiquer le nombre de marqués qu'il a perdus, et pour compter les _postillons_. On appelle ainsi tout marqué qui excède la moitié que doit avoir chaque joueur. Si l'on joue quatre, six, huit, dix marqués, les postillons sont ceux au delà de deux, trois, quatre, cinq. On paie pour le premier vingt-huit jetons , huit pour chacun des autres.
+Celui qui est marqué, outre le paiement qu'il fait avec ses jetons placés près de son talon, met un ou deux jetons près de son coin, pour indiquer le nombre de marqués qu'il a perdus, et pour compter les _postillons_. On appelle ainsi tout marqué qui excède la moitié que doit avoir chaque joueur. Si l'on joue quatre, six, huit, dix marqués, les postillons sont ceux au delà de deux, trois, quatre, cinq. On paie pour le premier vingt-huit jetons, huit pour chacun des autres.
 
 **228. Jetons des marqués. Paiement des postillons.**
 
@@ -86,21 +84,21 @@ On a vu (V. n° 220) que l'on peut avec un papier et un crayon noter les marqué
 
 **234. Gagner avec plus de marqués.**
 
-Cela a lieu si l'on perd des marqués faibles, comme trois, cinq, six, quatre, sept, quatre , trois , et si l'adversaire en a de très forts , vingt-sept, quinze, trente-huit. En effet, les sept marqués augmentés de vingt-huit et huit donnent soixante-huit, et les trois autres quatre-vingts. Celui qui est postillonné gagne néanmoins. La perte est douze, une fiche. Si l'on applique à cet exemple l'autre méthode, on trouve deux fiches de perte : cela tient au gain des jetons des marqués. _La queue des jetons augmente le gain d'une fiche_.
+Cela a lieu si l'on perd des marqués faibles, comme trois, cinq, six, quatre, sept, quatre, trois, et si l'adversaire en a de très forts, vingt-sept, quinze, trente-huit. En effet, les sept marqués augmentés de vingt-huit et huit donnent soixante-huit, et les trois autres quatre-vingts. Celui qui est postillonné gagne néanmoins. La perte est douze, une fiche. Si l'on applique à cet exemple l'autre méthode, on trouve deux fiches de perte : cela tient au gain des jetons des marqués. _La queue des jetons augmente le gain d'une fiche_.
 
 **235. Résultats des deux méthodes.**
 
-On a pour marqués dix-neuf, soixante-neuf ; l'adversaire a cinquante et un, quatorze , cinq, sept, et un postillon, vingt-huit. On doit dix-neuf plus soixante-neuf, ou quatre-vingt-huit; l'adversaire doit cinquante et un, quatorze, cinq, sept, vingt-huit, ou cent cinq. Il perd cent cinq moins quatre-vingt-huit, ou dix-sept, deux fiches. Avec l'autre méthode, si c'est un jeton par marqué, on n'en a que deux à retrancher de dix-sept : il reste quinze, deux fiches. Si l'on met deux jetons par marqué, cela fait quatre jetons à retrancher de dix-sept : il reste treize, une fiche. Dans ce cas, _la queue des jetons diminue d'une fiche le gain_.
+On a pour marqués dix-neuf, soixante-neuf ; l'adversaire a cinquante et un, quatorze, cinq, sept, et un postillon, vingt-huit. On doit dix-neuf plus soixante-neuf, ou quatre-vingt-huit; l'adversaire doit cinquante et un, quatorze, cinq, sept, vingt-huit, ou cent cinq. Il perd cent cinq moins quatre-vingt-huit, ou dix-sept, deux fiches. Avec l'autre méthode, si c'est un jeton par marqué, on n'en a que deux à retrancher de dix-sept : il reste quinze, deux fiches. Si l'on met deux jetons par marqué, cela fait quatre jetons à retrancher de dix-sept : il reste treize, une fiche. Dans ce cas, _la queue des jetons diminue d'une fiche le gain_.
 
 **236. Gagner au lieu de perdre.**
 
-On a les marqués dix-neuf, soixante-neuf, quinze, dont la somme est cent trois; l'adversaire a cinquante et un , quatorze, cinq , sept, trois, et un postillon, vingt-huit : la somme est cent huit. Il perd cent huit moins cent trois, cinq, une fiche ; si la queue est une fiche, il perd deux fiches. Avec un jeton par marqué, il ne perd que deux jetons et une fiche de queue. Avec deux jetons par marqué, il gagne un jeton, et par conséquent la queue , une fiche. Si le dernier marqué est quatorze, au lieu de quinze, avec deux jetons par marqué , il n'y aura ni gain ni perte ; avec le papier et le crayon, l'adversaire perdrait un jeton de plus, six au lieu de cinq; avec la queue, ce serait _deux fiches avec le papier, et rien avec les jetons_.
+On a les marqués dix-neuf, soixante-neuf, quinze, dont la somme est cent trois; l'adversaire a cinquante et un, quatorze, cinq, sept, trois, et un postillon, vingt-huit : la somme est cent huit. Il perd cent huit moins cent trois, cinq, une fiche ; si la queue est une fiche, il perd deux fiches. Avec un jeton par marqué, il ne perd que deux jetons et une fiche de queue. Avec deux jetons par marqué, il gagne un jeton, et par conséquent la queue, une fiche. Si le dernier marqué est quatorze, au lieu de quinze, avec deux jetons par marqué, il n'y aura ni gain ni perte ; avec le papier et le crayon, l'adversaire perdrait un jeton de plus, six au lieu de cinq; avec la queue, ce serait _deux fiches avec le papier, et rien avec les jetons_.
 
 **237. Un trou fait une fiche.**
 
-On a pour marqués cinquante et un, quatorze , cinq, sept ; l'adversaire a dix-neuf, soixante-neuf, trente-trois, treize. On note chaque marqué avec deux jetons ; après le septième, il n'a plus ni fiche ni jeton, on a trois fiches et vingt-six jetons. Il perd le huitième marqué, il donne deux fiches, ce qui en fait sept en comptant les deux pour les quarante jetons qu'on a ; on en rend sept à l'adversaire, qui en met deux pour noter le huitième marqué; il lui en reste cinq, qui n'ont aucune valeur. Si le huitième marqué était douze au lieu de treize, on lui rendrait huit jetons, et après en avoir mis deux, il lui en resterait six, qui valent une fiche ; il n'en perdrait que six au lieu de sept. Cette différence d',unè fiche pour un trou n'a point lieu dans la méthode par le papier et le crayon: on perd soixante-dix-sept ; l'adversaire perd cent trente-quatre ; la différence ou la perte est cinquante-sept, et en retranchant un, cela fait cinquante-six, toujours six fiches.
+On a pour marqués cinquante et un, quatorze, cinq, sept ; l'adversaire a dix-neuf, soixante-neuf, trente-trois, treize. On note chaque marqué avec deux jetons ; après le septième, il n'a plus ni fiche ni jeton, on a trois fiches et vingt-six jetons. Il perd le huitième marqué, il donne deux fiches, ce qui en fait sept en comptant les deux pour les quarante jetons qu'on a ; on en rend sept à l'adversaire, qui en met deux pour noter le huitième marqué; il lui en reste cinq, qui n'ont aucune valeur. Si le huitième marqué était douze au lieu de treize, on lui rendrait huit jetons, et après en avoir mis deux, il lui en resterait six, qui valent une fiche ; il n'en perdrait que six au lieu de sept. Cette différence d',unè fiche pour un trou n'a point lieu dans la méthode par le papier et le crayon: on perd soixante-dix-sept ; l'adversaire perd cent trente-quatre ; la différence ou la perte est cinquante-sept, et en retranchant un, cela fait cinquante-six, toujours six fiches.
 
-#### §3. DIFFÉRENTES MANIÈRES DE JOUER LA PARTIE A ÉCRIRE.
+### 12.3 Différentes manières de jouer la partie a écrire
 
 **238. Nombre des joueurs.**
 
@@ -122,7 +120,7 @@ A ce premier marqué on tire la primauté; aux marqués suivants elle appartient
 
 Lorsque l'on veut jouer à trois, deux des joueurs s'associent contre l'autre, qu'on appelle la chouette. Ce dernier a la primauté en commençant ; ensuite elle est alternative. Les deux associés tirent à qui jouera le premier. Ils jouent chacun deux marqués, dans le premier desquels la chouette a la primauté. Cette partie est utile si l'on est trois, surtout lorsqu'un des trois joueurs est plus fort que les autres. Comme dans la partie à quatre, celui qui ne joue pas a le droit de conseiller l'autre, de délibérer avec lui sur la manière de jouer chaque coup, de l'avertir des points à marquer, mais sans toucher ni aux dames ni aux jetons. Si, sur des coups difficiles, les deux associés ont des sentiments opposés, celui qui joue a le droit de décider.
 
-#### §4. PARTIE A TOURNER.
+### 12.4 Partie a tourner
 
 **243. Trois joueurs, chacun pour soi. Objets nécessaires. Conventions.**
 
@@ -142,7 +140,7 @@ Le prix des postillons est le même qu'aux autres parties, mais avec cette diff�
 
 Il en serait autrement si l'un des joueurs était marqué six fois, un autre quatre, et le troisième deux seulement, parce que, dans ce cas, les deux postillons appartenant à un seul joueur, le paiement suivrait la progression ordinaire.
 
-Mais si deux joueurs étaient marqués cinq fois et l'autre deux, alors chacun des joueurs marqués cinq fois devrait un postillon de vingt-huit jetons. Dans le premier de ces trois exemples, un même joueur perd deux postillons de vingt-huit jetons , et dans le dernier, au contraire, un même joueur en gagne deux.
+Mais si deux joueurs étaient marqués cinq fois et l'autre deux, alors chacun des joueurs marqués cinq fois devrait un postillon de vingt-huit jetons. Dans le premier de ces trois exemples, un même joueur perd deux postillons de vingt-huit jetons, et dans le dernier, au contraire, un même joueur en gagne deux.
 
 **247. Queue et postillons.**
 
@@ -160,11 +158,11 @@ On voit que la partie à tourner offre presque toujours une perte plus considér
 
 Cette partie ne doit avoir lieu qu'entre trois joueurs de force égale ou à peu près. Elle est peu usitée et peu connue. Cependant elle semble réunir beaucoup d'agrément par la variété et l'opposition des différents intérêts qu'elle présente.
 
-#### § 5. GRANDE BREDOUILLE.
+### 12.5 Grande bredouille
 
 **251. Grand avantage. Danger.**
 
-Le succès d'une grande bredouille est l'avantage le plus considérable auquel un joueurpuisse aspirer; ce succès détermine le plus souvent le sort de la partie ; l'espoir de l'obtenir, ou la crainte d'en être frappé, influent sur la plupart des coups. Celui qui a lieu de la craindre, parce que l'adversaire n'a pas encore de trou, se refuse souvent à faire une tenue qui, s'il n'était pas arrêté par cette crainte, lui offrirait des avantages presque assurés ; celui, au contraire, qui y aspire, sans avoir à la redouter, hasarde souvent une tenue incertaine, mais que semble justifier l'appât séduisant du prix attaché au succès. C'est surtout quand ce dernier est près d'arriver au but que la lutte devient plus intéressante. C'est alors que , de part et d'autre , on emploie tous les moyens que suggèrent la prudence et la sagesse des combinaisons : d'un côté, pour opposer et accumuler des obstacles, et préparer des écueils contre lesquels viennent souvent se briser les prétentions et les espérances de l'adversaire ; de l'autre, pour les franchir et en triompher.
+Le succès d'une grande bredouille est l'avantage le plus considérable auquel un joueurpuisse aspirer; ce succès détermine le plus souvent le sort de la partie ; l'espoir de l'obtenir, ou la crainte d'en être frappé, influent sur la plupart des coups. Celui qui a lieu de la craindre, parce que l'adversaire n'a pas encore de trou, se refuse souvent à faire une tenue qui, s'il n'était pas arrêté par cette crainte, lui offrirait des avantages presque assurés ; celui, au contraire, qui y aspire, sans avoir à la redouter, hasarde souvent une tenue incertaine, mais que semble justifier l'appât séduisant du prix attaché au succès. C'est surtout quand ce dernier est près d'arriver au but que la lutte devient plus intéressante. C'est alors que, de part et d'autre, on emploie tous les moyens que suggèrent la prudence et la sagesse des combinaisons : d'un côté, pour opposer et accumuler des obstacles, et préparer des écueils contre lesquels viennent souvent se briser les prétentions et les espérances de l'adversaire ; de l'autre, pour les franchir et en triompher.
 
 **252. Sacrifice du marqué.**
 
@@ -172,7 +170,7 @@ Dès l'instant qu'un joueur s'aperçoit que le danger de la grande bredouille de
 
 **253. Règle de conduite.**
 
-L'espoir ou la crainte de la grande bredouille, le bénéfice ou la perte considérable qui en résultent, doivent fixer principalement l'attention des joueurs et régler la conduite de leur jeu dans la plupart des circonstances. L'ambition doit être modérée par la prudence ; il ne faut pas se livrer à l'entreprise d'une grande bredouille si , en s'y abandonnant, on s'expose à en éprouver soi-même le désastre. C'est ce qui peut arriver lorsque l'adversaire n'a pas encore de trou : car alors, en perdant la bredouille, on la lui donne ; mais lorsqu'on a la bredouille en second , et que, par conséquent, on n'a plus à la redouter, on peut permettre un peu plus d'essor à son ambition. Cet essor cependant doit être soumis aux règles de la prudence et de la circonspection; il ne doit pas aller jusqu'à compromettre le marqué , la queue, le postillon, et tous les avantages qui seraientacquis en se contentant de marquer en petite bredouille. Il faut de plus le concours de probabilités qui justifient cette entreprise : car l'ambition ne doit pas être portée jusqu'à une témérité inconsidérée. Cette partie est extrêmement importante et difficile ; j'y reviendrai aux numéros 386, 449, 450.
+L'espoir ou la crainte de la grande bredouille, le bénéfice ou la perte considérable qui en résultent, doivent fixer principalement l'attention des joueurs et régler la conduite de leur jeu dans la plupart des circonstances. L'ambition doit être modérée par la prudence ; il ne faut pas se livrer à l'entreprise d'une grande bredouille si, en s'y abandonnant, on s'expose à en éprouver soi-même le désastre. C'est ce qui peut arriver lorsque l'adversaire n'a pas encore de trou : car alors, en perdant la bredouille, on la lui donne ; mais lorsqu'on a la bredouille en second, et que, par conséquent, on n'a plus à la redouter, on peut permettre un peu plus d'essor à son ambition. Cet essor cependant doit être soumis aux règles de la prudence et de la circonspection; il ne doit pas aller jusqu'à compromettre le marqué, la queue, le postillon, et tous les avantages qui seraientacquis en se contentant de marquer en petite bredouille. Il faut de plus le concours de probabilités qui justifient cette entreprise : car l'ambition ne doit pas être portée jusqu'à une témérité inconsidérée. Cette partie est extrêmement importante et difficile ; j'y reviendrai aux numéros 386, 449, 450.
 
 **254. Avantages à l'adversaire.**
 
@@ -180,8 +178,8 @@ Ceux qui savent très bien ce jeu peuvent faire des avantages à ceux qui n'y so
 
 **255. Que doit-on voir maintenant ?**
 
-J'ai donné les définitions, les trois pleins, la sortie des dames, les autres jans, battre , les points et les trous, conventions sur les points gagnés, s'en aller, écoles, règles inconnues, différents genres de parties. Maintenant, il faut donner des conseils pour bien jouer; mais ces conseils s'appuient sur les calculs très faciles d'une arithmétique bien simple : il faut donc mettre l'arithmétique avant les conseils.
+J'ai donné les définitions, les trois pleins, la sortie des dames, les autres jans, battre, les points et les trous, conventions sur les points gagnés, s'en aller, écoles, règles inconnues, différents genres de parties. Maintenant, il faut donner des conseils pour bien jouer; mais ces conseils s'appuient sur les calculs très faciles d'une arithmétique bien simple : il faut donc mettre l'arithmétique avant les conseils.
 
-On va donner sur cette partie bien des choses, bien des chapitres et paragraphes ; on pourrait l'étendre encore. Avec la table des matières , chacun peut choisir ce qui lui convient. L'un se contentera de connaître les règles que j'ai pris soin de mettre en italique, et de pouvoir les appliquer ; l'autre voudra savoir les raisons de chaque chose.
+On va donner sur cette partie bien des choses, bien des chapitres et paragraphes ; on pourrait l'étendre encore. Avec la table des matières, chacun peut choisir ce qui lui convient. L'un se contentera de connaître les règles que j'ai pris soin de mettre en italique, et de pouvoir les appliquer ; l'autre voudra savoir les raisons de chaque chose.
 
 FIN DU TOME PREMIER.

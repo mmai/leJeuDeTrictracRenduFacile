@@ -1,6 +1,4 @@
-## SECTION II.
-
-### CHAPITRE VII. POINTS. — TROU, — PARTIE ORDINAIRE.
+## VII. Points — trou — partie ordinaire
 
 **140. Points. Trou. Partie ordinaire.**
 
@@ -8,7 +6,7 @@ Ce que l'on gagne se nomme des points. Leur nombre est toujours pair : 2, 4, 6, 
 
 **141. Marquer les points.**
 
-On les marque avec des jetons, dans le tablier, chacun de son côté. Puisque douze points font un trou, il suffit d'en savoir marquer 2, 4, 6, 8, 10. Pour dix points, on met le jeton (figure 1) près de la bande B C ; pour huit points, le jeton est près de la bande de séparation, dans la deuxième table ; pour six points, près de la même bande, dans la première table. Il reste à trouver la place pour deux points et pour quatre. Les flèches d'une table laissent entre elles et les deux bandes douze demi-intervalles, dont le tiers est quatre : donc le jeton doit être placé , pour deux points, vis-à-vis le milieu entre la première flèche et la deuxième ; pour quatre points, vis-à-vis le milieu entre la troisième et la quatrième.
+On les marque avec des jetons, dans le tablier, chacun de son côté. Puisque douze points font un trou, il suffit d'en savoir marquer 2, 4, 6, 8, 10. Pour dix points, on met le jeton (figure 1) près de la bande B C ; pour huit points, le jeton est près de la bande de séparation, dans la deuxième table ; pour six points, près de la même bande, dans la première table. Il reste à trouver la place pour deux points et pour quatre. Les flèches d'une table laissent entre elles et les deux bandes douze demi-intervalles, dont le tiers est quatre : donc le jeton doit être placé, pour deux points, vis-à-vis le milieu entre la première flèche et la deuxième ; pour quatre points, vis-à-vis le milieu entre la troisième et la quatrième.
 
 Mettez bien ces places dans votre tête, pour ne jamais placer le jeton d'une manière incorrecte ou incertaine.
 
@@ -32,7 +30,7 @@ Perdre la bredouille, c'est perdre le droit de marquer le trou double, quand l'a
 
 **145. Oubli du deuxième jeton.**
 
-Lorsque celui qui doit marquer ses points avec deux jetons ne les marque qu'avec un, il peut prendre le deuxième jeton, s'il s'en aperçoit, tant qu'il n'a pas joué ses dames, s'il marque en premier, ou tant qu'il n'a pas jeté les dés, s'il marque le deuxième. Dans le cas contraire, il perd le droit de la bredouille, mais l'adversaire n'en peut profiter. Si celui qui gagne le trou double le marque simple , il n'est plus reçu à le marquer double dès qu'il a joué.
+Lorsque celui qui doit marquer ses points avec deux jetons ne les marque qu'avec un, il peut prendre le deuxième jeton, s'il s'en aperçoit, tant qu'il n'a pas joué ses dames, s'il marque en premier, ou tant qu'il n'a pas jeté les dés, s'il marque le deuxième. Dans le cas contraire, il perd le droit de la bredouille, mais l'adversaire n'en peut profiter. Si celui qui gagne le trou double le marque simple, il n'est plus reçu à le marquer double dès qu'il a joué.
 
 **146. Un seul trou pour douze points de suite.**
 
@@ -54,7 +52,7 @@ Si c'est vous qui avez jeté les dés, vous marquez ce que vous gagnez, soit pou
 
 Il y a un cas où l'usage est de ne pas marquer les points que l'où gagne : c'est lorsque, par le même coup, on donne ou complète le trou à l'adversaire, et alors on doit dire : _Je ne marque pas_.
 
-### CHAPITRE VIII. CONVENTIONS SUR LES POINTS GAGNÉS OU DONNÉE.
+## VIII. Conventions sur les points gagnés ou donnée
 
 **151. Conventions sur les points.**
 
@@ -78,7 +76,7 @@ Quand on fait le jan de trois coups, le jan des deux coins, le jan de mézéas; 
 
 Celui dont l'adversaire fait un des deux contre-jans, ou bat à faux dans une première table, gagne quatre points.
 
-### CHAPITRE IX. S'EN ALLER. — RESTER.
+## IX. s'en aller — rester
 
 **155. S'en aller.**
 
@@ -120,7 +118,7 @@ Un relevé a lieu quand, après avoir marqué un ou plusieurs trous et s'en êtr
 
 Au jan de retour, celui qui lève ses deux dernières dames, et qui arrive à douze points par ce coup, a le droit de s'en aller, ou de rester, après avoir jeté les dés. Il examine ce qui lui est le plus avantageux. Par exemple, s'il a dix points, et s'il amène 6-6, il doit rester, car il aura quatre points de reste et la somme douze à jouer; s'il amène 3-2, il doit s'en aller. Cette décision est tirée de Guiton, qui l'a justifiée par des raisons ; en voici une : la détermination que prend un joueur de rester ou de s'en aller doit être la suite d'un examen réfléchi de ce que peut lui faire espérer ou craindre le coup qui lui confère le droit de s'en aller.
 
-### CHAPITRE X. ECOLES.
+## X. Ecoles
 
 **164. Définition.**
 
@@ -132,13 +130,13 @@ Les écoles sont égales aux points qu'on a marqués de trop ou qu'on a oublié 
 
 **166. Ecole par trop. Ecole par moins.**
 
-La deuxième est plus préjudiciable que la première. Si chaque joueur a 6 points , et si l'un, gagnant 6 autres points, oublie de les marquer, il donne le trou à l'adversaire, au lieu de le prendre : cela fait une différence de deux trous, et même de trois si l'un ou l'autre avait la bredouille. L'école par trop, au contraire, ne porte qu'un préjudice simple, de 6 points, et laisse le trou à celui qui a fait l'école.
+La deuxième est plus préjudiciable que la première. Si chaque joueur a 6 points, et si l'un, gagnant 6 autres points, oublie de les marquer, il donne le trou à l'adversaire, au lieu de le prendre : cela fait une différence de deux trous, et même de trois si l'un ou l'autre avait la bredouille. L'école par trop, au contraire, ne porte qu'un préjudice simple, de 6 points, et laisse le trou à celui qui a fait l'école.
 
 **167. Quand l'école est-elle faite ?**
 
-L'école par trop est faite quand on a quitté son jeton, parce qu'on ne peut le reculer. Il faut la marquer avant de jeter ses dés, sans quoi on n'y est plus reçu , et le premier joueur garde les points et les trous qu'il a marqués de trop.
+L'école par trop est faite quand on a quitté son jeton, parce qu'on ne peut le reculer. Il faut la marquer avant de jeter ses dés, sans quoi on n'y est plus reçu, et le premier joueur garde les points et les trous qu'il a marqués de trop.
 
-L'école par moins est faite dès que l'on a touché une dame (V. n° 46); elle l'est aussi quand on a jeté les dés, si elle vient d'un coup de l'adversaire. Elle ne serait pas faite si, gagnant 8 ou 10 points, on n'en marquait d'abord que 2, 4 ou 6; on aurait le droit d'avancer le jeton, tant que l'on n'aurait pas touché de dame , on jeté les dés. Elle serait faite si, au jan de retour, on levait par erreur une dame de l'adversaire.
+L'école par moins est faite dès que l'on a touché une dame (V. n° 46); elle l'est aussi quand on a jeté les dés, si elle vient d'un coup de l'adversaire. Elle ne serait pas faite si, gagnant 8 ou 10 points, on n'en marquait d'abord que 2, 4 ou 6; on aurait le droit d'avancer le jeton, tant que l'on n'aurait pas touché de dame, on jeté les dés. Elle serait faite si, au jan de retour, on levait par erreur une dame de l'adversaire.
 
 **168. Écoles de l'adversaire.**
 
@@ -180,7 +178,7 @@ Au jan de retour, à la sortie des dames, en les remettant au talon, si l'on dé
 
 C'est un usage qui a force de loi, qu'un joueur qui gagne des points par le coup qu'il amène, mais qui, par le même coup, donne le trou à l'adversaire, au lieu de marquer les points qu'il gagne, se contente d'avertir qu'il ne marque pas; et cet avertissement équivaut à la marque réelle avec le jeton des points gagnés, car, par la marque du trou, ils seraient effacés aussitôt que marqués. Cet avertissement suffit pour priver l'adversaire de la bredouille des jetons, s'il l'a, et alors il ne peut marquer que le trou simple. Mais si le joueur qui a averti, parce qu'il croyait donner le trou, ne le donne pas, il n'a pas le droit, après avoir joué son coup et lorsqu'il reconnaît son erreur, de reprendre les points qu'il n'a pas marqués. Si l'adversaire a la bredouille des jetons,il la conserve malgré l'avertissement.
 
-Il en est autrement si le joueur qui croit donner le trou le gagne lui-même. Supposons qu'ayant quatre points et l'adver-saire huit, il batte par son coup deux dames à vrai, mais qu'il croie en battre une à vrai et l'autre à faux, et avertisse en conséquence qu'il ne marque pas , alors l'adversaire a le droit de marquer quatre points d'école, qui lui donnent le trou, trou simple, à cause de l'avertissement.
+Il en est autrement si le joueur qui croit donner le trou le gagne lui-même. Supposons qu'ayant quatre points et l'adver-saire huit, il batte par son coup deux dames à vrai, mais qu'il croie en battre une à vrai et l'autre à faux, et avertisse en conséquence qu'il ne marque pas, alors l'adversaire a le droit de marquer quatre points d'école, qui lui donnent le trou, trou simple, à cause de l'avertissement.
 
 **177. Avertissement a tort.**
 
@@ -208,21 +206,21 @@ Elle n'a point lieu. Si l'adversaire fait une école, et si vous ne la marquez p
 
 **183. Fausse école.**
 
-1° Si l'adversaire , croyant que l'on fait une école,la marque, il est mis à l'écdle. Par exemple, on a trois cases dans sa deuxième table, les deux coins sont vides; on jette les dés et on ne marque rien ; l'adversaire, croyant que l'on bat son coin, met à l'é-cole : on efface ces points et on les marque pour soi.
+1° Si l'adversaire, croyant que l'on fait une école,la marque, il est mis à l'écdle. Par exemple, on a trois cases dans sa deuxième table, les deux coins sont vides; on jette les dés et on ne marque rien ; l'adversaire, croyant que l'on bat son coin, met à l'é-cole : on efface ces points et on les marque pour soi.
 
 2° L'adversaire a quatre points, on en a dix ; on amène un coup qui donne quatre points, on marque le trou et deux points de reste; l'adversaire, ne voyant pas comment on gagne ces quatre points, croit qu'il y a école; en conséquence, il démarque le trou, remet à dix points, et, rétablissant sa marque, il ajoute quatre points pour l'école à ceux qu'il avait déjà, et en marque huit : on démontre l'erreur, on reprend son trou avec deux points et on en ajoute quatre.
 
 **184. Ecole de trou.**
 
-' II n'y en a pas si, ayant le trou simple, on le marque double, ou bien, l'ayant double, on le marque simple: car un trou double, comme un simple, est la représentation de douze points; la seule différence, c'est que le premier représente douze points pris sans interruption, et le deuxième avec interruption. Le nombre des points marqués par le trou double et le trou simple étant égal, il n'y a pas école; on fait démarquer un trou lorsqu'on l'a marqué double, ne l'ayant que simple. Mais si, ayant par son coup trois trous, on n'en marque qu'un, ou si, n'ayant droit d'en marquer qu'un ou deux, on en marque trois ou quatre, on fait école de douze points, parce que trois ou quatre trous sont la représentation de vingt-quatre points , et que , ne devant en marquer que douze, on a fait école de douze.
+' II n'y en a pas si, ayant le trou simple, on le marque double, ou bien, l'ayant double, on le marque simple: car un trou double, comme un simple, est la représentation de douze points; la seule différence, c'est que le premier représente douze points pris sans interruption, et le deuxième avec interruption. Le nombre des points marqués par le trou double et le trou simple étant égal, il n'y a pas école; on fait démarquer un trou lorsqu'on l'a marqué double, ne l'ayant que simple. Mais si, ayant par son coup trois trous, on n'en marque qu'un, ou si, n'ayant droit d'en marquer qu'un ou deux, on en marque trois ou quatre, on fait école de douze points, parce que trois ou quatre trous sont la représentation de vingt-quatre points, et que, ne devant en marquer que douze, on a fait école de douze.
 
 Il n'y a pas non plus lieu à l'école lorsque, gagnant par le coup survenu assez de points pour compléter le trou et même au delà, on déplace son jeton, on le remet à la bande s'il n'y a pas de reste, et on marqua ce reste s'il y en a, mais en oubliant de marquer le trou. En effet, c'est le déplacement du jeton posé à la place qu'il doit occuper qui constitue la marque, et non le déplacement du fichet.
 
-Mais si , gagnant un trou sans bouger, on ne le marque pas, l'adversaire a le droit de marquer l'école de ce trou, parce que, dans ce cas, il n'y a point à déplacer le jeton qui marque les points, et en ne marquant pas les douze points qui font un trou, on fait l'école de ce trou.
+Mais si, gagnant un trou sans bouger, on ne le marque pas, l'adversaire a le droit de marquer l'école de ce trou, parce que, dans ce cas, il n'y a point à déplacer le jeton qui marque les points, et en ne marquant pas les douze points qui font un trou, on fait l'école de ce trou.
 
 **185. Obliger de inarquer un trou.**
 
-Lorsqu'on amène un coup qui donne un trou à l'adversaire , si l'on a intérêt à l'obliger de marquer ce trou , on doit l'avertir et lui imposer cette obligation avant que les dés soient jetés pour le coup suivant. Si l'on agit autrement, on est déchu du droit d'obliger à marquer ce trou. Si, pour prévenir l'avertissement, l'adversaire s'empresse trop de jeter les dés, il faut les rompre. Par exemple , si le jeu de l'adversaire est mauvais, s'il lui manque quatre points pour achever un trou , et si on le bat à faux de quatre ou six points, il faut l'obliger à marquer ces points ; par ce moyen il ne peut s'en aller. Si cependant on n'a besoin que des points de cette école, volontaire ou non, pour achever un trou, on doit en profiter, puisque l'on efface tous ses points.
+Lorsqu'on amène un coup qui donne un trou à l'adversaire, si l'on a intérêt à l'obliger de marquer ce trou, on doit l'avertir et lui imposer cette obligation avant que les dés soient jetés pour le coup suivant. Si l'on agit autrement, on est déchu du droit d'obliger à marquer ce trou. Si, pour prévenir l'avertissement, l'adversaire s'empresse trop de jeter les dés, il faut les rompre. Par exemple, si le jeu de l'adversaire est mauvais, s'il lui manque quatre points pour achever un trou, et si on le bat à faux de quatre ou six points, il faut l'obliger à marquer ces points ; par ce moyen il ne peut s'en aller. Si cependant on n'a besoin que des points de cette école, volontaire ou non, pour achever un trou, on doit en profiter, puisque l'on efface tous ses points.
 
 **186. Ecole volontaire.**
 
@@ -232,13 +230,13 @@ Ces écoles sont faites pour empêcher de s'en aller, ou pour conserver la possi
 
 **187. Ecole entière.**
 
-Si l'adversaire fait une école, on n'est pas obligé de la marquer ; mais on ne peut le faire partiellement, on est contraint de la marquer dans sa totalité. Si c'est une école par trop , et qu'on ne juge pas à propos de la marquer, on se contente d'effacer les points qui ont été marqués de trop.
+Si l'adversaire fait une école, on n'est pas obligé de la marquer ; mais on ne peut le faire partiellement, on est contraint de la marquer dans sa totalité. Si c'est une école par trop, et qu'on ne juge pas à propos de la marquer, on se contente d'effacer les points qui ont été marqués de trop.
 
 L'adversaire a huit points avec un jeu si mauvais, qu'il a le plus grand intérêt de ne pas recevoir le trou, mais de le prendre ; on fait une école de quatre points; par erreur, l'adversaire croit qu'elle n'est que de deux points, et les marque : on l'oblige à marquer le trou, en marquant l'école entière.
 
 L'adversaire amène un coup par lequel il bat à vrai et à faux ; il ne s'aperçoit pas qu'il bat à vrai, et joue sans rien marquer. On reconnaît l'école, on marque quatre points seulement, parce qu'on ne voit pas qu'on est battu à faux. L'adversaire prétend qu'on a fait une école de quatre points, que l'on devait en marquer huit, quatre pour l'école et quatre pour être battu à faux ; mais on répond qu'on n'était obligé qu'à marquer les quatre pour être battu à faux.
 
-On a huit points et un jeu très mauvais ; on a le plus grand intérêt à s'en aller. L'adversaire fait une école, volontaire -ou non , en marquant deux points qu'il n'a pas. On efface ces deux points, dont on marque l'école, et l'on se met ainsi à dix points; l'adversaire vous remet à huit points, et en marque quatre. On se contente d'effacer ces quatre points, et l'on se remet à dix, en faisant connaître l'erreur. On n'est pas obligé de marquer quatre points, parce qu'il n'y a pas une école de quatre points, mais bien deux écoles de deux points chacune ; on a le droit de marquer la première et de ne pas marquer la deuxième.
+On a huit points et un jeu très mauvais ; on a le plus grand intérêt à s'en aller. L'adversaire fait une école, volontaire -ou non, en marquant deux points qu'il n'a pas. On efface ces deux points, dont on marque l'école, et l'on se met ainsi à dix points; l'adversaire vous remet à huit points, et en marque quatre. On se contente d'effacer ces quatre points, et l'on se remet à dix, en faisant connaître l'erreur. On n'est pas obligé de marquer quatre points, parce qu'il n'y a pas une école de quatre points, mais bien deux écoles de deux points chacune ; on a le droit de marquer la première et de ne pas marquer la deuxième.
 
 **188. Attendre pour marquer.**
 
@@ -267,13 +265,13 @@ Si l'on marque des points croyant remplir ou conserver, quoiqu'on ne remplisse p
 
 ![figure 19](figure19.png)
 
-Il est très dangereux de vouloir conserver un grand jan trop long- temps, et de se fier sur l'espérance d'amener de petits nom'bres: ou de recevoir des; points : car souvent il arrive que l'on est forcé de rompre. On a ces deux jeux; on fait un 6-6, et croyant n'être pas obligé de rompre , on marque avec les six points que l'on avait et six pour le plein un trou double, et l'on s'en va, parce qu'on donne six points, et parce que le jeu de l'adversaire est bien plus beau, et que vous pouvez être enfilé.
+Il est très dangereux de vouloir conserver un grand jan trop long- temps, et de se fier sur l'espérance d'amener de petits nom'bres: ou de recevoir des; points : car souvent il arrive que l'on est forcé de rompre. On a ces deux jeux; on fait un 6-6, et croyant n'être pas obligé de rompre, on marque avec les six points que l'on avait et six pour le plein un trou double, et l'on s'en va, parce qu'on donne six points, et parce que le jeu de l'adversaire est bien plus beau, et que vous pouvez être enfilé.
 
-Mais aussitôt que l'on a touché ses dames, l'adversaire fait démarquer les deux trous, envoie à l'école de six points Illarqués mal à propos, parce qu'il fallait rompre par une dame de la huitième flèche pour la passer par la neuvième de l'adversaire à sa troisième : ainsi l'adversaire, gagnant six points comme battu à faux et six points pour l'école , marque un trou double. Si l'adversaire, croyant qu'on a gagné, levait une ou plusieurs de ses dames, il ne pourrait envoyer à l'école.
+Mais aussitôt que l'on a touché ses dames, l'adversaire fait démarquer les deux trous, envoie à l'école de six points Illarqués mal à propos, parce qu'il fallait rompre par une dame de la huitième flèche pour la passer par la neuvième de l'adversaire à sa troisième : ainsi l'adversaire, gagnant six points comme battu à faux et six points pour l'école, marque un trou double. Si l'adversaire, croyant qu'on a gagné, levait une ou plusieurs de ses dames, il ne pourrait envoyer à l'école.
 
 **191. Augmentation d'école.**
 
-Cela a lieu quand on a fait une véritable école que l'adversaire a marquée. On croit que l'adversaire s'est trompé, on la démarque et on la marque à son profit. Celui-ci , à son tour, démarque vos points , et ajoute à la première école les points marqués parla deuxième, en vous donnant l'explication de l'erreur. Ce n'est pas en démarquant la juste école qu'on a fait l'augmentation d'école, mais bien en marquant les points de la prétendue fausse école.
+Cela a lieu quand on a fait une véritable école que l'adversaire a marquée. On croit que l'adversaire s'est trompé, on la démarque et on la marque à son profit. Celui-ci, à son tour, démarque vos points, et ajoute à la première école les points marqués parla deuxième, en vous donnant l'explication de l'erreur. Ce n'est pas en démarquant la juste école qu'on a fait l'augmentation d'école, mais bien en marquant les points de la prétendue fausse école.
 
 **195. Ecole des deux jetons.**
 
@@ -303,7 +301,7 @@ Quelque soin que l'on prenne pour prévoir toutes les difficultés qui peuvent s
 
 ![figure 21](figure21.png)
 
-Les deux jeux sont comme ici. Vous amenez 6-6. Vous n'avez qu'un seul moyen de jouer ce coup, c'est de prendre votre coin directement avec les dames de la cinquième flèche; mais vous vous trompez et prenez votre coin par puissance avec les dames de la sixième flèche. L'adversaire, qui s'aperçoit de l'erreur, réforme le coup, et remet les dames sur la sixième flèche. Alors, ne pouvant jouer votre 6-6 autrement, vous prenez votre coin directement. L'adversaire vous oppose la règle qui prive celui qui, pouvant prendre son coin directement , le prend par puissance, du droit dont il n'a pas usé de le prendre directement; mais vous détruisez cette opposition par la loi incontestable qu'un joueur doit jouer son coup, quand c'est possible. L'adversaire veut alors que vous remettiez au coin les dames de la sixième flèche ; mais vous lui répondez qu'il a lui-même rétabli les dames comme elles étaient auparavant, et qu'il vous a forcé à prendre le coin directement.
+Les deux jeux sont comme ici. Vous amenez 6-6. Vous n'avez qu'un seul moyen de jouer ce coup, c'est de prendre votre coin directement avec les dames de la cinquième flèche; mais vous vous trompez et prenez votre coin par puissance avec les dames de la sixième flèche. L'adversaire, qui s'aperçoit de l'erreur, réforme le coup, et remet les dames sur la sixième flèche. Alors, ne pouvant jouer votre 6-6 autrement, vous prenez votre coin directement. L'adversaire vous oppose la règle qui prive celui qui, pouvant prendre son coin directement, le prend par puissance, du droit dont il n'a pas usé de le prendre directement; mais vous détruisez cette opposition par la loi incontestable qu'un joueur doit jouer son coup, quand c'est possible. L'adversaire veut alors que vous remettiez au coin les dames de la sixième flèche ; mais vous lui répondez qu'il a lui-même rétabli les dames comme elles étaient auparavant, et qu'il vous a forcé à prendre le coin directement.
 
 **200. Second exemple.**
 
@@ -322,23 +320,23 @@ remplit avec une dame du talon; oubliant qu'on a tout joué, on joue un as du ta
 
 Même décision que dans les deux autres cas.
 
-### CHAPITRE XI. NOUVELLES LOIS. —PRÉAMBULE NÉCESSAIRE. — DÉS. — POINTS. — DAMES.
+## XI. Nouvelles lois — préambule nécessaire — dés — points — dames
 
-#### § 1. PRÉAMBULE NÉCESSAIRE.
+### 11.1 Préambule nécessaire
 
 **202. Observer les règles.**
 
-Le jeu de trictrac veut être joué avec une rigide observation de toutes les règles que l'usage et la raison ont consacrées ; s'en écarter, c'est ouvrir un vaste champ aux difficultés, aux contestations. Les règles ont des bornes fixes et certaines , l'indulgence et la tolérance n'en ont pas : tel qui vient de se montrer indulgent pour une très légère fauté réclamera le moment d'après, la même faveur pour une faute beaucoup plus grave, et de laquelle dépend quelquefois le sort de la partie. Rien d'ar-bitraire dans les règles; tout l'est, au contraire, dans les modifications qu'on veut y apporter. Si l'on se plaint aujourd'hui de leur sévérité, parce qu'on en est la victime, demain on se louera de cette même sévérité, parce qu'on aura l'occasion de l'appliquer à son avantage. Ce qui doit surtout, dans l'observation des règles, détourner d'adopter un pareil relâchement, c'est qu'il fait nécessairement contracter l'habitude d'une certaine négligence irréfléchie dans la conduite du jeu, laquelle peut devenir très préjudiciable lorsqu'on a l'occasion de jouer avec des personnes qui n'a-doptent pas le même système de tolérance. Cette rigueur dans les lois, et cette gravité dans les peines attachées aux fautes, ont pour but principal de forcer les joueurs a apporter la plus grande attention au jeu. Nous croyons donner un avis très utile à tous les joueurs en les invitant à se soumettre sans répugnance à la rigidité des lois de ce jeu. Il faut se souvenir qu'on doit être plus sévère pour soi que pour les autres.
+Le jeu de trictrac veut être joué avec une rigide observation de toutes les règles que l'usage et la raison ont consacrées ; s'en écarter, c'est ouvrir un vaste champ aux difficultés, aux contestations. Les règles ont des bornes fixes et certaines, l'indulgence et la tolérance n'en ont pas : tel qui vient de se montrer indulgent pour une très légère fauté réclamera le moment d'après, la même faveur pour une faute beaucoup plus grave, et de laquelle dépend quelquefois le sort de la partie. Rien d'ar-bitraire dans les règles; tout l'est, au contraire, dans les modifications qu'on veut y apporter. Si l'on se plaint aujourd'hui de leur sévérité, parce qu'on en est la victime, demain on se louera de cette même sévérité, parce qu'on aura l'occasion de l'appliquer à son avantage. Ce qui doit surtout, dans l'observation des règles, détourner d'adopter un pareil relâchement, c'est qu'il fait nécessairement contracter l'habitude d'une certaine négligence irréfléchie dans la conduite du jeu, laquelle peut devenir très préjudiciable lorsqu'on a l'occasion de jouer avec des personnes qui n'a-doptent pas le même système de tolérance. Cette rigueur dans les lois, et cette gravité dans les peines attachées aux fautes, ont pour but principal de forcer les joueurs a apporter la plus grande attention au jeu. Nous croyons donner un avis très utile à tous les joueurs en les invitant à se soumettre sans répugnance à la rigidité des lois de ce jeu. Il faut se souvenir qu'on doit être plus sévère pour soi que pour les autres.
 
-#### § 2. LES DÉS.
+### 11.2 Les dés
 
 **203. Dé couvert, hors du tablier.**
 
 Un dé sur l'autre, ou sur la bande, ou hors du tablier, rend le coup nul ; on jette de nouveau les dés.
 
-**204. Dé incliné , épreuve.**
+**204. Dé incliné, épreuve.**
 
-Si un dé est incliné, de manière à ne pas porter sur sa base , le coup n'est pas bon. Si le dé est incliné sur les jetons, il est bon. Lorsqu'un dé est posé sur une dame contiguë à la bande et qu'il s'appuie sur cette bande, pour connaître s'il est bon, celui qui a intérêt à ce qu'il le soit doit écarter de la bande, avec précaution, la dame sur laquelle le dé est posé , et la tirer en avant : si le dé reste sur la dame, il est bon ; s'il tombe, il est mauvais.
+Si un dé est incliné, de manière à ne pas porter sur sa base, le coup n'est pas bon. Si le dé est incliné sur les jetons, il est bon. Lorsqu'un dé est posé sur une dame contiguë à la bande et qu'il s'appuie sur cette bande, pour connaître s'il est bon, celui qui a intérêt à ce qu'il le soit doit écarter de la bande, avec précaution, la dame sur laquelle le dé est posé, et la tirer en avant : si le dé reste sur la dame, il est bon ; s'il tombe, il est mauvais.
 
 **205. Dé pirouettant.**
 
@@ -350,9 +348,9 @@ Le mieux est de laisser tourner le dé jusqu'à ce qu'il s'arrête. Si cela arri
 
 On ne doit pas relever les dés avant que le coup soit joué, ou au moins que les nombres aient été nommés par celui qui a jeté les dés.
 
-Il ne faut pas jeter les dés avant que l'adversaire ait joué son coup, car il pourrait le jouer sur des nombres connus et avec sécurité. On dit qu'il y a des joueurs qui affectent, en jouant, une grande lenteur, pour profiter de la vivacité et de l'impatience de l'autre joueur. Dans ce cas , il faut avoir beaucoup de patience pour les corriger de leur lenteur. On- ne doit pas couvrir ses dés avec la main; c'est défendu.
+Il ne faut pas jeter les dés avant que l'adversaire ait joué son coup, car il pourrait le jouer sur des nombres connus et avec sécurité. On dit qu'il y a des joueurs qui affectent, en jouant, une grande lenteur, pour profiter de la vivacité et de l'impatience de l'autre joueur. Dans ce cas, il faut avoir beaucoup de patience pour les corriger de leur lenteur. On- ne doit pas couvrir ses dés avec la main; c'est défendu.
 
-#### §3. LES POINTS.
+### 11.3 Les points
 
 **207. Points gagnés, points donnés (V. n° 152, 153).**
 
@@ -364,11 +362,11 @@ Le joueur qui, par le même coup, est battu à vrai et à faux, ne doit pas marq
 
 **209. Points à effacer (V. n. 148).**
 
-En marquant un trou , il faut effacer les points marqués par l'adversaire. Si on ne le faisait pas, on s'exposerait à ne pas profiter de l'école qu'il peut faire. S'il a quatre points, et si, par le coup qui donne le trou, il est battu à faux de quatre points, il est possible qu'il ne s'en aperçoive pas : il faut donc démarquer les points de l'adversaire.
+En marquant un trou, il faut effacer les points marqués par l'adversaire. Si on ne le faisait pas, on s'exposerait à ne pas profiter de l'école qu'il peut faire. S'il a quatre points, et si, par le coup qui donne le trou, il est battu à faux de quatre points, il est possible qu'il ne s'en aperçoive pas : il faut donc démarquer les points de l'adversaire.
 
 Celui qui donne le trou ne doit pas non plus s'empresser d'effacer lui-même ses, points ; cela peut fournir matière à quelques erreurs. Le joueur qui marque le trou, ne voyant pas de points marqués par l'adversaire, peut croire qu'il doit le marquer double.
 
-#### §4. LES DAMES.
+### 11.4 Les dames
 
 **210. Dame sur une autre.**
 
@@ -376,11 +374,11 @@ Quand une dame a été enlevée de sa place, et posée sur une autre dame (ce qu
 
 **211. Dame mal posée.**
 
-Lorsqu'on abandonne une dame sur une flèche autre que celle où le nombre doit aboutir, soit en deçà, soit au delà, cette dame reste entièrement à la discrétion de l'adversaire. Il peut, selon que son intérêt l'exige, ou la laisser à la place à laquelle elle est posée, ou la mettre à sa vraie place, ou même obliger de jouer avec cette dame le coup entier tout d'une, s'il y a possibilité. Mais ce droit de faire jouer tout d'une n'a lieu que dans le cas seulement où cette dame aurait été portée au delà du nombre le plus fort : car, si elle eut été posée en deçà, il ne resterait que le choix, ou de la laisser à la place à laquelle elle a été posée , ou de la mettre à celle où elle aboutit véritablement. Si l'un des nombres avait d'abord été joué régulièrement, on ne pourrait exiger que le coup entier fût joué tout d'une (V. n° 201).
+Lorsqu'on abandonne une dame sur une flèche autre que celle où le nombre doit aboutir, soit en deçà, soit au delà, cette dame reste entièrement à la discrétion de l'adversaire. Il peut, selon que son intérêt l'exige, ou la laisser à la place à laquelle elle est posée, ou la mettre à sa vraie place, ou même obliger de jouer avec cette dame le coup entier tout d'une, s'il y a possibilité. Mais ce droit de faire jouer tout d'une n'a lieu que dans le cas seulement où cette dame aurait été portée au delà du nombre le plus fort : car, si elle eut été posée en deçà, il ne resterait que le choix, ou de la laisser à la place à laquelle elle a été posée, ou de la mettre à celle où elle aboutit véritablement. Si l'un des nombres avait d'abord été joué régulièrement, on ne pourrait exiger que le coup entier fût joué tout d'une (V. n° 201).
 
 **212. Dame abandonnée.**
 
-Lorsque, pour jouer l'un des nombres amenés, on a posé et abandonné une dame sur une flèche, et qu'on se repent ensuite de n'avoir pas joué préférablement l'autre nombre avec cette dame, on n'y est plus admis; elle doit rester à la place où elle a été posée pour jouer le premier nombre, et elle n'en peut sortir que pour jouer tout d'une. Ainsi, par exemple, si, ayant amené 5-3 , l'on a d'abord joué le trois avec une dame qu'on a abandonnée sur la flèche où ce nombre aboutissait, et qu'on reconnaisse qu'il aurait été préférable de jouer le cinq avec cette dame, on ne le peut plus.
+Lorsque, pour jouer l'un des nombres amenés, on a posé et abandonné une dame sur une flèche, et qu'on se repent ensuite de n'avoir pas joué préférablement l'autre nombre avec cette dame, on n'y est plus admis; elle doit rester à la place où elle a été posée pour jouer le premier nombre, et elle n'en peut sortir que pour jouer tout d'une. Ainsi, par exemple, si, ayant amené 5-3, l'on a d'abord joué le trois avec une dame qu'on a abandonnée sur la flèche où ce nombre aboutissait, et qu'on reconnaisse qu'il aurait été préférable de jouer le cinq avec cette dame, on ne le peut plus.
 
 **213. Dame dans une table de l'adversaire.**
 
@@ -408,19 +406,19 @@ Si l'adversaire amène un coup qui batte à faux la dame de la première table s
 
 Si l'adversaire bat à vrai cette dame, il peut exiger que la rentrée n'ait lieu qu'après le coup marqué et joué.
 
-Il est une autre spéculation qu'il faut empêcher ; mais ceci ne peut être compris que quand on aura étudié le chapitre suivant. Un joueur qui n'a que quatorze dames, et dont le jeu est dans un état de ruine qui présente les apparences d'une grande bredouille (je dirai ce que c'est dans le chapitre suivant) presque inévitable, s'apercevant de l'absence de sa quinzième dame, pourrait dissimuler, et attendre, pour la réclamer, une occasion où sa rentrée lui fournirait un moyen de s'opposer efficacement au succès de la grande bredouille dont il est menacé. Cette occasion aurait lieu lorsque, ayant déjà les flèches sixième, septième, huitième, vides, il ne lui resterait que les trois dernières cases, parce qu'alors, faisant rentrer sa dame, et la plaçant en surcase sur la neuvième flèche (V. n° 95), il fortifierait par là l'obstacle que ces trois dernières cases opposent au succès des grandes bredouilles , dont elles sont souvent l'écueil, lorsqu'on peut les conserver. C'est ce que la règle a sagement prévu en voulant que la dame rentrante ne puisse occuper d'autre place que le coin, lorsque toutes les dames se trouvent déjà passées dans la deuxième table.
+Il est une autre spéculation qu'il faut empêcher ; mais ceci ne peut être compris que quand on aura étudié le chapitre suivant. Un joueur qui n'a que quatorze dames, et dont le jeu est dans un état de ruine qui présente les apparences d'une grande bredouille (je dirai ce que c'est dans le chapitre suivant) presque inévitable, s'apercevant de l'absence de sa quinzième dame, pourrait dissimuler, et attendre, pour la réclamer, une occasion où sa rentrée lui fournirait un moyen de s'opposer efficacement au succès de la grande bredouille dont il est menacé. Cette occasion aurait lieu lorsque, ayant déjà les flèches sixième, septième, huitième, vides, il ne lui resterait que les trois dernières cases, parce qu'alors, faisant rentrer sa dame, et la plaçant en surcase sur la neuvième flèche (V. n° 95), il fortifierait par là l'obstacle que ces trois dernières cases opposent au succès des grandes bredouilles, dont elles sont souvent l'écueil, lorsqu'on peut les conserver. C'est ce que la règle a sagement prévu en voulant que la dame rentrante ne puisse occuper d'autre place que le coin, lorsque toutes les dames se trouvent déjà passées dans la deuxième table.
 
 La question que l'on vient de résoudre fait voir combien il est utile de placer ses dames en trois piles, en commençant la partie et à chaque relevé, pour reconnaître si leur nombre est complet. Il y a une grande différence entre cette question et celle où il y a seize dames. Le premier cas n'entraîne pas, comme le dernier, la nullité de ce qui a précédé; il ne produit pas même la nullité du relevé courant.
 
 **215. Une dame de plus.**
 
-Lorsqu'un joueur est reconnu jouer avec seize dames, l'adversaire a le choix, ou d'annuler toute la partie, soit qu'on la joue en douze trous, soit qu'on la joue à écrire (Voyez le chapitre suivant), ou de la continuer dans l'état où elle se trouve, en supprimant la seizième dame. Cette suppression se fait en ôtant une dame du talon , s'il y en a ; s'il n'y en a pas, en ôtant, au choix de l'adversaire, une de celles placées dans sa première table; et si la première table est vide, en ôtant, toujours au choix de l'adversaire, une de celles qui se trouvent en surcase dans la deuxième table.
+Lorsqu'un joueur est reconnu jouer avec seize dames, l'adversaire a le choix, ou d'annuler toute la partie, soit qu'on la joue en douze trous, soit qu'on la joue à écrire (Voyez le chapitre suivant), ou de la continuer dans l'état où elle se trouve, en supprimant la seizième dame. Cette suppression se fait en ôtant une dame du talon, s'il y en a ; s'il n'y en a pas, en ôtant, au choix de l'adversaire, une de celles placées dans sa première table; et si la première table est vide, en ôtant, toujours au choix de l'adversaire, une de celles qui se trouvent en surcase dans la deuxième table.
 
 **216. Fausse case.**
 
-Si, pour faire une case, on enlève deux dames dont l'une n'aboutit pas à cette case, et qu'on s'aperçoive de l'erreur avant de les avoir posées et abandonnées, on est, à la vérité, forcé de les jouer; mais on a le choix de le faire de la manière la moins désavantageuse. Si, au contraire , elles ont été posées et abandonnées Tune et l'autre sur la flèche où l'on a l'intention de faire case, l'adversaire a le droit de les faire jouer à son plus grand avantage, soit en les mettant l'une et l'autre en surcase, soit en les étalant découvertes sur deux flèches vides, soit en faisant jouer avec une le coup tout d'une, et remettant l'autre à la place d'où elle est sortie , quand l'une des deux est au delà du nombre le plus fort amené : par exemple , si l'on avait joué 4-3 au lieu de 5-4, on ne pourrait pas être obligé de jouer tout d'une, parce qu'aucune dame n'est au delà du plus fort nombre. En vain celui qui a commis la faute objecterait-il qu'un des deux nombres se trouve bien joué , et aboutit réellement par une des dames à la flèche en question, et que le droit arbitraire de l'adversaire ne peut et" ne doit s'exercer que sur la seule dame qui ne peut y aboutir par l'autre nombre. A cette objection on oppose que les deux dames , ayant été enlevées , placées et abandonnées ensemble, ont concouru à la même faute d'une manière inséparable, et qu'elles doivent être, l'une comme l'autre, à la disposition de l'adversaire.
+Si, pour faire une case, on enlève deux dames dont l'une n'aboutit pas à cette case, et qu'on s'aperçoive de l'erreur avant de les avoir posées et abandonnées, on est, à la vérité, forcé de les jouer; mais on a le choix de le faire de la manière la moins désavantageuse. Si, au contraire, elles ont été posées et abandonnées Tune et l'autre sur la flèche où l'on a l'intention de faire case, l'adversaire a le droit de les faire jouer à son plus grand avantage, soit en les mettant l'une et l'autre en surcase, soit en les étalant découvertes sur deux flèches vides, soit en faisant jouer avec une le coup tout d'une, et remettant l'autre à la place d'où elle est sortie, quand l'une des deux est au delà du nombre le plus fort amené : par exemple, si l'on avait joué 4-3 au lieu de 5-4, on ne pourrait pas être obligé de jouer tout d'une, parce qu'aucune dame n'est au delà du plus fort nombre. En vain celui qui a commis la faute objecterait-il qu'un des deux nombres se trouve bien joué, et aboutit réellement par une des dames à la flèche en question, et que le droit arbitraire de l'adversaire ne peut et" ne doit s'exercer que sur la seule dame qui ne peut y aboutir par l'autre nombre. A cette objection on oppose que les deux dames, ayant été enlevées, placées et abandonnées ensemble, ont concouru à la même faute d'une manière inséparable, et qu'elles doivent être, l'une comme l'autre, à la disposition de l'adversaire.
 
-La rigueur de cette règle , et les dangers auxquels exposent les fausses cases, font connaître avec quel soin et quelle attention on doit chercher à se garantir de cette faute, qui, presque toujours, est l'effet d'une trop grande précipitation. C'est par cette raison que la prudence a suggéré à certains joueurs la très sage et très utile précaution, lorsqu'ils ont une case à faire, de ne lever et poser les dames que l'une après l'autre. Par ce moyen, ils atténuent les suites de l'erreur qu'ils pourraient commettre. En effet, si cette erreur a lieu sur la première dame posée, il est à présumer qu'ils s'en apercevront avant d'avoir placé et abandonné la deuxième, et alors ils joueront cette deuxième dame de manière, sinon à corriger entièrement cette erreur, du moins à la rendre moins fatale. Si, au contraire, la première se trouve posée à sa vraie place , et qu'on se trompe seulement sur la deuxième, la peine à subir ne peut tomber que sur la deuxième, l'adversaire n'ayant aucun droit à exercer sur la première, qui séparément a été bien jouée, et à l'égard de laquelle tout est consommé. Un joueur qui a couvert une demi-case avec une dame qui n'y aboutit pas est tenu de mettre cette dame à la place qu'elle doit occuper; mais il conserve le droit de couvrir cette demi-case avec la dame qui y aboutit par le nombre qui est à jouer. Quand un joueur ne s'aperçoit de la fausse case qu'après avoir jeté les dés, il ne peut réclamer; le coup est consommé.
+La rigueur de cette règle, et les dangers auxquels exposent les fausses cases, font connaître avec quel soin et quelle attention on doit chercher à se garantir de cette faute, qui, presque toujours, est l'effet d'une trop grande précipitation. C'est par cette raison que la prudence a suggéré à certains joueurs la très sage et très utile précaution, lorsqu'ils ont une case à faire, de ne lever et poser les dames que l'une après l'autre. Par ce moyen, ils atténuent les suites de l'erreur qu'ils pourraient commettre. En effet, si cette erreur a lieu sur la première dame posée, il est à présumer qu'ils s'en apercevront avant d'avoir placé et abandonné la deuxième, et alors ils joueront cette deuxième dame de manière, sinon à corriger entièrement cette erreur, du moins à la rendre moins fatale. Si, au contraire, la première se trouve posée à sa vraie place, et qu'on se trompe seulement sur la deuxième, la peine à subir ne peut tomber que sur la deuxième, l'adversaire n'ayant aucun droit à exercer sur la première, qui séparément a été bien jouée, et à l'égard de laquelle tout est consommé. Un joueur qui a couvert une demi-case avec une dame qui n'y aboutit pas est tenu de mettre cette dame à la place qu'elle doit occuper; mais il conserve le droit de couvrir cette demi-case avec la dame qui y aboutit par le nombre qui est à jouer. Quand un joueur ne s'aperçoit de la fausse case qu'après avoir jeté les dés, il ne peut réclamer; le coup est consommé.
 
 De tout ceci on doit conclure combien il est essentiel de ne pas perdre de vue le jeu de l'adversaire pendant qu'il joue le coup qu'il vient d'amener, afin de pouvoir connaître et rectifier à temps les erreurs qu'il peut commettre. On ne peut exercer cette surveillance active et réciproque qu'en s'assujettissant, de part et d'autre, à ne jeter les dés qu'après que l'adversaire a achevé de jouer son coup.
 

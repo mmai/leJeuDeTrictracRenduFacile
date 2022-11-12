@@ -2,12 +2,10 @@
 
 ## Préface à la version électronique
 
-Ceci est une transcription du dernier traité sur le jeu de Trictrac, [écrit par Julien Lelasseux-Lafosse en 1852](https://fr.wikipedia.org/wiki/Trictrac#Trait%C3%A9s_secondaires). Elle a été effectuée à partir des versions numérisées disponibles sur le site de la BNF Gallica : 
+Ceci est une transcription du livre _Le Jeu de Trictrac rendu facile_ écrit par Julien Lelasseux-Lafosse en 1852, et [considéré comme le dernier traité significatif sur le jeu de Trictrac](https://fr.wikipedia.org/wiki/Trictrac#Trait%C3%A9s_secondaires). Elle a été effectuée à partir des versions numérisées disponibles sur le site de la BNF Gallica : 
 
 - [Tome 1 sur gallica.bnf.fr](https://gallica.bnf.fr/ark:/12148/bpt6k98089663.r=%22le%20jeu%20de%20trictrac%20rendu%20facile%22?rk=21459;2)
 - [Tome 2 sur gallica.bnf.fr](https://gallica.bnf.fr/ark:/12148/bpt6k98089648.r=%22le%20jeu%20de%20trictrac%20rendu%20facile%22?rk=42918;4)
-
-Les tables des matières ont étés omises.
 
 ## Page de titre 
 
@@ -21,7 +19,7 @@ OUVRAGE CONTENANT DES RÈGLES ET DES TABLES ENTIÈREMENT NOUVELLES, SERVANT A CA
 
 PAR J. L. Ancien élève de l'École Polytechnique, officier d'artillerie, professeur de mathématiques à l'École militaire de La Flèche.
 
-## NOTICE 
+## Notice
 
 L'ouvrage n'a été composé que dans le but de venir en aide à la Communauté de la Providence de la Flèche, à laquelle il en a été fait don par son auteur, qui en a fait imprimer à ses frais une édition à mille exemplaires.
 

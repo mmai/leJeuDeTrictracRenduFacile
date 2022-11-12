@@ -20,18 +20,46 @@ nav:
     - Section 1: tome1/section1.md
     - Section 2: tome1/section2.md
     - Section 3: tome1/section3.md
-# - Tome 2: index.md
+  - Tome 2:
+    - Section 4: tome2/section4.md
+    - Section 5: tome2/section5.md
 
 # -----  Config for Material theme ------
 theme:
   name: material
   language: fr
+  features:
+    # - announce.dismiss
+    # - content.code.annotate
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+
   analytics:
     gtag: G-7P8EEWM1YZ
 extra:
   analytics:
     provider: google
     property: G-7P8EEWM1YZ
+  social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/mmai
+      - icon: fontawesome/brands/mastodon
+        link: https://mamot.fr/@mmai
 # ----- Config for Readthedoc theme ------
 # theme:
   # name: readthedocs

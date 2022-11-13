@@ -12,17 +12,15 @@ docs_dir: src/
 site_dir: html/
 
 nav:
-  - Home: index.md
-  - Tome 1:
-    - Préface: tome1/preface.md
-    - Avertissement: tome1/avertissement.md
-    - Introduction: tome1/introduction.md
-    - Section 1: tome1/section1.md
-    - Section 2: tome1/section2.md
-    - Section 3: tome1/section3.md
-  - Tome 2:
-    - Section 4: tome2/section4.md
-    - Section 5: tome2/section5.md
+  - Présentation: index.md
+  - Préface: tome1/preface.md
+  - Avertissement: tome1/avertissement.md
+  - Introduction: tome1/introduction.md
+  - Section 1: tome1/section1.md
+  - Section 2: tome1/section2.md
+  - Section 3: tome1/section3.md
+  - Section 4: tome2/section4.md
+  - Section 5: tome2/section5.md
 
 # -----  Config for Material theme ------
 theme:
@@ -39,7 +37,7 @@ theme:
     # - navigation.instant
     # - navigation.prune
     - navigation.sections
-    - navigation.tabs
+    # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking

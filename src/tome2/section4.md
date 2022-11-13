@@ -1,12 +1,3 @@
-/!\ En cours de transcription /!\ 
-
-ERRATA
-
-— 202 — 6, manières, lisez : manières,.
-— 225 — 4, lisez : on y est parvenu.
-— 237 — 16, effacez : deux.
-
-
 # SECTION IV. ARITHMÉTIQUE DU TRICTRAC
 
 Règles pour calculer facilement à chaque coup la meilleure manière de jouer. — Règles pour connaître combien il y a de chances en deux dés, et voir promptement, à chaque instant, combien il y en a pour et contre soi.
@@ -241,7 +232,7 @@ On amène 6-5 ; il faut rompre, et le mieux est de jouer aux flèches dixième e
 
 **299. Place d'une dame au retour.**
 
-Si, par suite d'un petit jan ou de toute autre circonstance, on est forcé de passer une dame dans la première table de l'adversaire , faut-il la laisser à la cinquième flèche, ou l'avancer près du talon ? Si l'on amène 4-2, faut-il jouer le 4 de la cinquième flèche à la première ? 
+Si, par suite d'un petit jan ou de toute autre circonstance, on est forcé de passer une dame dans la première table de l'adversaire , faut-1l la laisser à la cinquième flèche, ou l'avancer près du talon ? Si l'on amène 4-2, faut-1l jouer le 4 de la cinquième flèche à la première ? 
 
 ![figure 27](figure27.png)
 
@@ -331,7 +322,7 @@ La surcase du talon couvre la première demi-case par le nombre 4; la surcase de
 
 **316. Ordre inverse.**
 
-La surcase du talon couvre la deuxième demi-case j la première demi-case est couverte par la surcase de la première flèche et par celles des flèches 2e et 3e ce qui donne 5-3, 5-2, 5-1. La deuxième demi-case est couverte par la surcase de la première flèche, la première demi-case l'est par la surcase de la deuxième flèche et par celle de la troisième , ce qui fait 4-2, 4-1. La surcase de la deuxième flèche couvre la deuxième demi-case, celle de la troisième flèche couvre la première demi case, ce qui fait 3-i. L'ordre inverse donne 5-3, 5-2,5-1,4-2, 4-.1,3-1, 6 coups.
+La surcase du talon couvre la deuxième demi-case j la première demi-case est couverte par la surcase de la première flèche et par celles des flèches 2e et 3e ce qui donne 5-3, 5-2, 5-1. La deuxième demi-case est couverte par la surcase de la première flèche, la première demi-case l'est par la surcase de la deuxième flèche et par celle de la troisième , ce qui fait 4-2, 4-1. La surcase de la deuxième flèche couvre la deuxième demi-case, celle de la troisième flèche couvre la première demi case, ce qui fait 3-1. L'ordre inverse donne 5-3, 5-2,5-1,4-2, 4-.1,3-1, 6 coups.
 
 **317. Ordre naturel. Ordre inverse.**
 
@@ -351,7 +342,7 @@ _Le nombre des chances qui remplissent est le double du nombre des surcases mult
 
 Il faut combiner les surcases pour couvrir les deux demi-cases dans l'ordre naturel et dans l'ordre inverse. Il y a autant de doublets que de couples de flèches semblablement placées avant les deux demi-cases et ayant une ou deux surcases.
 
-### 18.3. Ayant deux cases a faire, faut-il faire une case ou deux demi-cases ?
+### 18.3. Ayant deux cases a faire, faut-1l faire une case ou deux demi-cases ?
 
 **321. Solution.**
 
@@ -371,11 +362,11 @@ Donc _il faut faire les deux demi-cases de préférence à une case_.
 
 Si l'adversaire a son coin et un jeu avancé, ou 8 points, et la possibilité d'en prendre 4 en battant, on fera une case, celle qui laissera des surcases sur le plus grand nombre de flèches. On en ferait une , et ce serait la quatrième , si les dames étaient placées, trois au talon, quatre à chacune des flèches première, deuxième, troisième, et si l'on amenait 2-1, car cette case laisserait des surcases sur 4 flèches, et une double surcase, ce qui donne i3 chances; au lieu que les deux demi-cases ne laissent de surcases que sur 3 flèches, et il y a une double surcase qui ne sert pas, en sorte que l'on a 12 chances seulement. Si une dame de la première flèche est portée au talon, les deux demi-cases donnent 2 fois 3 multiplié par 3 moins 1, plus 4, moins 2, 14 chances.
 
-### 18.4. Ayant une case a faire, faut-il défaire une case ?
+### 18.4. Ayant une case a faire, faut-1l défaire une case ?
 
 **323. Solution.**
 
-Il faut encore prendre les règles des n˚291 et 319. Si l'on a 1-1, on joue de la deuxième flèche à la troisième, et de la quatrième à la cinquième ; le nombre des chances est 2 fois 4 multiplié par 4 moins 1, plus 2, moins 3, moins 2, ou 26 moins 5, 21 chances. Si l'on joue i-i de la, deuxième flèche à la troisième, on a 4 fois 4 moins 1, plus 1, i3 chances, 8 de moins.
+Il faut encore prendre les règles des n˚291 et 319. Si l'on a 1-1, on joue de la deuxième flèche à la troisième, et de la quatrième à la cinquième ; le nombre des chances est 2 fois 4 multiplié par 4 moins 1, plus 2, moins 3, moins 2, ou 26 moins 5, 21 chances. Si l'on joue i-1 de la, deuxième flèche à la troisième, on a 4 fois 4 moins 1, plus 1, i3 chances, 8 de moins.
 
 ![figure 32](figure32.png)
 
@@ -393,7 +384,7 @@ Il ne faut pas défaire la case si l'adversaire a la possibilité de prendre 1 o
 
 Avec le même nombre de flèches ayant des surcases, pourquoi une case a faire a-t-elle moins de chances que deux demi-cases ? En se reportant aux deux règles des nos 291 et 319, on voit que dans chacune il faut multiplier le nombre des surcases par ce nombre moins un ; mais dans la deuxième il faut en outre multiplier ce produit par 2. Il est vrai qu'il y a des chances à retrancher quand il y a des surcases contiguës, surtout s'il y a en 4 : car alors on retranche des chances pour les doublets et pour les chances communes, mais aussi le double produit devient plus considérable.
 
-### 18.5. Ayant quatre cases et demie, faut-il faire une case ou une demi-case?
+### 18.5. Ayant quatre cases et demie, faut-1l faire une case ou une demi-case?
 
 **326. Solution.**
 
@@ -415,7 +406,7 @@ Pour battre c'est comme pour remplir : s'il suffit de battre d'une façon, on em
 
 **329. Progression des chances.**
 
-Si l'on veut trouver le nombre des chances qui battent à vrai une dame placée dans la deuxième table de l'adversaire qui a fait les cases qui suivent cette dame, il ne faut prendre que les chances directes. Ainsi 2 ne donnent que 11 chances : 6-2, 5-2, 4-2, 3-2, 2-2, 2 - 1 . Si le coin seul bat la dame placée à la dixième flèche, on a 11 chances. Si l'on a une case à la dixième flèche, on bat aussi par le 3 ; mais il n'ajoute que 9 chances, parce que 3-2 est déjà compté. Une autre case à la neuvième flèche bat par les 4 , qui n'ajoutent que 7 chances , car il ne faut plus compter 4-3, 4-2. A la huitième flèche une case bat du 5, qui ajoute 5 chances, vu qu'il y a déjà 5-4, 5-3, 5-2. A la septième flèche une case bat du .6, qui n'ajoute que les 3 chances 6-6, 6-i. Le nombre des chances qui battent est donc n, plus 9, plus 7, plus 5, plus 3, ou 35 chances; ces nombres vont en diminuant de 2. On a successivement 11, 20, 27, 32, 35.
+Si l'on veut trouver le nombre des chances qui battent à vrai une dame placée dans la deuxième table de l'adversaire qui a fait les cases qui suivent cette dame, il ne faut prendre que les chances directes. Ainsi 2 ne donnent que 11 chances : 6-2, 5-2, 4-2, 3-2, 2-2, 2 - 1 . Si le coin seul bat la dame placée à la dixième flèche, on a 11 chances. Si l'on a une case à la dixième flèche, on bat aussi par le 3 ; mais il n'ajoute que 9 chances, parce que 3-2 est déjà compté. Une autre case à la neuvième flèche bat par les 4 , qui n'ajoutent que 7 chances , car il ne faut plus compter 4-3, 4-2. A la huitième flèche une case bat du 5, qui ajoute 5 chances, vu qu'il y a déjà 5-4, 5-3, 5-2. A la septième flèche une case bat du .6, qui n'ajoute que les 3 chances 6-6, 6-1. Le nombre des chances qui battent est donc n, plus 9, plus 7, plus 5, plus 3, ou 35 chances; ces nombres vont en diminuant de 2. On a successivement 11, 20, 27, 32, 35.
 
 **330. Battre à faux.**
 
@@ -557,11 +548,11 @@ Lorsqu'il se présente ainsi deux manières de jouer un coup important, il faut 
 
 **356. Revirades.**
 
-L'adversaire a des cases à ses flèches première, quatrième et dixième ; on a une dame à sa cinquième flèche et à la septième, deux à la sixième. On amène 5-i ; on abat le 5 et on joue Pas de la sixième flèche à la septième ; on n'est battu que par la somme 7,6 chances. Si l'on eût joué l'as du talon, la dame de la septième flèche eût eu 16 chances pour être battue.
+L'adversaire a des cases à ses flèches première, quatrième et dixième ; on a une dame à sa cinquième flèche et à la septième, deux à la sixième. On amène 5-1 ; on abat le 5 et on joue Pas de la sixième flèche à la septième ; on n'est battu que par la somme 7,6 chances. Si l'on eût joué l'as du talon, la dame de la septième flèche eût eu 16 chances pour être battue.
 
-L'adversaire a son plein ; on a le sien moins la case du coin ; on a une dame surnuméraire à sa sixième flèche et les autres dans sa première table- Si l'on amène 5-5 ou 5-4, 5-3, 5-2, 5-i, on fait la revirade en prenant le coin ; il était battu par 25 chances, dont 5 donnaient 6 points.
+L'adversaire a son plein ; on a le sien moins la case du coin ; on a une dame surnuméraire à sa sixième flèche et les autres dans sa première table- Si l'on amène 5-5 ou 5-4, 5-3, 5-2, 5-1, on fait la revirade en prenant le coin ; il était battu par 25 chances, dont 5 donnaient 6 points.
 
-L'adversaire a son plein et ses dames surnuméraires aux flèches première, quatrième et sixième ; on a le sien moins la case de la dixième flèche; les cinq dames surnuméraires sont au talon et aux flèches troisième, quatrième, cinquième, sixième. On amène 4-4; on fait la revirade qui, donne pour remplir 6, 3, 2, 1, ou 32 chances ; l'adversaire peut prendre 10 points par 6 6, 8 par 6-3, 6-2, 6-i ; 4 par 6-5, 6-4. En jouant tout d'une du talon à la huitième flèche, on a 12 chances pour remplir; pour battre, l'adversaire a les 6 et les 5, moins 6-1 et 5-i, 16 chances. On doit revirer à cause des 32 chances, au lieu de 12, pour remplir, et d'après le n. 355.
+L'adversaire a son plein et ses dames surnuméraires aux flèches première, quatrième et sixième ; on a le sien moins la case de la dixième flèche; les cinq dames surnuméraires sont au talon et aux flèches troisième, quatrième, cinquième, sixième. On amène 4-4; on fait la revirade qui, donne pour remplir 6, 3, 2, 1, ou 32 chances ; l'adversaire peut prendre 10 points par 6 6, 8 par 6-3, 6-2, 6-1 ; 4 par 6-5, 6-4. En jouant tout d'une du talon à la huitième flèche, on a 12 chances pour remplir; pour battre, l'adversaire a les 6 et les 5, moins 6-1 et 5-1, 16 chances. On doit revirer à cause des 32 chances, au lieu de 12, pour remplir, et d'après le n. 355.
 
 L'adversaire a son plein moins la case de la huitième flèche, et ses dames surnuméraires sont : deux à la quatrième flèche, une aux flèches troisième , cinquième , onzième, et il a 8 points. On a son plein moins la case du coin ; les dames surnuméraires sont : trois au talon, une aux flèches quatrième et neuvième. On amène 4-2. Si l'on fait la revirade, l'adversaire gagne 8 points par 4 chances, 6 par 4, 4 par en tout 18 chances, donnant 4 points. Si l'on ne prend pas le coin , il est battu par 24 chances, qui donnent 4 points; 4 en donnent 6. En prenant le coin , on n'a que la moitié des chances contre soi, et en ne le prenant pas, on en a les deux tiers; d'ailleurs le coin peut être battu plusieurs fois. On a 17 chances pour remplir. Donc _il faut revirer_.
 
@@ -579,11 +570,11 @@ Avec les deux jeux de la fig. 42 on amène 3-2 ; il faut jouer le 2 de la troisi
 
 Il faut mettre dedans, à moins que l'adversaire n'ait bien des chances pour prendre le trou. Soit le jeu de la fig. 41 : on n'a pour remplir que 6 chances. Si l'on amène 5-4, on met dedansen jouant tout d'une du talon,ce qui donne, pour remplir, 9, 6,4,3, 32 chances. En jouant de la troisième flèche à la huitième et de la cinquième à la neuvième, on a pour remplir 9, 3 et 1 , 22 chances, 10 de moins.
 
-Avec les deux jeux de la fig. 43 ci-après, on amène 5-5 ; on joue tout d'une du talon ; on a pour remplir 8,7,6,2,29 chances. L'adversaire gagne 10 points par 6-6; 8 par 6-5, 6-4, 6-2,2-2; 4 par les autres chances; 6-3, 5-3, 3-i, 2-1, donnent 2 points; 1-1 bat à faux. Ainsi une chance donne 10 points; 7 chances, 8 ponts ; 19 chances, 4 points. 
+Avec les deux jeux de la fig. 43 ci-après, on amène 5-5 ; on joue tout d'une du talon ; on a pour remplir 8,7,6,2,29 chances. L'adversaire gagne 10 points par 6-6; 8 par 6-5, 6-4, 6-2,2-2; 4 par les autres chances; 6-3, 5-3, 3-1, 2-1, donnent 2 points; 1-1 bat à faux. Ainsi une chance donne 10 points; 7 chances, 8 ponts ; 19 chances, 4 points. 
 
 ![figure 43](figure43.png)
 
-Si l'adversaire a 8 points, il ne faut pas mettre dedans. S'il a quatre points, il faut mettre dedans; en effet, des autres manières de jouer, prenons la meilleure : on joue un 5 du talon et l'autre 5 de la deuxième flèche; on a 4 dames pour remplir, 12 chances au lieu de 29. Pour battre, 6-5 donne 8 points; 6-6, 5-5, en donnent 6; 6-1, 5-i, ne comptent pas; les 12 autres chances donnent- 4 points. Ainsi, en mettant dedans, on a 59 chances pour remplir contre 7, c'est plus de 4 fois ; au contraire 12 est la moitié de 24, c'est une bien grande différence. Puisqu'on n'a contre soi que 7 chances, nombre inférieur au quart de 36, on ne doit pas hésiter à jouer de la première manière (n° 355). Donc : _L'adversaire ayant 4 points, on doit mettre dedans_.
+Si l'adversaire a 8 points, il ne faut pas mettre dedans. S'il a quatre points, il faut mettre dedans; en effet, des autres manières de jouer, prenons la meilleure : on joue un 5 du talon et l'autre 5 de la deuxième flèche; on a 4 dames pour remplir, 12 chances au lieu de 29. Pour battre, 6-5 donne 8 points; 6-6, 5-5, en donnent 6; 6-1, 5-1, ne comptent pas; les 12 autres chances donnent- 4 points. Ainsi, en mettant dedans, on a 59 chances pour remplir contre 7, c'est plus de 4 fois ; au contraire 12 est la moitié de 24, c'est une bien grande différence. Puisqu'on n'a contre soi que 7 chances, nombre inférieur au quart de 36, on ne doit pas hésiter à jouer de la première manière (n° 355). Donc : _L'adversaire ayant 4 points, on doit mettre dedans_.
 
 On a son plein moins la case de la dixième flèche; les dames surnuméraires sont: deux à la quatrième flèche, une aux flèches sixième, septième, huitième. On amène 3-3 : il faut jouer tout d'une ; pour remplir on a 6, 4, 3, 2, 35 chances. Que peut prendre l'adversaire, s'il a son plein moins la case de la dixième flèche? Il ne faut s'occuper que des coups principaux qui battent, des doublets et des coups qui battent de trois façons; 6-6 donne i o points; 6-5, 6-4, 6-2, 2-2, 7-chances, donnent 8 points; 4-2 en donnent 6; 5-5, 4-4, 3-3,4.
 
@@ -597,7 +588,7 @@ On est près de terminer son plein ; on a 6 trous, et par conséquent le marqué
 
 **359. Passer une dame.**
 
-L'adversaire a son plein, ses dames surnuméraires aux flèches huitième, neuvième, dixième, avec 4 points. On a son plein moins une dame à sa sixième flèche, deux dames au talon, une aux flèches première et deuxième. On amène 2-1 : on joue le 2 de la sixième flèche, l'as de la première. L'adversaire ne peut passer au retour, et ne peut conserver que par 6-6, 6-3, 6-2, 6-i , 3-2, 3-1, 2-2, 2-1, 1-1, 15 chances, donnant tout au plus 6 points. Il ne peut s'en aller , et subira l'enfilade. Si l'on joue du talon, l'adversairé a t5 chances pour conserver, et 11 pour battre à vrai.
+L'adversaire a son plein, ses dames surnuméraires aux flèches huitième, neuvième, dixième, avec 4 points. On a son plein moins une dame à sa sixième flèche, deux dames au talon, une aux flèches première et deuxième. On amène 2-1 : on joue le 2 de la sixième flèche, l'as de la première. L'adversaire ne peut passer au retour, et ne peut conserver que par 6-6, 6-3, 6-2, 6-1 , 3-2, 3-1, 2-2, 2-1, 1-1, 15 chances, donnant tout au plus 6 points. Il ne peut s'en aller , et subira l'enfilade. Si l'on joue du talon, l'adversairé a t5 chances pour conserver, et 11 pour battre à vrai.
 
 L'adversaire a son plein, deux dames surnuméraires au coin, une à la dixième flèche, avec 11 trous et 8 points. On a son plein moins une daine à sa neuvième flèche, avec deux dames surnuméraires à la quatrième, une à la première, une à la troisième. On amène 2-2 : on joue de la première flèche à la troisième, et de la neuvième au coin. L'adversaire ne peut conserver que par 6-6, 6-1, 4-4, 4-3, 6 chances, et n'a rien à battre.
 
@@ -611,7 +602,7 @@ On a ces deux jeux ; l'adversaire a 11 trous et 8 points ; il a, pour remplir et
 
 **360. Coups défavorables rendus favorables.**
 
-Soient les deux jeux de la fig. 46 ci-après, les joueurs n'ayant pas de points. On amène 5-2. On remarque aisément que pour remplir l'adversaire a les nombres 6 et 8; il faut donc se les rendre favorables. Pour cela, on joue tout à bas aux flèches deuxième et cinquième. Les coups 6-6, 6-5, 6-4, 6-3, 6-2, 6-i, 5-5, 5-4, 4-4, 4-3, 17 chances, battent à faux 3 dames, 2 ou 1, et donnent respectivement 18, 8, 12, 8, 4, 4; 12, 4, 6, 4 points; 4 chances donnent le trou, 4 autres 8 points, L'adversaire a 8 points par 6-5 et 6-2.
+Soient les deux jeux de la fig. 46 ci-après, les joueurs n'ayant pas de points. On amène 5-2. On remarque aisément que pour remplir l'adversaire a les nombres 6 et 8; il faut donc se les rendre favorables. Pour cela, on joue tout à bas aux flèches deuxième et cinquième. Les coups 6-6, 6-5, 6-4, 6-3, 6-2, 6-1, 5-5, 5-4, 4-4, 4-3, 17 chances, battent à faux 3 dames, 2 ou 1, et donnent respectivement 18, 8, 12, 8, 4, 4; 12, 4, 6, 4 points; 4 chances donnent le trou, 4 autres 8 points, L'adversaire a 8 points par 6-5 et 6-2.
 
 ![figure 46](figure46.png)
 
@@ -633,7 +624,7 @@ Le coup suivant ne laisse aucun doute. L'adversaire a 5 trous et 8 points, son p
 
 **364. Jeu désespéré.**
 
-Par l'effet d'une série de coups contraires, on a quatre dames surnuméraires au coin, et son plein rompu par la sixième flèche ; on a à jeter les dés. L'adversaire a déjà 12 trous ou plus en bredouille avec 4 points de reste, et la faculté de jouer, sans rompre, 5-5 et 6-5. Si l'on amène 4-3, 4-21 4-1, 3-3, 3-2, 3-i, 2-2, 2-1, 14 chances, il faut mettre en demi-case les flèches septième et huitième , qui, jointes à celles de la sixième, présentent le coup unique d'être battu à faux par 3-3 pour gagner le trou. De plus , en jouant de cette manière , on fortifie la case de la neuvième flèche, ce qui est très avantageux pour contrarier le succès de l'adversaire.
+Par l'effet d'une série de coups contraires, on a quatre dames surnuméraires au coin, et son plein rompu par la sixième flèche ; on a à jeter les dés. L'adversaire a déjà 12 trous ou plus en bredouille avec 4 points de reste, et la faculté de jouer, sans rompre, 5-5 et 6-5. Si l'on amène 4-3, 4-21 4-1, 3-3, 3-2, 3-1, 2-2, 2-1, 14 chances, il faut mettre en demi-case les flèches septième et huitième , qui, jointes à celles de la sixième, présentent le coup unique d'être battu à faux par 3-3 pour gagner le trou. De plus , en jouant de cette manière , on fortifie la case de la neuvième flèche, ce qui est très avantageux pour contrarier le succès de l'adversaire.
 
 **365. Choix entre 3 dames.**
 
@@ -661,7 +652,7 @@ Cette progression sert pour le passage des dames du coin. Le coin vide oppose le
 
 **368. Gêner le passage du coin.**
 
-L'adversaire a son jan de retour, son coin, sa troisième dame surnuméraire à la cinquième flèche et 8 points. On a son coin, une dame à sa dixième flèche, des cases aux flèches cinquième, quatrième et troisième ; des demi-cases au talon et aux flèches première, deuxième , sixième, septième, huitième. On amène 4-2 : on ne doit pas le jouer avec la dame de la dixième flèche. L'adversaire a contre le passage de son coin les as et les 2, 20 chances; il est forcé de rompre par 5-2, 4-2, 5-i, 6 chances. La dame de la deuxième flèche ne donne que 2 points, excepté 2-2, qui donne le trou en conservant.
+L'adversaire a son jan de retour, son coin, sa troisième dame surnuméraire à la cinquième flèche et 8 points. On a son coin, une dame à sa dixième flèche, des cases aux flèches cinquième, quatrième et troisième ; des demi-cases au talon et aux flèches première, deuxième , sixième, septième, huitième. On amène 4-2 : on ne doit pas le jouer avec la dame de la dixième flèche. L'adversaire a contre le passage de son coin les as et les 2, 20 chances; il est forcé de rompre par 5-2, 4-2, 5-1, 6 chances. La dame de la deuxième flèche ne donne que 2 points, excepté 2-2, qui donne le trou en conservant.
 
 ## XXI. Chances pour conserver une fois, pour conserver deux fois.
 
@@ -673,7 +664,7 @@ Il y a trois dames surnuméraires ; mais, comme à chaque coup on n'en joue que 
 
 **370. Une dame surnuméraire.**
 
-On en suppose deux sur le coin. L'autre peut occuper 12 places sur les 12 flèches. On a, pour jouer, les nombres o, t, 2, 3,... to, il. Les nombres de chances, en y comprenant les 6, qui ne se jouent pas, sont : 1; 6-1, 3; plus 6-2, 1-1, 6; plus 6-3, 2-1, 10; plus 6-4, 3-i, 2-2, 15; plus 6-5, 4-i, 3-2 : 21 chances. Le 6 pour jouer donne 6-6, 5-i, 4-2, 4-1, 3-3, 3-2, 3-1, 2-2 2-1, i-ti 16 chances ; plus 6-1, 5-2, 4-3, 22; plus 6-2, 5-3, 4-4, 2j; plus 6-3, 5-4, 31; plus 6-4, 5-5, 34; plus 6-5 : 36 chances. Les nombres de chances sont donc 1, 3, 6, 10, 15, 21, 16, 22, 27, 31, 34, 36. Les six premiers nombres correspondent aux 6 pour jouer 0, 1, 2, 3, 4, 5, et peuvent se trouver par la règle suivante : _Au nombre pour jouer ajoutez i, à ce même nombre ajoutez 2, multipliez ces deux sommes l'une par l autre, et divisez le produit par 2_. Ainsi le nombre 5 donne 6 fois 7, ou 42, dont la moitié est 21.
+On en suppose deux sur le coin. L'autre peut occuper 12 places sur les 12 flèches. On a, pour jouer, les nombres o, t, 2, 3,... to, il. Les nombres de chances, en y comprenant les 6, qui ne se jouent pas, sont : 1; 6-1, 3; plus 6-2, 1-1, 6; plus 6-3, 2-1, 10; plus 6-4, 3-1, 2-2, 15; plus 6-5, 4-1, 3-2 : 21 chances. Le 6 pour jouer donne 6-6, 5-1, 4-2, 4-1, 3-3, 3-2, 3-1, 2-2 2-1, i-ti 16 chances ; plus 6-1, 5-2, 4-3, 22; plus 6-2, 5-3, 4-4, 2j; plus 6-3, 5-4, 31; plus 6-4, 5-5, 34; plus 6-5 : 36 chances. Les nombres de chances sont donc 1, 3, 6, 10, 15, 21, 16, 22, 27, 31, 34, 36. Les six premiers nombres correspondent aux 6 pour jouer 0, 1, 2, 3, 4, 5, et peuvent se trouver par la règle suivante : _Au nombre pour jouer ajoutez i, à ce même nombre ajoutez 2, multipliez ces deux sommes l'une par l autre, et divisez le produit par 2_. Ainsi le nombre 5 donne 6 fois 7, ou 42, dont la moitié est 21.
 
 **371. Passage ouvert.**
 
@@ -725,7 +716,7 @@ On a moins de 21 lignes horizontales si les dames surnuméraires sont placées d
 
 **377. Notions sur cette question.**
 
-Je vais poser quelques exemples eL dire les résultats pour chacun ; on pourra les vérifier. Je donnerai les détails pour le cas le plus difficile, le plus compliqué (fig. 48, ci-après) ; c'est celui où l'adversaire a encore une case à faire pour avoir son plein. Ce passage augmente beaucoup le nombre de chances pour conserver. Il est nécessaire, pour éviter les erreurs, de mettre les deux dames surnuméraires mobiles aux places qu'elles doivent occuper successivement. Le passage fait conserver par 5-2 joué du coin, et rompre par 6-5 joué de la septième flèche. Si le premier coup est 3-i, on conserve au deuxième par 6-5. 5-2 laisse pour jouer 4, 3, 2. Le passage est remarquable pour 5 -5 et 5-2 ; on porte une dame de la huitième flèche a la cinquième de l'adversaire, ce qui donne les nombres 9 pour jouer 4, 3, 2, et en outre 5. Donnons d'abord les autres questions.
+Je vais poser quelques exemples eL dire les résultats pour chacun ; on pourra les vérifier. Je donnerai les détails pour le cas le plus difficile, le plus compliqué (fig. 48, ci-après) ; c'est celui où l'adversaire a encore une case à faire pour avoir son plein. Ce passage augmente beaucoup le nombre de chances pour conserver. Il est nécessaire, pour éviter les erreurs, de mettre les deux dames surnuméraires mobiles aux places qu'elles doivent occuper successivement. Le passage fait conserver par 5-2 joué du coin, et rompre par 6-5 joué de la septième flèche. Si le premier coup est 3-1, on conserve au deuxième par 6-5. 5-2 laisse pour jouer 4, 3, 2. Le passage est remarquable pour 5 -5 et 5-2 ; on porte une dame de la huitième flèche a la cinquième de l'adversaire, ce qui donne les nombres 9 pour jouer 4, 3, 2, et en outre 5. Donnons d'abord les autres questions.
 
 **378. Divers exemples.**
 
@@ -749,7 +740,7 @@ L'on a fait usage des remarques du n° 377. Le nombre des chances pour conserver
 
 _Observation sur la question de conserver deux fois_. — Dans nos calculs, nous avons supposé, comme nos prédécesseurs, que le jeu de l'adversaire ne change point entre les deux coups. On comprend que, s'il fallait tenir compte de toutes les manières dont il est possible qu'il joue, on ne pourrait établir aucun calcul de probabilité.
 
-## XXII. Se faire battre a faux. — quand faut-il l'éviter?
+## XXII. Se faire battre a faux. — quand faut-1l l'éviter?
 
 **380. Conseil.**
 
@@ -787,11 +778,11 @@ Si au contraire on le tient long-temps sous l'échec de ces 8 points , on le for
 
 Discerner avec sagesse et prudence quand on doit rester ou s'en aller, savoir apprécier avec justesse les avantages et les inconvénients de l'une ou l'autre détermination , c'est posséder une des parties les plus essentielles de la théorie du trictrac, celle qui exige l'examen le plus mûr et le plus réfléchi. Une tenue inconsidérée peut causer et cause très souvent les plus funestes revers, les révolutions les plus subites et les plus désastreuses. D'un autre côté, se refuser à une tenue qui offre les probabilités les plus favorables, balancées seulement par la crainte d'événements possibles , à la vérité, mais invraisemblables, c'est se priver d'un bénéfice presque certain , c'est renoncer à un avantage présent qu'on aura peut-être peine à ressaisir. Les faveurs du sort sont compensées par des revers; si l'on ne sait pas profiter des unes, qu'aura-t-on à opposer à la rigueur des autres? La véritable prudence consiste à tenir un juste milieu entre une témérité irréfléchie et une crainte pusillanime. Pour fixer en pareil cas l'incertitude du choix, on doit consulter non seulement la position respective des jeux , mais encore l'état de la partie : cette dernière considération influe nécessairement beaucoup sur le choix à faire. En général, il faut _rester toutes les fois quil y a plus a gagner qu à perdre , et s'en aller lorsqu'en restant il y a plus à perdre qu'à gagner_.
 
-En s'attachant invariablement à cette maxime, on évitera de compromettre un marqué acquis, soit simple , soit en bredouille; et cela pour obtenir un ou deux trous de plus. Mais cet espoir d'un si faible bénéfice, fût-il même très probable, peut être détruit par un revers inattendu. Ce danger est surtout à redouter lorsqu'en perdant la bredouille on la donne à l'adversaire. Mais, d'un autre côté, on ne néglige pas une tenue qui, sans compromettre le marqué, peut néanmoins offrir la perspective d'un bénéfice bien supérieur à la perte qui pourrait en résulter.
+En s'attachant invariablement à cette maxime, on évitera de compromettre un marqué acquis, soit simple , soit en bredouille; et cela pour obtenir un ou deux trous de plus. Mais cet espoir d'un si faible bénéfice, fût-1l même très probable, peut être détruit par un revers inattendu. Ce danger est surtout à redouter lorsqu'en perdant la bredouille on la donne à l'adversaire. Mais, d'un autre côté, on ne néglige pas une tenue qui, sans compromettre le marqué, peut néanmoins offrir la perspective d'un bénéfice bien supérieur à la perte qui pourrait en résulter.
 
 **386. Quand il faut rester pour la grande bredouille.**
 
-Il y a un cas où il faut se livrer à une spéculation ambitieuse, en s'exposant àla perte d'une portion du gain acquis, pour obtenir un bénéfice beaucoup plus considérable. Ainsi, par exemple, on parvient à 9 ou 10 trous en bredouille, on a son plein et les autres dames placées avantageusement dans la première table. L'adversaire a son plein moins une dame à la dixième flèche, et ses dames surnuméraires sur les flèches sixième, septième, huitième, neuvième. Il a, pour prendre le trou d'emblée, 3-i, 2-1, 2-2, 1-1, 6 chances. Il a, pour prendre 8 points, en remplissant de 2 façons, 4-3, 4-2, 4-1,3-2, 8 chances; avec ces 4 coups, il a, pour conserver, des chances dont le nombre est 21, 24, 24, 32, et par conséquent probabilité. On peut perdre le pavillon par 6 plus 8, ou i4 chances; mais on le conserve par 22 : dans aucun cas le marqué n'est compromis. Que perdra-t-on, si on le perd ? Au lieu de recevoir 22 ou 24 jetons, le bénéfice sera réduit à 11 ou 12 : ainsi la différence sera de 11 ou 12. Si, au contraire, on a une des 22 chances favorables, on arrive à la grande bredouille et on reçoit au moins 56 jetons, c'est-à-dire 32 de plus qu'on n'aurait reçu en s'en allant. Ainsi on a d'adord 22 chances contre 14 au plus; et, outre cet avantage, on a celui de ne risquer que t t ou 12 contre 32, ou i contre presque 3. Mais si la perte de ces t 1 ou 12 jetons pouvait entraîner celle de la queue, dont, au contraire, le gain était assuré par le marqué de 22 ou 24 jetons, on aurait tort de ne pas s'en aller.
+Il y a un cas où il faut se livrer à une spéculation ambitieuse, en s'exposant àla perte d'une portion du gain acquis, pour obtenir un bénéfice beaucoup plus considérable. Ainsi, par exemple, on parvient à 9 ou 10 trous en bredouille, on a son plein et les autres dames placées avantageusement dans la première table. L'adversaire a son plein moins une dame à la dixième flèche, et ses dames surnuméraires sur les flèches sixième, septième, huitième, neuvième. Il a, pour prendre le trou d'emblée, 3-1, 2-1, 2-2, 1-1, 6 chances. Il a, pour prendre 8 points, en remplissant de 2 façons, 4-3, 4-2, 4-1,3-2, 8 chances; avec ces 4 coups, il a, pour conserver, des chances dont le nombre est 21, 24, 24, 32, et par conséquent probabilité. On peut perdre le pavillon par 6 plus 8, ou i4 chances; mais on le conserve par 22 : dans aucun cas le marqué n'est compromis. Que perdra-t-on, si on le perd ? Au lieu de recevoir 22 ou 24 jetons, le bénéfice sera réduit à 11 ou 12 : ainsi la différence sera de 11 ou 12. Si, au contraire, on a une des 22 chances favorables, on arrive à la grande bredouille et on reçoit au moins 56 jetons, c'est-à-dire 32 de plus qu'on n'aurait reçu en s'en allant. Ainsi on a d'adord 22 chances contre 14 au plus; et, outre cet avantage, on a celui de ne risquer que t t ou 12 contre 32, ou i contre presque 3. Mais si la perte de ces t 1 ou 12 jetons pouvait entraîner celle de la queue, dont, au contraire, le gain était assuré par le marqué de 22 ou 24 jetons, on aurait tort de ne pas s'en aller.
 
 On ne peut détailler les positions auxquelles ce calcul est applicable; je crois qu'il a suffi d'indiquer une de celles où le joueur contre qui on entreprend la grande bredouille a un grand nombre de chances en sa faveur. La réflexion et l'expérience doivent guider chaque joueur dans toutes les occasions qui se présentent de faire l'application de cette démonstration.
 
@@ -825,7 +816,7 @@ Lorsqu'on n'a plus qu'une case à faire, et l'adversaire une case et demie, mais
 
 **393. Insuffisance de vingt et une unités.**
 
-Presque toujours, lorsqu'on est forcé de rompre, bien des unités se trouvent perdues. Par exemple, on peut jouer 5-2 et rompre par 4-3, en sorte que 7 unités sont inutiles. Les trois dames surnuméraires, étant sur la septième flèche, donnent 12 points pour jouer, et 5-i fait rompre. La somme des nombres pour jouer étant 33, on peut rompre au troisième coup, s'il y a passage; par exemple, ayant 6-6, 6-5, puis un coup qui contienne un 6, que l'on peut jouer en rompant.
+Presque toujours, lorsqu'on est forcé de rompre, bien des unités se trouvent perdues. Par exemple, on peut jouer 5-2 et rompre par 4-3, en sorte que 7 unités sont inutiles. Les trois dames surnuméraires, étant sur la septième flèche, donnent 12 points pour jouer, et 5-1 fait rompre. La somme des nombres pour jouer étant 33, on peut rompre au troisième coup, s'il y a passage; par exemple, ayant 6-6, 6-5, puis un coup qui contienne un 6, que l'on peut jouer en rompant.
 
 Il y a des joueurs qui comptent sur les pointsqu1iIs gagneront en étant battus à faux. Le cas le plus favorable est celui où l'adversaire a son plein, et alors on a 21 chances, 15, 10, 6, 3, 1, selon que la dame est à la flèche cinquième, quatrième, troisième, deuxième, première, ou au talon : c'est donc un gàin très incertain.
 
@@ -837,7 +828,7 @@ Avec les deux jeux de la fig. 51 ci-après on amène 4-4; en jouant des flèches
 
 ![figure 51](figure51.png)
 
-On rompt par la flèche la plus éloignée du coin. L'adversaire a toutes ses dames dans sa deuxième table, sa septième flèche est vide ; on a son plein, les trois dames surnuméraires au coin et aux flèches première et troisième de l'adversaire. On amène 6-3 : en le jouant de la septième à la septième de l'adversaire, on est battu par 6 et 5, 20 chances, et par 1, 1 1 chances réduites à 7 parce que 6-1 et 5-i sont déjà comptées dans les 20 premières, en tout 27 chances. 5-5 donne 8 points; 6-3, 5-4, 4-1, 3-i, 2-1, 10 chances donnent 2 points; 6-1, 5-i, donnent 6 points, et 12 chances 4 points. On est battu à faux par 4-4, 4-3, 4-2, 4-1, 3-3, 3-2, 10 chances ; 4-1 bat une dame à vrai, et une à faux; 2-2 ne bat ni à vrai ni à faux, et complète les 36 chances.
+On rompt par la flèche la plus éloignée du coin. L'adversaire a toutes ses dames dans sa deuxième table, sa septième flèche est vide ; on a son plein, les trois dames surnuméraires au coin et aux flèches première et troisième de l'adversaire. On amène 6-3 : en le jouant de la septième à la septième de l'adversaire, on est battu par 6 et 5, 20 chances, et par 1, 1 1 chances réduites à 7 parce que 6-1 et 5-1 sont déjà comptées dans les 20 premières, en tout 27 chances. 5-5 donne 8 points; 6-3, 5-4, 4-1, 3-1, 2-1, 10 chances donnent 2 points; 6-1, 5-1, donnent 6 points, et 12 chances 4 points. On est battu à faux par 4-4, 4-3, 4-2, 4-1, 3-3, 3-2, 10 chances ; 4-1 bat une dame à vrai, et une à faux; 2-2 ne bat ni à vrai ni à faux, et complète les 36 chances.
 
 En jouant de la dixième flèche à la quatrième, on est battu par 34 chances; 2-2 donne 8 points; 6-1, 5-1, donnent 2 points; 29 chances en donnent 4. Donc la première manière est la meilleure.
 
@@ -879,7 +870,7 @@ Si on relève une dame de la première flèche à la deuxième, on a le jeu de l
 
 On met dedans toutes les fois qu'on en trouve l'occasion. On a le plein moins la case de la deuxième flèche, et les dames surnuméraires aux flèches première, cinquième, septième, huitième, dixième. On amène 6-2 i on joue tout d'une de la dixième flèche; on a, pour remplir, 3, 5, 6, 33 chances; il manque 4-4» 2-2, 1-1 .
 
-On a son jan de retour moins une dame au talon, trois dames surnuméraires à sa dixième flèche et une à la première flèche de l'adversaire. L'as ne donne pas ii chances pour remplir : il faut en retrancher 1-1, 2-t; et même, si l'adversaire a des dames à ses flèches dixième et neuvième, il faut en retrancher 3-i, Pour qu'un nombre d'un coup remplisse, il faut que l'autre nombre puisse se jouer sans rompre : cela s'applique aux trois pleins.
+On a son jan de retour moins une dame au talon, trois dames surnuméraires à sa dixième flèche et une à la première flèche de l'adversaire. L'as ne donne pas ii chances pour remplir : il faut en retrancher 1-1, 2-t; et même, si l'adversaire a des dames à ses flèches dixième et neuvième, il faut en retrancher 3-1, Pour qu'un nombre d'un coup remplisse, il faut que l'autre nombre puisse se jouer sans rompre : cela s'applique aux trois pleins.
 
 **399. Une case à faire.**
 
@@ -897,7 +888,7 @@ La dame de la sixième flèche, qui se trouve la première à droite, peut couvr
 
 **402. Ordre inverse.**
 
-La deuxième demi-case est couverte par la première dame surnuméraire ; la première demi-case J'est par la deuxième dame surnuméraire; elle l'est aussi par la troisième, la quatrième, la cinquième, ce qui donne 6-4, 6-3, 6-2, 6-1. La deuxième demi-case est couverte par la deuxième dame surnuméraire, la première demi-case l'est par la troisième dame surnuméraire ; elle l'est aussi par la quatrième, la cinquième, ce qui fait 5-3,5'2, 5-i. La deuxième demi-case est couverte par la troisième dame surnuméraire, la première demi-case J'est par la quatrième dame surnuméraire et par la cinquième, ce qui fait 4-2, 4-1. La deuxième demi-case est couverte par la quatrième dame surnuméraire, la première demi-case l'est par la cinquième, ce qui fait 3-1. L'ordre inverse donne 6-4, 6-3 , 6-2, 6-t, 5-3, 5-2, 5-i, 4-2, 4-1, 3-1, 10 coups.
+La deuxième demi-case est couverte par la première dame surnuméraire ; la première demi-case J'est par la deuxième dame surnuméraire; elle l'est aussi par la troisième, la quatrième, la cinquième, ce qui donne 6-4, 6-3, 6-2, 6-1. La deuxième demi-case est couverte par la deuxième dame surnuméraire, la première demi-case l'est par la troisième dame surnuméraire ; elle l'est aussi par la quatrième, la cinquième, ce qui fait 5-3,5'2, 5-1. La deuxième demi-case est couverte par la troisième dame surnuméraire, la première demi-case J'est par la quatrième dame surnuméraire et par la cinquième, ce qui fait 4-2, 4-1. La deuxième demi-case est couverte par la quatrième dame surnuméraire, la première demi-case l'est par la cinquième, ce qui fait 3-1. L'ordre inverse donne 6-4, 6-3 , 6-2, 6-t, 5-3, 5-2, 5-1, 4-2, 4-1, 3-1, 10 coups.
 
 **403. Ordre naturel. Ordre inverse.**
 
@@ -913,105 +904,77 @@ _Le nombre de chances qui remplissent est le douhle du nombre de dames surnumér
 
 **406. Chances de moins.**
 
-Si la dame de la sixième flèche est à la septième, les chances de Tordre naturel sont 6-5, 6-4, 6-3, 6-2, 4-4, 4-3, 4-2, 3-3, 3-2, 2-2,10 coups, 17 chances; celles de l'ordre inverse sont 5-3, 5-2, 5-i, 4-2, 4-i,3-i, 6 coups, 12 chances ; mais 4-2 y est déjà, ainsi on a 27 chances. Au no 4o3, il y a 22 chances, 5 de moins, parce qu'il y a un doublet de plus, puis 6 chances retranchées au lieu de 2.
+Si la dame de la sixième flèche est à la septième, les chances de Tordre naturel sont 6-5, 6-4, 6-3, 6-2, 4-4, 4-3, 4-2, 3-3, 3-2, 2-2,10 coups, 17 chances; celles de l'ordre inverse sont 5-3, 5-2, 5-1, 4-2, 4-1,3-1, 6 coups, 12 chances ; mais 4-2 y est déjà, ainsi on a 27 chances. Au no 4o3, il y a 22 chances, 5 de moins, parce qu'il y a un doublet de plus, puis 6 chances retranchées au lieu de 2.
 
 **407. Demi-cases non contiguës.**
 
-On les suppose au talon et à la deuxième flèche; les 5 dames surnuméraires sont aux flèches troisième, quatrième, cinquième, sixième, septième. Dans l'ordre naturel on a 6-5, 5-5, 5-4, 5-3, 5-4, 4-4, 4-3, 4-3, 3-3, 3-2 j et dans l'ordre inverse, 6-3, 6-2, 6-1, 5-2, 5-i, 4-i, 25 chances.
+On les suppose au talon et à la deuxième flèche; les 5 dames surnuméraires sont aux flèches troisième, quatrième, cinquième, sixième, septième. Dans l'ordre naturel on a 6-5, 5-5, 5-4, 5-3, 5-4, 4-4, 4-3, 4-3, 3-3, 3-2 j et dans l'ordre inverse, 6-3, 6-2, 6-1, 5-2, 5-1, 4-1, 25 chances.
 
 ### 24.3. Ayant deux cases a faire, faire deux demi-cases. ayant une case a faire, en défaire une. — ayant quatre cases et demie, faire deux demi-cases.
 
 **408. Ayant deux cases à faire, faire deux demi-cases.**
 
-Fig. 55.
+![figure 55](figure55.png)
 
-Avec ce jeu, on amène 2-2. Si l'on fait les deux demi-cases, on a une figure où les dames sont placées comme dans celle du n° 3g8, et on a (n° 4o4) 3o chances pour remplir. En faisant une des cases, on a i3
+Avec ce jeu, on amène 2-2. Si l'on fait les deux demi-cases, on a une figure où les dames sont placées comme dans celle du n° 398, et on a (n° 404) 3o chances pour remplir. En faisant une des cases, on a 13 chances pour remplir. Si l'on amène 2-1, en faisant deux demi-cases, il ne reste de dames surnuméraires que sur _quatre flèches contiguës_, et une double surcase, ce qui donne 21 chances; les 15 qui ne remplissent pas sont les 11 de l'as, 6-6, 6-5, 2-2. En faisant la case de la deuxième flèche, la seule possible, il reste des dames surnuméraires sur _cinq flèches_, et on a 20 chances pour remplir. Ainsi dans le cas le plus contraire aux demi-cases, on a encore une chance de plus.
 
-chances pour remplir. Si l'on amène 2-1, en faisant deux demi-cases, il ne reste de dames surnuméraires que sur quatre flèches contiguës, et une double surcase, ce qui donne 21 chances; les i5 qui ne remplissent pas sont les 11 de ras, 6-6, 6-5, 2-2. En faisant la case de la deuxième flèche, la seule possible, il reste des dames surnuméraires sur cinq flèches, et on a 20 chances pour remplir. Ainsi dans le cas le plus contraire aux demi-cases, on a encore une chance de plus.
+Le coup 3-3 donne, avec les deux demi-cases, 22 chances pour remplir, 2 fois 4 multiplié par 4 moins 1, plus 2 pour la double surcase, moins 2 pour 2 couples de dames surnuméraires contiguës, moins 2 pour 2 chances communes à cause de 4 dames surnuméraires semblablement placées par rapport aux deux demi-cases, ou 24 plus 2 moins 4 ; 22 chances. La case donne 13 chances.
 
-Le coup 3-3 donne, avec les deux demi-cases, 22 chances pour remplir, 2 fois IJ multiplié par 4 moins 1, plus 2 pour la double surcase, moins 2 pour 2 couples de dames surnuméraires contiguës, moins 2 pour 2 chances communes à cause de 4 dames surnuméraires semblablement placées par rapport aux deux demi-cases, ou
+**409. Ayant une case à faire, en défaire une.**
 
-jq plUS 2 moins q ; 22 chances. La case donne i3 chances.
+![figure 56](figure56.png)
 
-409. Ayant une case à faire, en défaire une.
+Avec ce jeu on amène 1-1 ; il faut jouer de la deuxième flèche à la première, de la quatrième à la troisième ; les cinq dames surnuméraires donnent (n° 404) 30 chances. En jouant tout d'une de la quatrième flèche à la deuxième, on a !10 chances. En jouant tout d'une de la troisième flèche à la première, on a 22 chances.
 
-Fig. se.
+Si les cinq dames surnuméraires sont, deux à la cinquième flèche, deux à la sixième, une à la septième, et si on amène 2-1, on joue de la cinquième flèche à la troisième, et de la deuxième à la première ; on a, pour remplir, 2 fois 4 multiplié par 3, moins 2, pour trois dames surnuméraires contiguës, 22 chances.En jouant de la cinquième flèche à la deuxième, on n'aurait que 13 chances.
 
-Avec ce jeu on amène 1-t ; il faut jouer de la deuxième flèche à la première, de la quatrième à la troisième ; les cinq dames surnuméraires donnent (n° 4o4) 3o chances. En jouant tout d'une de la quatrième
+**410. Ayant quatre cases et demie, faire une seconde demi-case.**
 
-flèche à la deuxième, on a !10 chances. En jouant tout d'une de la troisième flèche à la première, on a 22 chances.
+Avec le jeu de la fig. 57 ci-contre, on amène 2-1 ; en jouant de la quatrième flèche à la première, on a le jeu de l'alinéa précédent; 22 chances. La case donne 13 chances.
 
-Si les cinq dames surnuméraires sont, deux à la cinquième flèche, deux à la sixième, une à la septième, et si on amène 2-1, on joue de la cinquième flèche à la troisième, et de la deuxième à la première ; on a, pour remplir, 2 fois 4 multiplié par 3, moins 2, pour trois dames surnuméraires contiguës, 22 chances.En jouant de la cinquième flèche à la deuxième, on Saurait que i3 chances.
+![figure 57](figure57.png)
 
-410. Ayant quatre cases et demie, faire une seconde demi-case.
+## XXV. Remplir. — conserver une fois, deux fois.
 
-Avec le jeu de la fig. 57 ci-contre, on amène 2-1 ; en jouant de la quatrième flè-
+### 25.1. Remplir. - conserver une fois.
 
-che à la première, on a le jeu de l'alinéa
+**411. Remplir.**
 
-Fig. 57.
+![figure 58](figure58.png)
 
-précédent; 22 chances. La case donne i3 chances.
+Exemple remarquable. On a ce jeu, on amène 4-4; on doit jouer de sa neuvième lleche a la dixième de l'adversaire, et de la sixième à la deuxième; on a, pour remplir, 6, 5, 3, 33 chances ; les chances contraires sont 4-4, 2-2, 1-1. En jouant de sa neuvième flèche à la dixième de l'adversaire, et de la neuvième à la cinquième , on a les nombres pour jouer 6, 3, 2, 1, 32 chances ; les chances contraires sont 5-5, 5-4, 4-4. Si l'on joue tout d'une de sa neuvième flèche à la sixième de l'adversaire, on a les nombres pour jouer 5, 3, 2, 3o chances : n'en parlons plus. Mais les deux autres manières:de jouer sont dignes de notre examen. La première, avec une dame passée, avec 3 dames pour remplir, donne une chance de plus que la deuxième, qui a 4 dames pour remplir et point de dame passée, ce qui n'a pas lieu ordinairement. Cela peut s'expliquer aisément : la somme des nombres pour jouer est d'abord 14, puis 12, et 10 dans la troisième manière. Il n'y a rien de contraire à la règle du n° 311 qui suppose une même somme de nombres pour jouer.
 
-CHAPITRE XXV.
+Dans cette figure on porte la dame de sa neuvième flèche à sa dixième; alors on doit jouer 4-4 tout d'une de sa dixième flèche à la cinquième; on a, pour remplir, 5, 3, 2, 1, 32 chances.
 
-REMPLIR. — CORSBIVEn UNE FOIS , DEUX FOIS.
+On a deux dames au talon et aux flèches deuxième et septième, trois aux flèches troisième, quatrième et cinquième. On amène 3-3; on joue tout d'une de la septième flèche à la première; on a pour remplir 6, 4, 3, 2, 35 chances ; il manque 5-5.
 
-8 1. REIWPLIR.-CONSERVErt UNE FOIS.
+**412. Conserver.**
 
-411. Remplir.
+On a vu les rares exceptions où l'on conserve sans jouer les 6 (n° 107) ; il faut presque toujours les jouer. On doit donc s'attacher à avoir des dames à la sixième flèche de l'adversaire, quand les dames ne sont pas toutes entrées dans la première table; car, si elles y étaient, ce serait de la cinquième que l'on jouerait les 6. On va prendre quelques exemples. Les trois dames surnuméraires étant au talon et aux flèches quatrième et cinquième, on amène 5-1 ; il faut lever 2 dames, et non pas i : on laisse 6 pour jouer les coups 5-1, 4-2, 4-1, 3-3, 3-2, 3-1, 2-2, 2-1, 1-1, 15 chances; l'autre manière laisse 5, 1, pour jouer 5-1, 4-1, 3-2, 3-1, 2-2, 2-1, 1-1, 12 chances, au lieu de 15. On sait que le contraire a lieu pour remplir ou battre.
 
-Fig. 58.
+Avec les dames surnuméraires au talon et aux flèches cinquième et sixième, on a 5-2 : on joue le 5 de la sixième flèche à la première, et alors tout élant dans la première table, la bande compte pour une flèche et l'on joue le 2 de la première flèche hors des flèches; il reste, pour jouer, 6, 1, ou bien les coups 6-1, 5-1, 4-2, 4-t, 3-3, 3-2, 3-1, 2-2, 2-1, 1-1, 17 chances. En jouant le 5 de la cinquième flèche, et le 2 de la sixième, il reste, pour jouer, 5, 1 ; en se reportant aux 17 chances, on voit qu'avec 5, 1, on ne peut jouer 6-1, 4-2, 3-3, 5 de moins, 12 seulement.
 
-Exemple remarquable. On a ce jeu, on amène 4-4; on doit jouer de sa neuvième
+Avec le jeu indiqué, on a 6-2 ; on joue le 2 de la sixième flèche à la quatrième, et le 6 de la cinquième hors des flèches ; il reste, pour jouer, 5, 1, ou 12 chances, comme on l'a dit. Si l'on joue le 6 de la sixième flèche, et le 2 de la cinquième, on a, pour jouer, 4, 1 , ou les coups 4-t > 3-1, 2-2, 2-1, 1-1, 8 chances, 4 de moins. Avec 5-1, on joue le 5 de la sixième flèche à la première, l'as du talon hors des flèches; il reste pour jouer 0,2. »j 1 on joue I as de la sixième flèche à la cinquième, puis le 5 de la cinquième au talon, il reste pour jouer 6, t ; il y a de moins 6-2, 5-2, 4 chances de moins. De même, 4-1 laisse , pour jouer, 6, 3; 3-1 laisse 6, 4; 2-1 laisse 6, 5; 1-1 laisse 6, 6.
 
-lleche a la dixième de l'adversaire, et de la sixième à la deuxième; on a, pour remplir, 6, 5, 3, 33 chances ; les chances contraires sont 4-4, 2-2, 1-1. En jouant de sa neuvième flèche à la dixième de l'adversaire, et de la neuvième à la cinquième , on a les nombres pour jouer 6, 3, 2, 1, 32 chances ; les chances contraires sont 5-5, 5-4, 4-4. Si l'on joue tout d'une de sa neuvième flèche à la sixième de l'adversaire, on a les nombres pour jouer 5, 3, 2, 3o chances : n'en parlons plus. Mais les deux autres manières:de jouer sont dignes de notre examen. La première, avec une dame passée, avec 3 dames pour remplir, donne une chance de plus que la deuxième, qui a 4 dames pour remplir et point de dame passée, ce qui n'a pas lieu ordinairement. Cela peut s'expliquer aisément : la somme des nombres pour jouer
+Les dames étant au talon et aux flèches quatrième, sixième, 5-1, 4~S 2-1, 1-1, laissent, pour jouer, 6 et 1, 6 et 1, 6 et 3, 6 et 5, en jouant d'abord Tas. Le 3- 1 fait exception; il ne laisse que 6, 2, 21 chances; au lieu qu'en jouant le 3 de la sixième flèche, puisj'as du talon, on a 5, 4, 24 chances. Cela lient à ce qu'avec 6, 2, il y a un point perdu, la somme de 6 et 2 est 8, celle de 5 et 4 est 9.
 
-est d'abord 14, puis 12, et 10 dans la troisième manière. Il n'y a rien de contraire à la règle du n° 3i 1 qui suppose une même somme de nombres pour jouer.
+Les dames étant aux flèches troisième, quatrième, cinquième, ce qui donne pour jouer 4) 5, 6, le 6-6 fait rompre ; les 5 autres coups du 6 et 5-5 ôtent le 6. Les 14 autres coups le conservent avec avantage, excepté 3-3, qui, comme 3-1, exemple précédent , laisse 6,2, ou 5, 4. (V. la fin de l'alinéa précédent). Si l'on joue 4-2 des deux manières, 5, 4, donnent 24 chances; 6, 3, en donnent 27. Pour les questions semblables, il n'y a que ces deux exceptions. Pour connaître les nombres de chances qui conservent, il faut écrire toutes les chances qui donnent 6,2; 6, 3; 5, 4; puis les compter pour chaque cas : on ne peut employer les règles données pour remplir ou battre.
 
-Dans cette figure on porte la dame de sa neuvième flèche à sa dixième; alors on doit jouer 4-4 tout d'une de sa dixième flèche à la cinquième; on a, pour remplir, 5, 3, 2, t, 3a chances.
+Si deux dames sont au talon et une à la dixième flèche, les coups 4-1, 3-1,2-2, 2-1, 1-1, laissent, pour jouer, 7, 8, 7, 9, 11.
 
-On a deux dames au talon et aux flèches deuxième et septième, trois aux flèches troisième, quatrième et cinquième. On amène 3-3; on joue tout d'une de la septième flèche à la première; on a pour rCIIJ- plir 6, 4, 3, 2, 35 chances ; il manque 5-5.
+On a levé deux dames, la troisième va du talon successivement jusqu'à la dixième flèche; on a les nombres, pour jouer, 1, 2, 3,... 10, 11, qui donnent les nombres de chances suivants, 0, 1, 3, 6, 10, 15, 21, 26, 30, 33, 35. On peut remarquer qu'entre 15 et 21, qui correspondent aux nombres pour jouer, 6 et 7, il y a 6; puis, avant et après, les différences sont 5, 4, 3, 2. Si les deux autres dames sont au talon, les nombres 0, 1, 3, 6, 10, 15, 21, deviennent 0, 3, 5, 8, 12, 17, 21, 2 chances de plus, si la dame mobile est dans la première table.
 
-412. Conserver.
+**413. Conseils.**
 
-On a vu les rares exceptions où l'on conserve sans jouer lûs.6 (n° 107); il faut pres-
+On voit qu'il faut _garder 1 ou 2 dames surnuméraires sur la cinquième flèche ou le plus près possible, et pour cela examiner quel est celui des deux nombres qu'il faut jouer le premier_.
 
-qire toujours les jouer. On doit donc s'attacher à avoir des dames à la sixième flèche de l'adversaire, quand les dames ne sont pas toutes entrées dans la première table; car, si elles y étaient, ce serait de la cinquième que l'on jouerait les 6. On va prendre quelques exemples. Les trois dames surnuméraires étant au talon et aux flèches quatrième et cinquième, on amène 5-i ; il faut lever 2 dames, et non pas i : on laisse 6 pour jouer les coups 5-1, 4-2, 4-li 3-3, 3-2, 3-i, 2-2, 2-1, 1-1, 15 chances; l'autre manière laisse 5, t, pour jouer 5M, 4-t, 3-2, 3-i, 2-2, 2-1, 1-1, 12 chances, au lieu de 15. On sait que le contraire a lieu pour remplir ou battre.
+### 25.2. Conserver deux fois.
 
-Avec les dames surnuméraires au talon et aux flèches cinquième et sixième, on a 5-2 : on joue le 5 de la sixième flèche à la première, et alors tout élant dans la pre-
-
-mière table, la bande compte pour une flèche et l'on joue le 2 de la première flèche hors des flèches; il reste, pour jouer, 6, 1, ou bien les coups 6-i, 5-i, 4-2, 4-t, 3-3, 3-2, 3-i, 2-2, 2-1, 1-1, 17 chances. En jouant le 5 de la cinquième flèche, et le 2 de la sixième, il reste, pour jouer, 5, 1 ; en se reportant aux 17 chances, on voit qu'avec 5, 1, on ne peut jouer 6-1, 4-2, 3-3, 5 de moins, 12 seulement.
-
-Avec le jeu indiqué, on a 6-2 ; on joue le 2 de la sixième flèche à la quatrième, et le 6 de la cinquième hors des flèches ; il reste, pour jouer, 5, 1, ou 12 chances, comme on l'a dit. Si l'on joue le 6 de la sixième flèche, et le 2 de la cinquième, on a, pour jouer, 4, 1 , ou les coups 4-t > 3-i, 2-2, 2-1, 1-1, 8 chances, 4 de moins. Avec 5-i, on joue le 5 de la sixième flèche à la première, l'as du talon hors des flèches; il
-
-reste pour jouer 0,2. »j 1 on joue I as de la sixième flèche à la cinquième, puis le 5 de la cinquième au talon, il reste pour jouer 6, t ; il y a de moins 6-2, 5-2, 4 chances de moins. De même, 4-1 laisse , pour jouer, 6, 3; 3-i laisse 6, 4; 2-1 laisse 6, 5; 1-1 laisse 6, 6.
-
-Les dames étant au talon et aux flèches quatrième, sixième, 5-i, 4~S 2-1, 1-1, laissent, pour jouer, 6 et 1, 6 et 1, 6 et 3, 6 et 5, en jouant d'abord Tas. Le 3- 1 fait exception; il ne laisse que 6, 2, 21 chances; au lieu qu'en jouant le 3 de la sixième flèche, puisj'as du talon, on a 5, 4, 24 chances. Cela lient à ce qu'avec 6, 2, il y a un point perdu, la somme de 6 et 2 est 8, celle de 5 et 4 est 9.
-
-Les dames étant aux flèches troisième, quatrième, cinquième, ce qui donne pour jouer 4) 5, 6, le 6-6 fait rompre ; les 5 au-
-
-tres coups du 6 et 5-5 ôtent le 6. Les 14 autres coups le conservent avec avantage, excepté 3-3, qui, comme 3-i, exemple précédent , laisse 6,2, ou 5, 4. (V. la fin de l'alinéa précédent.) Si l'on joue 4-2 des deux manières 5, 4, donnent 24 chances; 6, 3, en donnent 27. Pour les questions semblables, il n'y a que ces deux exceptions. Pour connaître les nombres de chances qui conservent, il faut écrire toutes les chances qui donnent 6,2; 6, 3; 5, 4; puis les compter pour chaque cas : on ne peut employer les règles données pour remplir ou battre.
-
-Si deux dames sont au talon et une à la dixième flèche, les coups 4-1, 3-1,2-2, 2-1, 1-1, laissent, pour jouer, 7, 8, 7, 9, 11 -
-
-On a levé deux dames, la troisième va du talon successivement jusqu'à la dixième flèche; on a les nombres, pour jouer, 1, 2, 3,... 10, 11, qui donnent les nombres de
-
-chances suivants, o, i, 3, 6, 10, i5, 21 t 26, 3o, 33, 35. On peut remarquer qu'entre t 5 et 21, qui correspondent aux nombres pour jouer, 6 et 7, il y a 6; puis, avant et après, les différences sont 5, 4, 3, 2. Si les deux autres dames sont au talon, les nombres o, 1, 3, 6, 10, i5, 21, deviennent i, 3, 5, 8, 12, 17, 2i, 2 chances de plus, si la dame mobile est dans la première table.
-
-413. Conseils.
-
-On voit qu'il faut garder 1 ou 2 dames surnuméraires sur la cinquième flèche ou le plus près possible, et pour cela examiner quel est celui des deux nombres qu'il faut jouer le premier.
-
-8 2. CONSERVER DEUX FOIS.
-
-414. Marche à suivre.
+**414. Marche à suivre.**
 
 On suit entièrement la marche expliquée au n° 375. Dans les 21 coups, il y en a qui peuvent se jouer de deux manières ; pour le choix, on doit suivre le conseil qui vient d'être donné. Nous allons examiner plusieurs questions et en présenter les résultats. Bien des joueurs s'en contenteront; d'autres s'exerceront non seulement sur les exemples de ce livre, mais encore sur d'autres. Ils formeront des tableaux semblables à celui expliqué au 11° 379 et placé à la fin de ce volume. Nous avons vu , à la première phrase du n° 376, qu'on peut avoir à écrire moins de 21 lignes horizontales : alors le travail est plus court.
 
-415. Questions.
+**415. Questions.**
 
-On place successivement les trois dames surnuméraires sur le talon et les flèches cinquième et sixième; sur le talon et les flèches quatrième et sixième ; toutes les trois sur la quatrième flèche ; sur les flèches troisième, quatrième, cinquième ; deux au talon, une à la dixième flèche. Les nombres de chances qui font conserver, sont 582, 420, 5o8, 773, 412. Les chances qui font rompre, sont au nombre de 714, 876, 788, 523, 884. Le rapport des premiers nombres aux derniers est- à peu près 4 à 5, 1 à 2, 9 à 14, 3 à 2, 1 à 2. On peut voir que, le pour le deuxième exemple et le dernier, le rapport est à peu près 1 à 2 ; en effet, on a 420 et 876, puis 412 et 884. Cela tient-il à ce que de la deuxième figure on passe
-
-à la dernière en reculant une dame de quatre flèches, et en avançant une autre également de quatre flèches, et que, dès lors, dans les deux cas, on a exactement la même somme de nombres pour jouer?
+On place successivement les trois dames surnuméraires sur le talon et les flèches cinquième et sixième; sur le talon et les flèches quatrième et sixième ; toutes les trois sur la quatrième flèche ; sur les flèches troisième, quatrième, cinquième ; deux au talon, une à la dixième flèche. Les nombres de chances qui font conserver, sont 582, 420, 508, 773, 412. Les chances qui font rompre, sont au nombre de 714, 876, 788, 523, 884. Le rapport des premiers nombres aux derniers est- à peu près 4 à 5, 1 à 2, 9 à 14, 3 à 2, 1 à 2. On peut voir que, le pour le deuxième exemple et le dernier, le rapport est à peu près 1 à 2 ; en effet, on a 420 et 876, puis 412 et 884. Cela tient-1l à ce que de la deuxième figure on passe à la dernière en reculant une dame de quatre flèches, et en avançant une autre également de quatre flèches, et que, dès lors, dans les deux cas, on a exactement la même somme de nombres pour jouer?
 

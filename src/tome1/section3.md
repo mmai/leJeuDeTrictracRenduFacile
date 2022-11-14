@@ -48,7 +48,7 @@ L'adversaire ayant six trous, comparez les marqués en bredouille avec onze trou
 
 **225. Douze trous de suite, sans pavillon.**
 
-Douze points de suite peuvent ne donner qu'un trou (V. n° 146) ; il en est de même ici, excepté qu'on ne rentre pas en bredouille (V. n° 147). Par exemple on a deux trous, l'adversaire en prend cinq ; on en prend seize autres; on n'a pas le pavillon; on dit: dix-huit plus deux font vingt, vingt moins cinq donnent pour reste quinze.
+Douze points de suite peuvent ne donner qu'un trou (cf. n° 146) ; il en est de même ici, excepté qu'on ne rentre pas en bredouille (cf. n° 147). Par exemple on a deux trous, l'adversaire en prend cinq ; on en prend seize autres; on n'a pas le pavillon; on dit: dix-huit plus deux font vingt, vingt moins cinq donnent pour reste quinze.
 
 **226. Refait.**
 
@@ -80,7 +80,7 @@ Lorsqu'on est sur la fin, il faut savoir à un jeton près quelle est la différ
 
 **233. Papier et crayon.**
 
-On a vu (V. n° 220) que l'on peut avec un papier et un crayon noter les marqués que perd chaque joueur. Cette méthode est plus facile et plus courte que l'autre. On écrit sous le nom de chaque joueur le nombre dont il est marqué, la valeur du marqué qu'il perd. Lorsque le papier fait voir que l'on a terminé le nombre convenu-de marqués, on connait s'il y a des postillons; au compte de celui qui les a on ajoute vingt-huit pour le premier, et huit pour chacun des autres; ensuite on fait l'addition pour chaque colonne, et l'on retranche la plus petite somme de l'autre. Au reste on ajoute le nombre de jetons on de fiches dont on est convenu en commençant, et qu'on appelle _la queue_. Les dizaines sont des fiches, cinq unités valent une fiche.
+On a vu (cf. n° 220) que l'on peut avec un papier et un crayon noter les marqués que perd chaque joueur. Cette méthode est plus facile et plus courte que l'autre. On écrit sous le nom de chaque joueur le nombre dont il est marqué, la valeur du marqué qu'il perd. Lorsque le papier fait voir que l'on a terminé le nombre convenu-de marqués, on connait s'il y a des postillons; au compte de celui qui les a on ajoute vingt-huit pour le premier, et huit pour chacun des autres; ensuite on fait l'addition pour chaque colonne, et l'on retranche la plus petite somme de l'autre. Au reste on ajoute le nombre de jetons on de fiches dont on est convenu en commençant, et qu'on appelle _la queue_. Les dizaines sont des fiches, cinq unités valent une fiche.
 
 **234. Gagner avec plus de marqués.**
 

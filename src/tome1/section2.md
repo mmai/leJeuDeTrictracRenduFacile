@@ -80,7 +80,7 @@ Celui dont l'adversaire fait un des deux contre-jans, ou bat à faux dans une pr
 
 **155. S'en aller.**
 
-_Le joueur qui gagne un ou plusieurs trous dont les deux derniers points proviennent de son coup peut s'en aller, c'est-à-dire ?cmettre toutes ses dames au talon, et obliger Vadversaire à en faire autant, quelque beau que soit son jeu_, pour recommencer à abattre du bois, en effaçant ses points de reste et ceux que l'adversaire marquerait si l'on ne s'en allait pas. On ne doit toucher aucune de ses dames (V. n° 46), car cela ôterait le droit de s'en aller.
+_Le joueur qui gagne un ou plusieurs trous dont les deux derniers points proviennent de son coup peut s'en aller, c'est-à-dire ?cmettre toutes ses dames au talon, et obliger Vadversaire à en faire autant, quelque beau que soit son jeu_, pour recommencer à abattre du bois, en effaçant ses points de reste et ceux que l'adversaire marquerait si l'on ne s'en allait pas. On ne doit toucher aucune de ses dames (cf. n° 46), car cela ôterait le droit de s'en aller.
 
 Quand on recommence à jouer, ce qu'on appelle _un relevé_, la primauté appartient à celui qui s'en est allé, comme ayant gagné le trou. Il marque ses trous, dit : _Je m'en vais_, puis efface ses points et ceux de l'adversaire, et remet ses dames au talon. L'adversaire est obligé de relever aussi ses clames. Ensuite l'on continne la partie.
 
@@ -136,7 +136,7 @@ La deuxième est plus préjudiciable que la première. Si chaque joueur a 6 poin
 
 L'école par trop est faite quand on a quitté son jeton, parce qu'on ne peut le reculer. Il faut la marquer avant de jeter ses dés, sans quoi on n'y est plus reçu , et le premier joueur garde les points et les trous qu'il a marqués de trop.
 
-L'école par moins est faite dès que l'on a touché une dame (V. n° 46); elle l'est aussi quand on a jeté les dés, si elle vient d'un coup de l'adversaire. Elle ne serait pas faite si, gagnant 8 ou 10 points, on n'en marquait d'abord que 2, 4 ou 6; on aurait le droit d'avancer le jeton, tant que l'on n'aurait pas touché de dame , on jeté les dés. Elle serait faite si, au jan de retour, on levait par erreur une dame de l'adversaire.
+L'école par moins est faite dès que l'on a touché une dame (cf. n° 46); elle l'est aussi quand on a jeté les dés, si elle vient d'un coup de l'adversaire. Elle ne serait pas faite si, gagnant 8 ou 10 points, on n'en marquait d'abord que 2, 4 ou 6; on aurait le droit d'avancer le jeton, tant que l'on n'aurait pas touché de dame , on jeté les dés. Elle serait faite si, au jan de retour, on levait par erreur une dame de l'adversaire.
 
 **168. Écoles de l'adversaire.**
 
@@ -154,7 +154,7 @@ Si l'on s'en va en marquant le trou n'ayant pas assez de points, on est à l'éc
 
 **171. Examen des deux jeux.**
 
-A chaque coup, aussitôt que les dés sont jetés, chaque joueur doit regarder les deux jeux. Celui qui a jeté les dés examine ce qu'il gagne et le marque avant de toucher une dame (V. no 46), car sans cela il sera mis à l'école. L'autre joueur examine si le premier a joué ce qu'il devait jouer, et s'il a marqué tout ce qu'il était obligé de marquer : s'il y a lieu, il marque l'école et en outre les points qu'on lui a donnés. Si ce deuxième joueur jette les dés avant de marquer les points qu'on lui donnait, le premier le met à l'école pour cela.
+A chaque coup, aussitôt que les dés sont jetés, chaque joueur doit regarder les deux jeux. Celui qui a jeté les dés examine ce qu'il gagne et le marque avant de toucher une dame (cf. no 46), car sans cela il sera mis à l'école. L'autre joueur examine si le premier a joué ce qu'il devait jouer, et s'il a marqué tout ce qu'il était obligé de marquer : s'il y a lieu, il marque l'école et en outre les points qu'on lui a donnés. Si ce deuxième joueur jette les dés avant de marquer les points qu'on lui donnait, le premier le met à l'école pour cela.
 
 **172. Paroles et marques différentes.**
 
@@ -281,7 +281,7 @@ Lorsqu'on a huit points avec la bredouille et que l'adversaire en a quatre, s'il
 
 **196. Ecole de privilège.**
 
-Si l'on rompt le jan de retour, pouvant le conserver par le privilége de la bande (V. n° 110), on fait école. Ayant le jan de retour et ses dames surnuméraires aux flèches deuxième, troisième et quatrième, si, ayant 5-4, on rompt, l'adversaire met à l'école, car on pouvait conserver.
+Si l'on rompt le jan de retour, pouvant le conserver par le privilége de la bande (cf. n° 110), on fait école. Ayant le jan de retour et ses dames surnuméraires aux flèches deuxième, troisième et quatrième, si, ayant 5-4, on rompt, l'adversaire met à l'école, car on pouvait conserver.
 
 **197. Ecole impossible.**
 
@@ -352,7 +352,7 @@ Il ne faut pas jeter les dés avant que l'adversaire ait joué son coup, car il 
 
 ### 11.3 Les points
 
-**207. Points gagnés, points donnés (V. n° 152, 153).**
+**207. Points gagnés, points donnés (cf. n° 152, 153).**
 
 Les points gagnés se marquent avant les points donnés. Par exemple, chaque joueur a dix points ; le premier jette les dés, bat son adversaire à vrai de deux points et à faux de deux points; il marque le trou et efface les dix points de l'adversaire, qui marque ensuite les deux points qui lui ont été donnés. Les joueurs ont chacun dix points et leur plein; le premier amène un coup qui le fait conserver par impuissance et lui donne quatre points ; il marque un trou et deux points ; il efface les dix points de l'adversaire, qui marque ensuite deux points pour le nombre qui n'a pu être joué.
 
@@ -360,7 +360,7 @@ Les points gagnés se marquent avant les points donnés. Par exemple, chaque jou
 
 Le joueur qui, par le même coup, est battu à vrai et à faux, ne doit pas marquer les points qu'on lui donne avant que l'ad-versaire ait marqué les points qu'il gagne. Si le joueur battu à vrai et à faux gagne le trou par ce coup, il ne doit pas le marquer avant que l'adversaire ait marqué ses points, à moins qu'il n'en reçoive de lui l'avertissement : car il serait possible que l'adversaire, ne s'apercevant pas qu'il bat à vrai, fît école; et l'autre joueur la marquerait.
 
-**209. Points à effacer (V. n. 148).**
+**209. Points à effacer (cf. n. 148).**
 
 En marquant un trou, il faut effacer les points marqués par l'adversaire. Si on ne le faisait pas, on s'exposerait à ne pas profiter de l'école qu'il peut faire. S'il a quatre points, et si, par le coup qui donne le trou, il est battu à faux de quatre points, il est possible qu'il ne s'en aperçoive pas : il faut donc démarquer les points de l'adversaire.
 
@@ -370,11 +370,11 @@ Celui qui donne le trou ne doit pas non plus s'empresser d'effacer lui-même ses
 
 **210. Dame sur une autre.**
 
-Quand une dame a été enlevée de sa place, et posée sur une autre dame (ce qui ne peut arriver que quand on a l'intention de faire une case), il est incontestable qu'on doit jouer celle sur laquelle on a placé la première dame. L'intention de la jouer est manifestée de manière à ne laisser aucun doute. Ainsi, c'est bien le cas d'appliquer la loi (V. n° 46) : _Dame touchée, dame jouée_.
+Quand une dame a été enlevée de sa place, et posée sur une autre dame (ce qui ne peut arriver que quand on a l'intention de faire une case), il est incontestable qu'on doit jouer celle sur laquelle on a placé la première dame. L'intention de la jouer est manifestée de manière à ne laisser aucun doute. Ainsi, c'est bien le cas d'appliquer la loi (cf. n° 46) : _Dame touchée, dame jouée_.
 
 **211. Dame mal posée.**
 
-Lorsqu'on abandonne une dame sur une flèche autre que celle où le nombre doit aboutir, soit en deçà, soit au delà, cette dame reste entièrement à la discrétion de l'adversaire. Il peut, selon que son intérêt l'exige, ou la laisser à la place à laquelle elle est posée, ou la mettre à sa vraie place, ou même obliger de jouer avec cette dame le coup entier tout d'une, s'il y a possibilité. Mais ce droit de faire jouer tout d'une n'a lieu que dans le cas seulement où cette dame aurait été portée au delà du nombre le plus fort : car, si elle eut été posée en deçà, il ne resterait que le choix, ou de la laisser à la place à laquelle elle a été posée, ou de la mettre à celle où elle aboutit véritablement. Si l'un des nombres avait d'abord été joué régulièrement, on ne pourrait exiger que le coup entier fût joué tout d'une (V. n° 201).
+Lorsqu'on abandonne une dame sur une flèche autre que celle où le nombre doit aboutir, soit en deçà, soit au delà, cette dame reste entièrement à la discrétion de l'adversaire. Il peut, selon que son intérêt l'exige, ou la laisser à la place à laquelle elle est posée, ou la mettre à sa vraie place, ou même obliger de jouer avec cette dame le coup entier tout d'une, s'il y a possibilité. Mais ce droit de faire jouer tout d'une n'a lieu que dans le cas seulement où cette dame aurait été portée au delà du nombre le plus fort : car, si elle eut été posée en deçà, il ne resterait que le choix, ou de la laisser à la place à laquelle elle a été posée, ou de la mettre à celle où elle aboutit véritablement. Si l'un des nombres avait d'abord été joué régulièrement, on ne pourrait exiger que le coup entier fût joué tout d'une (cf. n° 201).
 
 **212. Dame abandonnée.**
 
@@ -382,7 +382,7 @@ Lorsque, pour jouer l'un des nombres amenés, on a posé et abandonné une dame 
 
 **213. Dame dans une table de l'adversaire.**
 
-On a vu (V. n° 61) qu'_on ne peut placer aucune dame dans une table où l'adversaire peut faire un plein_. Néanmoins il peut arriver que, par une inadvertance commune aux deux joueurs, l'un d'eux entre une dame dans une table de l'adversaire, lorsqu'il peut y faire un plein. Si l'adversaire ne réclame pas et jette les dés, l'erreur est consommée, et le coup ne peut être réformé pour le présent. Mais si, après ce coup joué, il est encore possible de remplir, et si l'on s'aperçoit de la faute, on a le droit d'obliger, si c'est dans sa deuxième table, à en sortir au coup suivant, si c'est possible, en passant dans la première table. Si le coup amené s'oppose à ce passage, on a le droit d'empêcher qu'il soit introduit une autre dame. Prenons l'exemple suivant.
+On a vu (cf. n° 61) qu'_on ne peut placer aucune dame dans une table où l'adversaire peut faire un plein_. Néanmoins il peut arriver que, par une inadvertance commune aux deux joueurs, l'un d'eux entre une dame dans une table de l'adversaire, lorsqu'il peut y faire un plein. Si l'adversaire ne réclame pas et jette les dés, l'erreur est consommée, et le coup ne peut être réformé pour le présent. Mais si, après ce coup joué, il est encore possible de remplir, et si l'on s'aperçoit de la faute, on a le droit d'obliger, si c'est dans sa deuxième table, à en sortir au coup suivant, si c'est possible, en passant dans la première table. Si le coup amené s'oppose à ce passage, on a le droit d'empêcher qu'il soit introduit une autre dame. Prenons l'exemple suivant.
 
 ![figure 22](figure22.png)
 
@@ -398,7 +398,7 @@ Si le jan de retour est avancé au point que toutes les dames se trouvent déjà
 
 La sévérité que la règle prescrit pour la rentrée de cette dame est justifiée et même commandée par la nécessité de prévenir tout ce qui, dans cette circonstance, pourrait devenir préjudiciable à l'adversaire. Elle tend aussi à déjouer les spéculations auxquelles des joueurs qui se seraient aperçus de l'absence de leur dame pourraient se livrer, en retardant sa rentrée jusqu'au moment où ils trouveraient l'occasion de la rendre favorable et utile à leurs intérêts. Citons un exemple qui prouve combien, cette rentrée, si elle n'était pas réglée avec sagesse et prévoyance, pourrait devenir avantageuse à l'un des joueurs et préjudiciable à l'autre.
 
-On suppose qu'au moment où l'absence de cette dame est reconnue, le joueur auquel elle appartient a son grand jan moins une dame à la sixième flèche; les trois autres dames sont aux flèches quatrième et cinquième. Comme nous le verrons en _Arithmétique_ (V. n° 266), cela ne lui donne que vingt chances pour remplir. Si, en rappelant la dame absente, on la place au talon, le nombre des chances sera alors vingt-huit (V. n° 269). La différence serait encore plus sensible si les dames sont sur la cinquième flèche ou la quatrième; on n'a alors (V. n° 263) que onze chances ou douze, au lieu que la rentrée au talon donne (V. no 266) vingt-trois ou vingt-quatre. En plaçant, au contraire, cette dame comme la règle le prescrit, elle n'améliore en rien la position de celui à qui elle appartient.
+On suppose qu'au moment où l'absence de cette dame est reconnue, le joueur auquel elle appartient a son grand jan moins une dame à la sixième flèche; les trois autres dames sont aux flèches quatrième et cinquième. Comme nous le verrons en _Arithmétique_ (cf. n° 266), cela ne lui donne que vingt chances pour remplir. Si, en rappelant la dame absente, on la place au talon, le nombre des chances sera alors vingt-huit (cf. n° 269). La différence serait encore plus sensible si les dames sont sur la cinquième flèche ou la quatrième; on n'a alors (cf. n° 263) que onze chances ou douze, au lieu que la rentrée au talon donne (cf. no 266) vingt-trois ou vingt-quatre. En plaçant, au contraire, cette dame comme la règle le prescrit, elle n'améliore en rien la position de celui à qui elle appartient.
 
 Si l'adversaire, après avoir gagné un trou, se détermine à rester sur l'examen des deux jeux, quoiqu'il ait joué son coup, il peut s'en aller, quand l'absence d,e . celte dame est reconnue avant que l'autre joueur ait jeté les dés pour le coup suivant, s'il voit que cette rentrée rend sa tenue défavorable.
 
@@ -406,7 +406,7 @@ Si l'adversaire amène un coup qui batte à faux la dame de la première table s
 
 Si l'adversaire bat à vrai cette dame, il peut exiger que la rentrée n'ait lieu qu'après le coup marqué et joué.
 
-Il est une autre spéculation qu'il faut empêcher ; mais ceci ne peut être compris que quand on aura étudié le chapitre suivant. Un joueur qui n'a que quatorze dames, et dont le jeu est dans un état de ruine qui présente les apparences d'une grande bredouille (je dirai ce que c'est dans le chapitre suivant) presque inévitable, s'apercevant de l'absence de sa quinzième dame, pourrait dissimuler, et attendre, pour la réclamer, une occasion où sa rentrée lui fournirait un moyen de s'opposer efficacement au succès de la grande bredouille dont il est menacé. Cette occasion aurait lieu lorsque, ayant déjà les flèches sixième, septième, huitième, vides, il ne lui resterait que les trois dernières cases, parce qu'alors, faisant rentrer sa dame, et la plaçant en surcase sur la neuvième flèche (V. n° 95), il fortifierait par là l'obstacle que ces trois dernières cases opposent au succès des grandes bredouilles, dont elles sont souvent l'écueil, lorsqu'on peut les conserver. C'est ce que la règle a sagement prévu en voulant que la dame rentrante ne puisse occuper d'autre place que le coin, lorsque toutes les dames se trouvent déjà passées dans la deuxième table.
+Il est une autre spéculation qu'il faut empêcher ; mais ceci ne peut être compris que quand on aura étudié le chapitre suivant. Un joueur qui n'a que quatorze dames, et dont le jeu est dans un état de ruine qui présente les apparences d'une grande bredouille (je dirai ce que c'est dans le chapitre suivant) presque inévitable, s'apercevant de l'absence de sa quinzième dame, pourrait dissimuler, et attendre, pour la réclamer, une occasion où sa rentrée lui fournirait un moyen de s'opposer efficacement au succès de la grande bredouille dont il est menacé. Cette occasion aurait lieu lorsque, ayant déjà les flèches sixième, septième, huitième, vides, il ne lui resterait que les trois dernières cases, parce qu'alors, faisant rentrer sa dame, et la plaçant en surcase sur la neuvième flèche (cf. n° 95), il fortifierait par là l'obstacle que ces trois dernières cases opposent au succès des grandes bredouilles, dont elles sont souvent l'écueil, lorsqu'on peut les conserver. C'est ce que la règle a sagement prévu en voulant que la dame rentrante ne puisse occuper d'autre place que le coin, lorsque toutes les dames se trouvent déjà passées dans la deuxième table.
 
 La question que l'on vient de résoudre fait voir combien il est utile de placer ses dames en trois piles, en commençant la partie et à chaque relevé, pour reconnaître si leur nombre est complet. Il y a une grande différence entre cette question et celle où il y a seize dames. Le premier cas n'entraîne pas, comme le dernier, la nullité de ce qui a précédé; il ne produit pas même la nullité du relevé courant.
 

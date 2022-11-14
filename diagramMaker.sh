@@ -94,47 +94,89 @@ text() {
 }
 
 triangle() {
-  SVG=$SVG'<polygon points="'$1','$2' '$3','$4' '$5','$6'" fill="none" stroke="black" />'
+  SVG=$SVG'<polygon points="'$1','$2' '$3','$4' '$5','$6'" fill="'$7'" stroke="black" />'
 }
 
 plateau() {
-  triangle 10 0 20 0 15 60
-  triangle 20 0 30 0 25 60
-  triangle 30 0 40 0 35 60
-  triangle 40 0 50 0 45 60
-  triangle 50 0 60 0 55 60
-  triangle 60 0 70 0 65 60
-
-  triangle 80 0 90 0 85 60
-  triangle 90 0 100 0 95 60
-  triangle 100 0 110 0 105 60
-  triangle 110 0 120 0 115 60
-  triangle 120 0 130 0 125 60
-  triangle 130 0 140 0 135 60
-
-  triangle 10 150 20 150 15 90
-  triangle 20 150 30 150 25 90
-  triangle 30 150 40 150 35 90
-  triangle 40 150 50 150 45 90
-  triangle 50 150 60 150 55 90
-  triangle 60 150 70 150 65 90
-
-  triangle 80 150 90 150 85 90
-  triangle 90 150 100 150 95 90
-  triangle 100 150 110 150 105 90
-  triangle 110 150 120 150 115 90
-  triangle 120 150 130 150 125 90
-  triangle 130 150 140 150 135 90
+  width=$1
+  color1=white
+  color2=gray
+  heightUp=$((width*6))
+  heightDown=$((width*9))
+  bottom=$((width*15))
+  color=$color1
+  for (( k = 0; k < 6; ++k )); do
+    triangle $((width*k)) 0 $((width*(k + 1))) 0 $((width*k + width/2)) $heightUp $color
+    if [[ $color == $color1 ]]; then
+      color=$color2
+    else
+      color=$color1
+    fi
+    triangle $((width*k)) $bottom $((width*(k + 1))) $bottom $((width*k + width/2)) $heightDown $color
+  done
+  for (( k = 7; k < 13; ++k )); do
+    triangle $((width*k)) 0 $((width*(k + 1))) 0 $((width*k + width/2)) $heightUp $color
+    if [[ $color == $color1 ]]; then
+      color=$color2
+    else
+      color=$color1
+    fi
+    triangle $((width*k)) $bottom $((width*(k + 1))) $bottom $((width*k + width/2)) $heightDown $color
+  done
 }
 
 dame() {
-  SVG=$SVG'<circle cx="'$1'" cy="'$2'" r="10" stroke="black" fill="'$3'" />'
+  width=$1
+  pos=$2
+  count=$3
+  color=$4
+
+  radius=$((width/2))
+  if [[ $pos -gt 12 ]]; then
+    side=up
+    x=$((pos - 12))
+  else
+    side=down
+    x=$pos
+  fi
+  if [[ $x -gt 6 ]]; then
+    x=$((x+1)) # add middle space
+  fi
+
+  fontSize=$width
+  drawCount=$count
+  if [[ $drawCount -gt 3 ]]; then
+    if [[ $side == "up" ]]; then
+      y=4
+    else
+      y=11
+    fi
+    SVG=$SVG'<text text-anchor="middle" x="'$((width*x - radius))'" y="'$((width*y + radius))'" font-size="'$fontSize'" fill="black">'$count'</text>'
+    drawCount=3
+  fi
+
+  for (( k = 0; k < drawCount; ++k )); do
+    if [[ $side == "up" ]]; then
+      y=$k
+    else
+      y=$((14 - k))
+    fi
+
+    SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="black" fill="'$color'" />'
+  done
+
 }
 
-plateau
-dame 100 100 black
-dame 70 100 white
-draw_svg 150 150
+diagram() {
+  width=$1
+
+  plateau $width
+  dame $width 1 5 black
+  dame $width 14 7 white
+  draw_svg $((15*width)) $((15*width))
+}
+
+diagram 50
 
 
 # msg "${RED}Read parameters:${NOFORMAT}"

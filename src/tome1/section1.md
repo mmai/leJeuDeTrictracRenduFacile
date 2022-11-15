@@ -132,7 +132,7 @@ _La primauté, ou le droit de jouer le premier coup avec ses dames, appartient �
 
 _Pour jouer un coup avec ses dames, il faut avancer deux dames chacune d'autant de flèches qu'il y a d'unités dans le nombre correspondant_. Par exemple, pour beset, qu'on peut écrire 1-1, on prend au talon deux dames, que l'on met sur la première flèche, la plus voisine, marquée 1 (fig. 1), et qui est la flèche de l'as. Si vous avez ensuite trois et as, que l'on écrit 3-1, vous mettez une dame sur la flèche première et une sur la troisième flèche. Vous avez alors onze dames au talon, trois à la première flèche, une à la troisième. Pour 6-4, que l'on doit énoncer six-quatre, on compte quatre flèches à partir du talon, puis six flèches, et vous arrivez à la première flèche de la deuxième table. Il y a ainsi neuf dames au talon, trois à la première flèche, une à la troisième, une à la quatrième, une à la sixième (fig. 2).
 
-![figure 2](figure2.png)
+![figure 2](diag-trictrac-figure2-1W9-2W3-3W1-4W1-7W1.svg)
 
 **30. Tout a bas. Tout d'une. Repos.**
 

@@ -10,9 +10,10 @@ usage() {
 Usage: $(basename "${BASH_SOURCE[0]}") [-h] [-v] pos1 [pos2...] 
 Generate a svg trictrac diagram from textual notation
 
-position = <arrow number>,<number of checkers>,<checkers color>
+position = <arrow number>,<checkers color>,<number of checkers>
 arrow numbers go from 1 to 24
-ex: ./diagramMaker.sh 1:5:black 14:7:white 3:2:black > diag.svg
+ex: ./diagramMaker.sh 1:black:5 14:white:7 3:black:2 > diag.svg
+ex: ./diagramMaker.sh 1:black:5 14:white:7 3:black:2 > diag.svg
 
 Available options:
 
@@ -77,9 +78,12 @@ setup_colors
 # ------------------------------- script logic here
 SVG=''
 draw_svg() {
+  width=$1
+  name=$2
   cat <<EOF
-<svg version="1.1" baseProfile="full" width="$1" height="$2" xmlns="http://www.w3.org/2000/svg">
+  <svg version="1.1" baseProfile="full" width="$((width*13))" height="$((width*13))" xmlns="http://www.w3.org/2000/svg">
   $SVG
+  <text text-anchor="middle" x="$((width*13 / 2))" y="$((width*12))" font-size="$((width / 2))" fill="black">$name</text>'
 </svg>
 EOF
 }
@@ -174,16 +178,21 @@ dame() {
 
 diagram() {
   width=$1
+  name=$2
+  positions="${@:3}"
 
   plateau $width
 
-  for pos in ${args[*]-}
+  for pos in $positions
   do
     arrPos=(${pos//:/ })
-    dame $width ${arrPos[0]} ${arrPos[1]} ${arrPos[2]}
+    location=${arrPos[0]}
+    color=${arrPos[1]}
+    count=${arrPos[2]}
+    dame $width $location $count $color
   done
 
-  draw_svg $((15*width)) $((11*width))
+  draw_svg $width $name $((15*width)) $((12*width))
 }
 
-diagram 50
+diagram 35 "$@"

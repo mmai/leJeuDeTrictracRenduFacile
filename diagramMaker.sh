@@ -89,16 +89,16 @@ text() {
 }
 
 triangle() {
-  SVG=$SVG'<polygon points="'$1','$2' '$3','$4' '$5','$6'" fill="'$7'" stroke="black" />'
+  SVG=$SVG'<polygon points="'$1','$2' '$3','$4' '$5','$6'" fill="'$7'" stroke="gray" />'
 }
 
 plateau() {
   width=$1
   color1=white
   color2=gray
-  heightUp=$((width*6))
-  heightDown=$((width*9))
-  bottom=$((width*15))
+  heightUp=$((width*5))
+  heightDown=$((width*6))
+  bottom=$((width*11))
   color=$color1
   for (( k = 0; k < 6; ++k )); do
     triangle $((width*k)) 0 $((width*(k + 1))) 0 $((width*k + width/2)) $heightUp $color
@@ -126,6 +126,14 @@ dame() {
   count=$3
   color=$4
 
+  color1=white
+  color2=gray
+  if [[ $color == $color1 ]]; then
+    colorCount=$color2
+  else
+    colorCount=$color1
+  fi
+
   radius=$((width/2))
   if [[ $pos -gt 12 ]]; then
     side=up
@@ -140,21 +148,23 @@ dame() {
 
   fontSize=$width
   drawCount=$count
-  if [[ $drawCount -gt 3 ]]; then
+  max=4
+  if [[ $drawCount -gt $max ]]; then
     if [[ $side == "up" ]]; then
-      y=4
+      y=$((max))
     else
-      y=11
+      y=$((11 - max - 1))
     fi
-    SVG=$SVG'<text text-anchor="middle" x="'$((width*x - radius))'" y="'$((width*y + radius))'" font-size="'$fontSize'" fill="black">'$count'</text>'
-    drawCount=3
+    SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="gray" fill="'$color'" />'
+    SVG=$SVG'<text text-anchor="middle" x="'$((width*x - radius))'" y="'$((width*(y + 1) - (radius / 4)))'" font-size="'$fontSize'" fill="'$colorCount'">'$count'</text>'
+    drawCount=$max
   fi
 
   for (( k = 0; k < drawCount; ++k )); do
     if [[ $side == "up" ]]; then
       y=$k
     else
-      y=$((14 - k))
+      y=$((10 - k))
     fi
 
     SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="black" fill="'$color'" />'
@@ -173,7 +183,7 @@ diagram() {
     dame $width ${arrPos[0]} ${arrPos[1]} ${arrPos[2]}
   done
 
-  draw_svg $((15*width)) $((15*width))
+  draw_svg $((15*width)) $((11*width))
 }
 
 diagram 50

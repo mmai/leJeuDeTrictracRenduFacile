@@ -6,18 +6,18 @@ trap cleanup SIGINT SIGTERM ERR EXIT
 script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd -P)
 
 usage() {
-# Usage: $(basename "${BASH_SOURCE[0]}") [-h] [-v] [-f] -p param_value arg1 [arg2...]
   cat <<EOF
-Usage: $(basename "${BASH_SOURCE[0]}") [-h] [-v] [-f] positions 
-
+Usage: $(basename "${BASH_SOURCE[0]}") [-h] [-v] pos1 [pos2...] 
 Generate a svg trictrac diagram from textual notation
+
+position = <arrow number>,<number of checkers>,<checkers color>
+arrow numbers go from 1 to 24
+ex: ./diagramMaker.sh 1:5:black 14:7:white 3:2:black > diag.svg
 
 Available options:
 
 -h, --help      Print this help and exit
 -v, --verbose   Print script debug info
--r, --render    Render svg
--p, --param     Some param description
 EOF
   exit
 }
@@ -56,11 +56,6 @@ parse_params() {
     -h | --help) usage ;;
     -v | --verbose) set -x ;;
     --no-color) NO_COLOR=1 ;;
-    -f | --flag) flag=1 ;; # example flag
-    -p | --param) # example named parameter
-      param="${2-}"
-      shift
-      ;;
     -?*) die "Unknown option: $1" ;;
     *) break ;;
     esac
@@ -171,15 +166,14 @@ diagram() {
   width=$1
 
   plateau $width
-  dame $width 1 5 black
-  dame $width 14 7 white
+
+  for pos in ${args[*]-}
+  do
+    arrPos=(${pos//:/ })
+    dame $width ${arrPos[0]} ${arrPos[1]} ${arrPos[2]}
+  done
+
   draw_svg $((15*width)) $((15*width))
 }
 
 diagram 50
-
-
-# msg "${RED}Read parameters:${NOFORMAT}"
-# msg "- flag: ${flag}"
-# msg "- param: ${param}"
-# msg "- arguments: ${args[*]-}"

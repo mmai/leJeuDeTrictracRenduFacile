@@ -264,6 +264,7 @@ Si l'on marque des points croyant remplir ou conserver, quoiqu'on ne remplisse p
 **193. Grand jan trop conservé.**
 
 ![figure 19](figure19.png)
+![figure 19](diag-trictrac-figure19-6W1-7W3-8W2-9W2-10W2-11W3-12W2-13B2-14B2-16B2-17B3-18B3.svg)
 
 Il est très dangereux de vouloir conserver un grand jan trop long- temps, et de se fier sur l'espérance d'amener de petits nom'bres: ou de recevoir des; points : car souvent il arrive que l'on est forcé de rompre. On a ces deux jeux; on fait un 6-6, et croyant n'être pas obligé de rompre , on marque avec les six points que l'on avait et six pour le plein un trou double, et l'on s'en va, parce qu'on donne six points, et parce que le jeu de l'adversaire est bien plus beau, et que vous pouvez être enfilé.
 
@@ -286,6 +287,7 @@ Si l'on rompt le jan de retour, pouvant le conserver par le privilége de la ban
 **197. Ecole impossible.**
 
 ![figure 20](figure20.png)
+![figure 20](diag-trictrac-figure20-7W2-8W2-9W3-10W3-11W3-12W2-13B2-14B2-15B2-16B2-17B2-19B1-20B1-21B2-24B1.svg)
 
 Pour que l'école par omission soit consommée, il faut que celui qui la fait ait jeté les dés, ou qu'il ait touché ses dames sans avoir dit : _J'adoube_. Il peut arriver qu'on omette de marquer des points qu'on gagne, n'ayant à faire aucun des deux actes exigés pour l'école : c'est ce qui arrive dans l'exemple suivant. Avec ces deux jeux, vous amenez 6-6, qui vous donne douze points, six pour conserver, et six pour battre à vrai la dame du talon; mais, ne vous apercevant pas que vous battez à vrai, vous vous contentez de marquer six points, et, comme vous ne pouvez jouer votre 6-6, il n'y a aucun acte à faire qui constitue l'école et la détermine. L'adversaire, privé de tous moyens de s'en approprier le bénéfice, doit se contenter de marquer deux trous pour les deux dames battues à faux, et quatre points pour les six non joués. Néanmoins, si vous reconnaissez l'erreur avant d'avoir de nouveau jeté les dés, vous avez le droit de faire effacer les deux trous de l'adversaire, d'en marquer deux, et de vous en aller comme votre position l'exige.
 
@@ -300,6 +302,7 @@ Quelque soin que l'on prenne pour prévoir toutes les difficultés qui peuvent s
 **199. Premier exemple.**
 
 ![figure 21](figure21.png)
+![figure 21](diag-trictrac-figure21-1W1-4W1-6W2-7W2-8W3-9W3-10W3-13B2-15B2-16B2-17B2-19B2-20B2-22B2-24B1.svg)
 
 Les deux jeux sont comme ici. Vous amenez 6-6. Vous n'avez qu'un seul moyen de jouer ce coup, c'est de prendre votre coin directement avec les dames de la cinquième flèche; mais vous vous trompez et prenez votre coin par puissance avec les dames de la sixième flèche. L'adversaire, qui s'aperçoit de l'erreur, réforme le coup, et remet les dames sur la sixième flèche. Alors, ne pouvant jouer votre 6-6 autrement, vous prenez votre coin directement. L'adversaire vous oppose la règle qui prive celui qui, pouvant prendre son coin directement , le prend par puissance, du droit dont il n'a pas usé de le prendre directement; mais vous détruisez cette opposition par la loi incontestable qu'un joueur doit jouer son coup, quand c'est possible. L'adversaire veut alors que vous remettiez au coin les dames de la sixième flèche ; mais vous lui répondez qu'il a lui-même rétabli les dames comme elles étaient auparavant, et qu'il vous a forcé à prendre le coin directement.
 
@@ -385,6 +388,7 @@ Lorsque, pour jouer l'un des nombres amenés, on a posé et abandonné une dame 
 On a vu (cf. n° 61) qu'_on ne peut placer aucune dame dans une table où l'adversaire peut faire un plein_. Néanmoins il peut arriver que, par une inadvertance commune aux deux joueurs, l'un d'eux entre une dame dans une table de l'adversaire, lorsqu'il peut y faire un plein. Si l'adversaire ne réclame pas et jette les dés, l'erreur est consommée, et le coup ne peut être réformé pour le présent. Mais si, après ce coup joué, il est encore possible de remplir, et si l'on s'aperçoit de la faute, on a le droit d'obliger, si c'est dans sa deuxième table, à en sortir au coup suivant, si c'est possible, en passant dans la première table. Si le coup amené s'oppose à ce passage, on a le droit d'empêcher qu'il soit introduit une autre dame. Prenons l'exemple suivant.
 
 ![figure 22](figure22.png)
+![figure 22](diag-trictrac-figure22-7W5-9W3-10W3-12W4-13B3-14B3-15B2-16B2-17B3-28B2.svg)
 
 L'adversaire amène 4-2, qui l'oblige à rompre ; mais, ne s'apercevant pas que vous pouvez remplir, il croit conserver, marque quatre points, et joue de sa septième flèche à votre dixième. Partageant l'erreur, vous ne réclamez pas, et jetez les dés, qui vous donnent 6-1. En portant votre as de la huitième flèche à la neuvième, vous voyez l'erreur, et que vous pouvez remplir. L'adversaire amène 6-5. Il pourrait conserver, en passant dans votre première table une des dames surnuméraires de sa i dixième flèche ou de son coin, mais vous l'obligez à jouer le six avec la dame qu'il a à votre dixième flèche, et de rompre pour jouer le cinq.
 

@@ -141,7 +141,8 @@ dame() {
   radius=$((width/2))
   if [[ $pos -gt 12 ]]; then
     side=up
-    x=$((pos - 12))
+    # x=$((pos - 12))
+    x=$((25 - pos))
   else
     side=down
     x=$pos

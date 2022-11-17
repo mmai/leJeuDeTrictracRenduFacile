@@ -132,7 +132,7 @@ _La primauté, ou le droit de jouer le premier coup avec ses dames, appartient �
 
 _Pour jouer un coup avec ses dames, il faut avancer deux dames chacune d'autant de flèches qu'il y a d'unités dans le nombre correspondant_. Par exemple, pour beset, qu'on peut écrire 1-1, on prend au talon deux dames, que l'on met sur la première flèche, la plus voisine, marquée 1 (fig. 1), et qui est la flèche de l'as. Si vous avez ensuite trois et as, que l'on écrit 3-1, vous mettez une dame sur la flèche première et une sur la troisième flèche. Vous avez alors onze dames au talon, trois à la première flèche, une à la troisième. Pour 6-4, que l'on doit énoncer six-quatre, on compte quatre flèches à partir du talon, puis six flèches, et vous arrivez à la première flèche de la deuxième table. Il y a ainsi neuf dames au talon, trois à la première flèche, une à la troisième, une à la quatrième, une à la sixième (fig. 2).
 
-![figure 2](diag-trictrac-figure2-1W9-2W3-3W1-4W1-7W1.svg)
+![figure 2](diag-trictrac-figure_2-1W9-2W3-3W1-4W1-7W1.svg)
 
 **30. Tout a bas. Tout d'une. Repos.**
 
@@ -224,18 +224,15 @@ _Exceptions_. Celui qui n'a pas jeté les dés peut toucher ses dames. Il y a ex
 
 Lorsque l'on fait cinq cases à la suite de 1 son talon, et qu'il reste au moins deux dames sur la flèche du talon, on dit que l'on fait un plein, ou que l'on remplit (fig. 3).
 
-![Figure 3](figure3.png)
-![figure 3](diag-trictrac-figure3-1W3-2W3-3W2-4W2-5W2-6W2-7W1.svg)
+![figure 3](diag-trictrac-figure_3-1W3-2W3-3W2-4W2-5W2-6W2-7W1.svg)
 
 On remplit également lorsqu'on fait les six cases suivantes, les cases des flèches 6e, 7e 8e, 9e, 10e 11e (fig. 4)
 
-![Figure 4](figure4.png)
-![figure 4](diag-trictrac-figure4-4W1-6W1-7W3-8W2-9W2-10W2-11W2-12W2.svg)
+![figure 4](diag-trictrac-figure_4-4W1-6W1-7W3-8W2-9W2-10W2-11W2-12W2.svg)
 
  ou lorsqu'_en passant au retour_ (cf. nos 33, 41), on y fait ses six dernières cases, c'est-à-dire celles du talon et des cinq premières flèches (fig. 5). 
 
-![Figure 5](figure5.png)
-![figure 5](diag-trictrac-figure5-15W1-16W1-19W2-20W3-21W2-22W2-23W2-24W2.svg)
+![figure 5](diag-trictrac-figure_5-15W1-16W1-19W2-20W3-21W2-22W2-23W2-24W2.svg)
 
 On voit ainsi que _remplir_ ou _faire un plein_, c'est _parvenir à avoir au moins deux dames sur chacune des six flèches d'une de vos deux tables ou de la première de l'adversaire_. On ne peut faire de plein dans la deuxième table de l'adversaire, parce que l'on ne peut placer ni une dame ni deux à sa onzième flèche.
 
@@ -263,14 +260,12 @@ Il y en a trois, il faut 1° qu'il ne manque au plein que deux dames ou une ; 2�
 
 **53. Une case a faire.**
 
-![figure 6](figure6.png)
 ![figure 6](diag-trictrac-figure6-1W3-2W3-3W3-4W3-5W3.svg)
 
 Avec la fig. 6, cherchez les coups qui peuvent remplir. Pour n'en oublier aucun, combinez la première dame surnuméraire, celle qui est à gauche, avec les quatre autres, vous aurez 5-4, 5-3, 5-2, 5 1 ; ensuite la deuxième avec les trois autres, cela donne 4-3, 4-2, 4-1 ; la troisième avec les deux autres donne 3 2, 3-1, et enfin 2-1 : ainsi dix coups remplissent. Pour voir si un coup amené remplit, il faut voir si chaque nombre porte une dame sur la flèche vide. Avec cette figure, aucun doublet ne remplit. Si les cinq dames surnuméraires sont, deux à la première flèche, deux à la troisième, une à la quatrième, les coups qui remplissent sont 4-2, 4-1, 2-1, 4-4, 2-2 : cinq coups.
 
 **54. Deux demi-cases à faire. Voir si un coup remplit.**
 
-![figure 7](figure7.png)
 ![figure 7](diag-trictrac-figure7-1W3-2W3-3W3-4W4-5W1-6W1.svg)
 
 Ceci est nouveau et demande plus d'attention, plus de travail. Ici les dames surnuméraires sont des surcases. Couvrez la première demi case avec la première surcase, et la deuxième demi-case avec la deuxième surcase, cela donne 4-4; on peut aussi couvrir la deuxième demi-case avec la troisième surcase, avec la quatrième, et on a 4-3, 4-2. Couvrez la première demi-case avec la deuxième surcase, et la dellxième demi-case avec la troisième surcase, puis avec la quatrième, vous avez 3-3, 3-2 ; la troisième surcase sur la première demi-case et la quatrième surcase sur la deuxième demi-case ajoutent 2-2. On a donc 4-4, 4-3, 4-2, 3-3, 3-2, 2-2.
@@ -285,7 +280,6 @@ Pour voir si un coup remplit, il faut voir si, avec les deux nombres, on a deux 
 
 Pour remplir, il suffit qu'une surcase soit portée sur la demi-case, par le plus petit nombre, ou le plus grand, ou leur somme. 6-2 remplit du petit, 5-1 du grand, 3 1 de la somme 4. Il y a tant de coups qui remplissent, qu'on ne les dira pas; 6-6, 6-3, 6-1, 5-5, ne remplissent pas.
 
-![figure 8](figure8.png)
 ![figure 8](diag-trictrac-figure8-1W3-2W4-3W2-4W3-5W2-6W1.svg)
 
 **56. Remplir de deux façons, de trois façons.**
@@ -312,7 +306,6 @@ Si vous avez un plein, chaque coup que vous pouvez jouer en laissant deux dames 
 
 **61. Passer au retour.**
 
-![figure 9](figure9.png)
 ![figure 9](diag-trictrac-figure9-1W2-2W2-3W2-4W3-5W2-6W2-9W2.svg)
 
 Avec la fig. 9 vous amenez 6-4 : comment le jouer? Peut-on conserver? Il faut jouer tout d'une de la neuvième flèche à la cinquième de l'adversaire, en vous reposant sur sa neuvième flèche ou sa onzième, en disant 6-4 ou 4-6. Si c'était 5-5, il n'y aurait qu'un passage ; si les passages étaient fermés, on jouerait de la première table ; si c'était 6-6, on prendrait son coin; si le coup était 3-3 ou 4-4, on conserverait en prenant son coin. Avec un nombre quelconque et 1 ou 2, avec une somme des nombres égale à 7, on conserverait.
@@ -349,7 +342,6 @@ Pour pouvoir remplir au coup suivant, il faut les mêmes conditions qu'au n° 52
 
 **68. Une case a faire.**
 
-![figure 10](figure10.png)
 ![figure 10](diag-trictrac-figure10-1W2-4W1-6W1-7W3-8W2-9W2-11W2-12W2.svg)
 
 Soit la figure ci-jointe; les dames du talon ne peuvent servir à remplir au coup suivant ; on ne remplit que par 6-4, 6-3, 4-3. Si les deux dames du talon sont portées aux flèches quatrième et septième, on a les coups 6-5, 6-4, 6-3, 6-2, 5-4, 5-3, 5-2, 4-3, 4-2,3-2. On a la règle: _Avec cinq cases faites, on remplit si les deux nombres du coup portent deux dames surnuméraires sur la flèche vide_.
@@ -358,7 +350,6 @@ Soit la figure ci-jointe; les dames du talon ne peuvent servir à remplir au cou
 
 Pour n'oublier aucun coup, il faut suivre la même marche qu'au n° 54. Avec cette figure, combinez les dames surnuméraires avec les demi-cases prises dans l'ordre naturel, c'est-à-dire couvrez la première demi-case avec la première dame surnu-maire, et la deuxième demi-case avec la deuxième dame surnuméraire; puis avec la troisième dame surnuméraire, avec la quatrième, avec la cinquième, ce qui donne les coups 5 - 5, 5-4, 5 - 3, 5-2. 
 
-![figure 11](figure11.png)
 ![figure 11](diag-trictrac-figure11-2W1-3W1-4W1-5W1-6W1-7W1-8W1-9W2-10W2-11W2-12W2.svg)
 
 Couvrez ensuite la première demi-éase avec la deuxième dame surnuméraire, et la deuxième demi-case avec la troisième dame surnuméraire; puis avec la quatrième, avec la cinquième, ce qui donne les coups 4-4, 4-3, 4 2. On peut couvrir la première demi - case avec la troisième dame surnuméraire, et la deuxième demi case avec la quatrième dame surnuméraire, puis avec la cinquième : ce qui donne les coups 3-3, 3-2. Enfin couvrez la première demi-case avec la quatrième dame surnuméraire, et la deuxième demi-case avec la cinquième dame surnuméraire : cela donne 2-2. Ainsi l'ordre naturel donne les coups 5 -5, 5-4, 5-3, 5-2, 4-4, 4-3, 4-2, 3-3, 3-2, 2-2.
@@ -375,7 +366,6 @@ Comment voir si un coup couvre deux demi-cases? Prenons la figure du numéro pr�
 
 **72. Demi-case à faire.**
 
-![figure 12](figure12.png)
 ![figure 12](diag-trictrac-figure12-4W1-5W1-7W3-8W2-9W3-10W2-11W1-12W2.svg)
 
 Vous remplissez si l'un des deux nombres ou leur somme est six, ou quatre, ou deux, ou bien si la somme des deux nombres est sept. Avec 3-2, on remplit du deux; 2-1 remplit du deux, le plus grand; 3-1 remplit par la somme.
@@ -400,7 +390,6 @@ Ainsi, conserver par impuissance le grand jan, c'est ne pas rompre et avoir un o
 
 **77. Conserver en passant au retour (cf. n°61).**
 
-![figure 13](figure13.png)
 ![figure 13](diag-trictrac-figure13-7W2-8W3-9W3-10W2-11W3-12W2-13B4-14B3-15B3-17B4-20B1.svg)
 
 Vous avez eu des coups très favorables, l'adversaire en a eu de très contraires, en sorte que les deux jeux sont ceux de la fig. 13. Vous pouvez placer des dames dans sa deuxième table, où il ne peut plus faire de plein (cf. n° 61, 2e alinéa). Si vous amenez 5-3, votre dame surnuméraire de la dixième flèche va à sa cinquième; avec 5-2, à sa sixième. Avec 5-4, votre dame surnuméraire de votre dixième flèche serait portée sur sa quatrième, où il a une dame et, où vous ne pouvez aller ; pour conserver, il faut jouer de votre dixième à sa huitième, et de votre septième à votre onzième.
@@ -511,14 +500,12 @@ Pour pouvoir remplir au coup suivant, il faut les quatre mêmes conditions qu'au
 
 **99. Une case à faire (cf. n˚53, 68).**
 
-![figure 14](figure14.png)
 ![figure 14](diag-trictrac-figure14-17W1-18W1-19W3-20W3-21W3-23W2-24W2.svg)
 
 Pour avoir tous les coups qui remplissent, il faut combiner deux à deux les dames surnuméraires :on a 5-4, 5-3, 5-2, 5-1, 4-3, 4-2, 4-1, 3-2, 3-1, 2-1. Si cette série n'est pas écrite, on peut voir si un coup remplit. Soit, par exemple, 4-3 : on voit qu'à compter quatre à partir de la flèche vide, on arrive à la sixième, qui a une dame ; de même trois tombe sur la cinquième flèche; donc 4-3 remplit.
 
 **100. Deux demi-cases à faire (cf. n° 54, 69).**
 
-![figure 15](figure15.png)
 ![figure 15](diag-trictrac-figure15-17W1-18W1-19W3-20W3-21W3-22W1-23W1-24W2.svg)
 
 Pour n'oublier aucun coup, combinez les dames surnuméraires avec les deux demi-cases prises dans Tordre naturel, c'est-à-dire couvrez la première demi-case avec la première dame surnuméraire, et la deuxième demi - case avec la deuxième dame surnuméraire, puis avec la troisième dame surnuméraire, avec la quatrième, avec la cinquième : ce qui donne les coups 5-5, 5-4, 5-3, 5-2. Couvrez ensuite la première demi-case avec la deuxième dame surnuméraire, et la deuxième demi-case avec la troisième dame surnuméraire, puis avec la quatrième, avec la cinquième : ce qui donne les coups 4-4, 4-3, 4-2. On peut couvrir la première demi-case avec la troisième dame surnuméraire, et la deuxième demi-case avec la quatrième da- • me surnuméraire, puis avec la cinquième: ce qui donne les coups 3-3, 3-2. Enfin couvrez la première demi-case avec la quatrième dame surnuméraire, et la deuxième demi-case avec la cinquième dame surnuméraire: cela donne 2-2. Ainsi l'ordre naturel donne les coups 5-5, 5-4, 5-3, 5-2, 4-4, 4-3, 4-2, 3-3, 3-2, 2-2.
@@ -535,7 +522,6 @@ Les deux séries étant supposées inconnues, essayez 6-2 ; dans l'ordre naturel
 
 **103. Demi-case à faire.**
 
-![figure 16](figure16.png)
 ![figure 16](diag-trictrac-figure16-16W1-17W1-19W3-20W2-21W3-22W2-23W1-24W2.svg)
 
 Vous remplissez si l'un des deux llombres ou leur somme est six, ou quatre, ou deux, ou bien si la somme desdeux nombres est sept. Avec 3-2, on remplit du deux; 2-1 remplit du deux, le plus grand; 3-1 remplit par la somme.
@@ -660,7 +646,6 @@ On sait ce que c'est que battre le coin (cf. n° 45) ; on va apprendre à battre
 
 Si une dame de l'adversaire est seule sur une flèche à lui ou à vous, et si votre coup porte une de vos dames sur cette dame découverte, soit par un des deux nombres, soit par leur somme, on dit que vous la battez, et cela vous donne un gain. Si, avec la figure 17, vous amenez 4-1, une dame de votre dixième flèche peut aller à la neuvième, de l'adversaire, où il a une dame seule, et par conséquent elle est battue du nombre quatre. Avec 5-1, vous battez de la somme six à partir de votre huitième flèche. Une dame seule sur une seule flèche est une demi-case quand on veut remplir, une dame découverte quand on veut battre.
 
-![figure 17](figure17.png)
 ![figure 17](diag-trictrac-figure17-1W2-4W1-6W1-7W3-8W2-9W2-11W2-12W2-13B2-14B2-15B1-17B2-18B2.svg)
 
 **130. Dame qui bat. Battre du coin.**
@@ -675,7 +660,6 @@ Dans la fig. 17, 4-1 bat d'une façon ; 3-1 bat de deux façons, du trois, du tr
 
 D'un seul coup, on peut battre plusieurs dames. Soit la figure 18 : si l'adversaire amène 6-3, il vous bat les quatre dames des flèches troisième, quatrième, sixième, septième; deux sont battues d'une façon, deux le sont de deux façons.
 
-![figure 18](figure18.png)
 ![figure 18](diag-trictrac-figure18-2W1-3W1-4W1-5W1-6W1-7W1-8W1-9W2-10W2-11W2-12W2-13B2-14B2-16B2-17B2-18B1.svg)
 
 **133. Voir si l'on bat.**

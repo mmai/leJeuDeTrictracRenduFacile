@@ -12,10 +12,11 @@ Modifications apportées par rapport à l'édition originale :
 - l'ajout de cette préface
 - les tables des matières du début des tomes ont été supprimées et remplacées par le moteur de recherche et les menus
 - les renvois `(V. xxx)` ont été réécrits `(cf. xxx)`
+- les diagrammes (hormis le premier) ont été "redessinés" au format SVG
 
 Les sources du site sont disponibles sur [ce dépôt git](https://github.com/mmai/leJeuDeTrictracRenduFacile/). Vous pouvez y signaler des erreurs en [créant un ticket](https://github.com/mmai/leJeuDeTrictracRenduFacile/issues).
 
-Vous pourriez également être intéressés par la transcription d'un autre traité, en anglais, concernant le jeu de piquet : [The laws of Piquet adopted by the Portland and Turf Clubs with A Treatise on the Game by Cavendish](https://mmai.github.io/piquetBook/).
+Je m'étais prêté une première fois à cet exercice de transcription sur un traité concernant le jeu de piquet, en anglais : [The laws of Piquet adopted by the Portland and Turf Clubs with A Treatise on the Game by Cavendish](https://mmai.github.io/piquetBook/).
 
 ## Page de titre 
 

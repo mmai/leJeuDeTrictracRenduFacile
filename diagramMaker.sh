@@ -79,11 +79,30 @@ setup_colors
 SVG=''
 draw_svg() {
   width=$1
-  name=$2
+  tableWidth=$((width*13))
+  tableHeight=$((width*11))
+  header=$((3 * width / 2))
+  lineWidth=2
+  name=$(echo $2 | tr '_' ' ')
   cat <<EOF
-  <svg version="1.1" baseProfile="full" width="$((width*13))" height="$((width*13))" xmlns="http://www.w3.org/2000/svg">
-  $SVG
-  <text text-anchor="middle" x="$((width*13 / 2))" y="$((width*12))" font-size="$((width / 2))" fill="black">$name</text>'
+  <svg version="1.1" baseProfile="full" width="$tableWidth" height="$tableWidth" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- legend -->
+  <text text-anchor="middle" x="50%" y="$((width))" font-size="$((width / 2))" fill="black">$name</text>'
+
+  <!-- bordures exterieures -->
+  <rect x="0" y="$header" width="100%" height="$((tableHeight + 3))" fill="gray" stroke="gray"></rect>
+
+  <svg  x="$lineWidth" y="$((header + lineWidth))" width="$((tableWidth - 2 * lineWidth))" viewBox="0 0 $((width*13)) $((width*13))">
+    <!-- white background -->
+    <rect x="0" y="0" width="100%" height="$tableHeight" fill="white" stroke="white"></rect>
+    <!-- middle separator line -->
+    <rect x="0" y="0" width="100%" height="$tableHeight" fill="none" stroke="gray" stroke-width="$lineWidth"></rect>
+
+    <rect x="$((tableWidth / 2 - 2))" y="0" width="4" height="$tableHeight" fill="gray" stroke="gray" stroke-width="$lineWidth"></rect>
+    $SVG
+  </svg>
+
 </svg>
 EOF
 }
@@ -130,12 +149,17 @@ dame() {
   count=$3
   color=$4
 
-  color1=white
-  color2=gray
+  checkerColorW=white
+  checkerColorB=dimgray
+
+  colorW=white
+  colorB=gray
   if [[ $color == $color1 ]]; then
-    colorCount=$color2
+    colorCount=$colorB
+    color=$checkerColorW
   else
-    colorCount=$color1
+    colorCount=$colorW
+    color=$checkerColorB
   fi
 
   radius=$((width/2))

@@ -5,7 +5,7 @@
 # avec section1.md contenant par exemple : ![figure 2](diag-trictrac-1W9-3W1-4W1-7W1.svg)
 
 prefix="diag-trictrac-"
-regex="$prefix([a-z0-9]+)-(([0-9]+[WB][0-9]+-?)+).svg"
+regex="$prefix([a-z0-9_]+)-(([0-9]+[WB][0-9]+-?)+).svg"
 createDiags() {
   while read line; do
     if [[ $line =~ $regex ]]

@@ -2,9 +2,15 @@ servedocs:
 	mkdocs serve
 viewdocs:
 	firefox http://127.0.0.1:8000
-builddocs:
+diagrams:
+	./postProcess.sh src/tome1/section1.md
+	./postProcess.sh src/tome1/section2.md
+	./postProcess.sh src/tome1/section3.md
+	./postProcess.sh src/tome2/section4.md
+	./postProcess.sh src/tome2/section5.md
+builddocs: diagrams
 	mkdocs build
-deploy:
+deploy: builddocs
 	mkdocs gh-deploy
 # epub:
 # 	mkdocs2pandoc > piquetBook.pd

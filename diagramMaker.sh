@@ -92,17 +92,21 @@ middleBarColor=mediumseagreen
 frameStrokeColor=black
 matColor=honeydew
 whiteArrowColor=white
-blackArrowColor=teal
+blackArrowColor='#6e59d9'
 checkerStokeColor=black
 whiteCheckerColor=white
-blackCheckerColor=dimgray
+blackCheckerColor='dimgray'
 textColor=black
 
-# gray
-# frameColor=white
-# frameStrokeColor=white
-frameColor=dimgray
-frameStrokeColor=black
+# purple
+frameColor='#6e59d9'
+middleBarColor='#6e59d9'
+
+# # gray
+frameColor=white
+frameStrokeColor=white
+# frameColor=dimgray
+# frameStrokeColor=black
 middleBarColor=white
 matColor=white
 whiteArrowColor=white
@@ -118,7 +122,7 @@ draw_svg() {
   tableHeight=$((width*11))
   header=$((3 * width / 2))
   borderWidth=$((width / 4))
-  fontSize=$((2 * width / 3))
+  fontSize=$((3 * width / 5))
   name=$(echo $2 | tr '_' ' ')
 
   SVGHalfBoard=$(halfboard $width)
@@ -132,6 +136,7 @@ draw_svg() {
   <rect x="0" y="$header" width="100%" height="$((tableHeight + 2 * $borderWidth))" fill="$frameColor" stroke="$frameStrokeColor"></rect>
 
   <svg  x="$borderWidth" y="$((header + borderWidth))" width="$((tableWidth - 2 * borderWidth))" viewBox="0 0 $((width*13)) $((width*13))">
+    <rect x="0" y="0" width="100%" height="$((tableHeight - 2))" fill="$matColor" ></rect>
     <!-- left board -->
     <svg x="0" y="0" width="$(( (tableWidth - width) / 2))" height="$((tableHeight - 2))" viewBox="0 0 $((width*6)) $((width*11))">
       $SVGHalfBoard
@@ -139,7 +144,6 @@ draw_svg() {
 
     <!--  middle bar -->
     <rect x="$(( (tableWidth - width) / 2 ))" y="0" width="$((width))" height="$((tableHeight - 2))" fill="$middleBarColor" stroke="$middleBarColor"></rect>
-    <!--rect x="$(( tableWidth / 2 ))" y="$((tableHeight / 3))" width="2" height="$((tableHeight / 3))" fill="$frameColor" stroke="$frameColor"></rect-->
 
     <!--  right board -->
     <svg x="$(( (tableWidth + width) / 2 ))" y="0" width="$(( (tableWidth - width) / 2))" height="$((tableHeight - 2))" viewBox="0 0 $((width*6)) $((width*11))">
@@ -168,7 +172,7 @@ halfboard() {
   bottom=$((width*11))
   color=$whiteArrowColor
 
-  echo '<rect x="0" y="0" width="100%" height="100%" fill="'$matColor'" stroke="'$frameStrokeColor'"></rect>'
+  echo '<rect x="0" y="0" width="100%" height="100%" fill="'$matColor'" stroke="'$blackArrowColor'"></rect>'
   for (( k = 0; k < 6; ++k )); do
     echo $(triangle $((width*k + 1)) 0 $((width*(k + 1) - 1)) 0 $((width*k + width/2)) $heightUp $color)
     if [[ $color == $whiteArrowColor ]]; then

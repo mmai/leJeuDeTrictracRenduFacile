@@ -1,15 +1,16 @@
   <svg version="1.1" baseProfile="full" width="455" height="437" xmlns="http://www.w3.org/2000/svg">
 
   <!-- legend -->
-  <text text-anchor="middle" x="50%" y="35" font-size="23" fill="black">figure36</text>'
+  <text text-anchor="middle" x="50%" y="35" font-size="21" fill="black">figure36</text>'
 
   <!-- bordures exterieures -->
-  <rect x="0" y="52" width="100%" height="401" fill="dimgray" stroke="black"></rect>
+  <rect x="0" y="52" width="100%" height="401" fill="white" stroke="white"></rect>
 
   <svg  x="8" y="60" width="439" viewBox="0 0 455 455">
+    <rect x="0" y="0" width="100%" height="383" fill="white" ></rect>
     <!-- left board -->
     <svg x="0" y="0" width="210" height="383" viewBox="0 0 210 385">
-      <rect x="0" y="0" width="100%" height="100%" fill="white" stroke="black"></rect>
+      <rect x="0" y="0" width="100%" height="100%" fill="white" stroke="gray"></rect>
 <polygon points="1,0 34,0 17,175" fill="white" stroke="gray" />
 <polygon points="1,385 34,385 17,210" fill="gray" stroke="gray" />
 <polygon points="36,0 69,0 52,175" fill="gray" stroke="gray" />
@@ -26,11 +27,10 @@
 
     <!--  middle bar -->
     <rect x="210" y="0" width="35" height="383" fill="white" stroke="white"></rect>
-    <!--rect x="227" y="128" width="2" height="128" fill="dimgray" stroke="dimgray"></rect-->
 
     <!--  right board -->
     <svg x="245" y="0" width="210" height="383" viewBox="0 0 210 385">
-      <rect x="0" y="0" width="100%" height="100%" fill="white" stroke="black"></rect>
+      <rect x="0" y="0" width="100%" height="100%" fill="white" stroke="gray"></rect>
 <polygon points="1,0 34,0 17,175" fill="white" stroke="gray" />
 <polygon points="1,385 34,385 17,210" fill="gray" stroke="gray" />
 <polygon points="36,0 69,0 52,175" fill="gray" stroke="gray" />

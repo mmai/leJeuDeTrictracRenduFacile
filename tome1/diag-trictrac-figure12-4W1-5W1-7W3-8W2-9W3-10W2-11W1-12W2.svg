@@ -1,19 +1,51 @@
-  <svg version="1.1" baseProfile="full" width="455" height="455" xmlns="http://www.w3.org/2000/svg">
+  <svg version="1.1" baseProfile="full" width="455" height="437" xmlns="http://www.w3.org/2000/svg">
 
   <!-- legend -->
-  <text text-anchor="middle" x="50%" y="35" font-size="17" fill="black">figure12</text>'
+  <text text-anchor="middle" x="50%" y="35" font-size="23" fill="black">figure12</text>'
 
   <!-- bordures exterieures -->
-  <rect x="0" y="52" width="100%" height="388" fill="gray" stroke="gray"></rect>
+  <rect x="0" y="52" width="100%" height="401" fill="dimgray" stroke="black"></rect>
 
-  <svg  x="2" y="54" width="451" viewBox="0 0 455 455">
-    <!-- white background -->
-    <rect x="0" y="0" width="100%" height="385" fill="white" stroke="white"></rect>
-    <!-- middle separator line -->
-    <rect x="0" y="0" width="100%" height="385" fill="none" stroke="gray" stroke-width="2"></rect>
+  <svg  x="8" y="60" width="439" viewBox="0 0 455 455">
+    <!-- left board -->
+    <svg x="0" y="0" width="210" height="383" viewBox="0 0 210 385">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" stroke="black"></rect>
+<polygon points="1,0 34,0 17,175" fill="white" stroke="gray" />
+<polygon points="1,385 34,385 17,210" fill="gray" stroke="gray" />
+<polygon points="36,0 69,0 52,175" fill="gray" stroke="gray" />
+<polygon points="36,385 69,385 52,210" fill="white" stroke="gray" />
+<polygon points="71,0 104,0 87,175" fill="white" stroke="gray" />
+<polygon points="71,385 104,385 87,210" fill="gray" stroke="gray" />
+<polygon points="106,0 139,0 122,175" fill="gray" stroke="gray" />
+<polygon points="106,385 139,385 122,210" fill="white" stroke="gray" />
+<polygon points="141,0 174,0 157,175" fill="white" stroke="gray" />
+<polygon points="141,385 174,385 157,210" fill="gray" stroke="gray" />
+<polygon points="176,0 209,0 192,175" fill="gray" stroke="gray" />
+<polygon points="176,385 209,385 192,210" fill="white" stroke="gray" />
+    </svg>
 
-    <rect x="225" y="0" width="4" height="385" fill="gray" stroke="gray" stroke-width="2"></rect>
-    <polygon points="0,0 35,0 17,175" fill="white" stroke="gray" /><polygon points="0,385 35,385 17,210" fill="gray" stroke="gray" /><polygon points="35,0 70,0 52,175" fill="gray" stroke="gray" /><polygon points="35,385 70,385 52,210" fill="white" stroke="gray" /><polygon points="70,0 105,0 87,175" fill="white" stroke="gray" /><polygon points="70,385 105,385 87,210" fill="gray" stroke="gray" /><polygon points="105,0 140,0 122,175" fill="gray" stroke="gray" /><polygon points="105,385 140,385 122,210" fill="white" stroke="gray" /><polygon points="140,0 175,0 157,175" fill="white" stroke="gray" /><polygon points="140,385 175,385 157,210" fill="gray" stroke="gray" /><polygon points="175,0 210,0 192,175" fill="gray" stroke="gray" /><polygon points="175,385 210,385 192,210" fill="white" stroke="gray" /><polygon points="245,0 280,0 262,175" fill="white" stroke="gray" /><polygon points="245,385 280,385 262,210" fill="gray" stroke="gray" /><polygon points="280,0 315,0 297,175" fill="gray" stroke="gray" /><polygon points="280,385 315,385 297,210" fill="white" stroke="gray" /><polygon points="315,0 350,0 332,175" fill="white" stroke="gray" /><polygon points="315,385 350,385 332,210" fill="gray" stroke="gray" /><polygon points="350,0 385,0 367,175" fill="gray" stroke="gray" /><polygon points="350,385 385,385 367,210" fill="white" stroke="gray" /><polygon points="385,0 420,0 402,175" fill="white" stroke="gray" /><polygon points="385,385 420,385 402,210" fill="gray" stroke="gray" /><polygon points="420,0 455,0 437,175" fill="gray" stroke="gray" /><polygon points="420,385 455,385 437,210" fill="white" stroke="gray" /><circle cx="123" cy="367" r="17" stroke="black" fill="white" /><circle cx="158" cy="367" r="17" stroke="black" fill="white" /><circle cx="263" cy="367" r="17" stroke="black" fill="white" /><circle cx="263" cy="332" r="17" stroke="black" fill="white" /><circle cx="263" cy="297" r="17" stroke="black" fill="white" /><circle cx="298" cy="367" r="17" stroke="black" fill="white" /><circle cx="298" cy="332" r="17" stroke="black" fill="white" /><circle cx="333" cy="367" r="17" stroke="black" fill="white" /><circle cx="333" cy="332" r="17" stroke="black" fill="white" /><circle cx="333" cy="297" r="17" stroke="black" fill="white" /><circle cx="368" cy="367" r="17" stroke="black" fill="white" /><circle cx="368" cy="332" r="17" stroke="black" fill="white" /><circle cx="403" cy="367" r="17" stroke="black" fill="white" /><circle cx="438" cy="367" r="17" stroke="black" fill="white" /><circle cx="438" cy="332" r="17" stroke="black" fill="white" />
+    <!--  middle bar -->
+    <rect x="210" y="0" width="35" height="383" fill="white" stroke="white"></rect>
+    <!--rect x="227" y="128" width="2" height="128" fill="dimgray" stroke="dimgray"></rect-->
+
+    <!--  right board -->
+    <svg x="245" y="0" width="210" height="383" viewBox="0 0 210 385">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" stroke="black"></rect>
+<polygon points="1,0 34,0 17,175" fill="white" stroke="gray" />
+<polygon points="1,385 34,385 17,210" fill="gray" stroke="gray" />
+<polygon points="36,0 69,0 52,175" fill="gray" stroke="gray" />
+<polygon points="36,385 69,385 52,210" fill="white" stroke="gray" />
+<polygon points="71,0 104,0 87,175" fill="white" stroke="gray" />
+<polygon points="71,385 104,385 87,210" fill="gray" stroke="gray" />
+<polygon points="106,0 139,0 122,175" fill="gray" stroke="gray" />
+<polygon points="106,385 139,385 122,210" fill="white" stroke="gray" />
+<polygon points="141,0 174,0 157,175" fill="white" stroke="gray" />
+<polygon points="141,385 174,385 157,210" fill="gray" stroke="gray" />
+<polygon points="176,0 209,0 192,175" fill="gray" stroke="gray" />
+<polygon points="176,385 209,385 192,210" fill="white" stroke="gray" />
+    </svg>
+
+    <circle cx="123" cy="367" r="17" stroke="black" fill="white" /><circle cx="158" cy="367" r="17" stroke="black" fill="white" /><circle cx="263" cy="367" r="17" stroke="black" fill="white" /><circle cx="263" cy="332" r="17" stroke="black" fill="white" /><circle cx="263" cy="297" r="17" stroke="black" fill="white" /><circle cx="298" cy="367" r="17" stroke="black" fill="white" /><circle cx="298" cy="332" r="17" stroke="black" fill="white" /><circle cx="333" cy="367" r="17" stroke="black" fill="white" /><circle cx="333" cy="332" r="17" stroke="black" fill="white" /><circle cx="333" cy="297" r="17" stroke="black" fill="white" /><circle cx="368" cy="367" r="17" stroke="black" fill="white" /><circle cx="368" cy="332" r="17" stroke="black" fill="white" /><circle cx="403" cy="367" r="17" stroke="black" fill="white" /><circle cx="438" cy="367" r="17" stroke="black" fill="white" /><circle cx="438" cy="332" r="17" stroke="black" fill="white" />
   </svg>
 
 </svg>

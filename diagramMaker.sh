@@ -77,12 +77,39 @@ setup_colors
 
 # ------------------------------- script logic here
 SVG=''
-frameColor=brown
-matColor=green
+
+# frameColor=brown
+# matColor=green
+# whiteArrowColor=white
+# blackArrowColor=gray
+# whiteCheckerColor=white
+# blackCheckerColor=black
+# textColor=black
+
+# green theme
+frameColor=mediumseagreen
+middleBarColor=mediumseagreen
+frameStrokeColor=black
+matColor=honeydew
+whiteArrowColor=white
+blackArrowColor=teal
+checkerStokeColor=black
+whiteCheckerColor=white
+blackCheckerColor=dimgray
+textColor=black
+
+# gray
+# frameColor=white
+# frameStrokeColor=white
+frameColor=dimgray
+frameStrokeColor=black
+middleBarColor=white
+matColor=white
 whiteArrowColor=white
 blackArrowColor=gray
+checkerStokeColor=black
 whiteCheckerColor=white
-blackCheckerColor=black
+blackCheckerColor=gray
 textColor=black
 
 draw_svg() {
@@ -90,24 +117,35 @@ draw_svg() {
   tableWidth=$((width*13))
   tableHeight=$((width*11))
   header=$((3 * width / 2))
-  lineWidth=$((width / 4))
+  borderWidth=$((width / 4))
+  fontSize=$((2 * width / 3))
   name=$(echo $2 | tr '_' ' ')
 
+  SVGHalfBoard=$(halfboard $width)
   cat <<EOF
-  <svg version="1.1" baseProfile="full" width="$tableWidth" height="$tableWidth" xmlns="http://www.w3.org/2000/svg">
+  <svg version="1.1" baseProfile="full" width="$tableWidth" height="$(( tableHeight + header ))" xmlns="http://www.w3.org/2000/svg">
 
   <!-- legend -->
-  <text text-anchor="middle" x="50%" y="$((width))" font-size="$((width / 2))" fill="$textColor">$name</text>'
+  <text text-anchor="middle" x="50%" y="$((width))" font-size="$fontSize" fill="$textColor">$name</text>'
 
   <!-- bordures exterieures -->
-  <rect x="0" y="$header" width="100%" height="$((tableHeight + 2 * $lineWidth))" fill="$frameColor" stroke="$frameColor"></rect>
+  <rect x="0" y="$header" width="100%" height="$((tableHeight + 2 * $borderWidth))" fill="$frameColor" stroke="$frameStrokeColor"></rect>
 
-  <svg  x="$lineWidth" y="$((header + lineWidth))" width="$((tableWidth - 2 * lineWidth))" viewBox="0 0 $((width*13)) $((width*13))">
-    <!-- white background -->
-    <rect x="0" y="2" width="100%" height="$((tableHeight - 2))" fill="$matColor" stroke="$matColor"></rect>
+  <svg  x="$borderWidth" y="$((header + borderWidth))" width="$((tableWidth - 2 * borderWidth))" viewBox="0 0 $((width*13)) $((width*13))">
+    <!-- left board -->
+    <svg x="0" y="0" width="$(( (tableWidth - width) / 2))" height="$((tableHeight - 2))" viewBox="0 0 $((width*6)) $((width*11))">
+      $SVGHalfBoard
+    </svg>
 
-    <!-- middle separator line -->
-    <rect x="$(( (tableWidth - $width) / 2 + 2))" y="0" width="$(( width - 4 ))" height="$tableHeight" fill="$frameColor" stroke="$frameColor"></rect>
+    <!--  middle bar -->
+    <rect x="$(( (tableWidth - width) / 2 ))" y="0" width="$((width))" height="$((tableHeight - 2))" fill="$middleBarColor" stroke="$middleBarColor"></rect>
+    <!--rect x="$(( tableWidth / 2 ))" y="$((tableHeight / 3))" width="2" height="$((tableHeight / 3))" fill="$frameColor" stroke="$frameColor"></rect-->
+
+    <!--  right board -->
+    <svg x="$(( (tableWidth + width) / 2 ))" y="0" width="$(( (tableWidth - width) / 2))" height="$((tableHeight - 2))" viewBox="0 0 $((width*6)) $((width*11))">
+      $SVGHalfBoard
+    </svg>
+
     $SVG
   </svg>
 
@@ -120,32 +158,25 @@ text() {
 }
 
 triangle() {
-  SVG=$SVG'<polygon points="'$1','$2' '$3','$4' '$5','$6'" fill="'$7'" stroke="'$blackArrowColor'" />'
+  echo '<polygon points="'$1','$2' '$3','$4' '$5','$6'" fill="'$7'" stroke="'$blackArrowColor'" />'
 }
 
-plateau() {
+halfboard() {
   width=$1
   heightUp=$((width*5))
   heightDown=$((width*6))
   bottom=$((width*11))
   color=$whiteArrowColor
+
+  echo '<rect x="0" y="0" width="100%" height="100%" fill="'$matColor'" stroke="'$frameStrokeColor'"></rect>'
   for (( k = 0; k < 6; ++k )); do
-    triangle $((width*k)) 0 $((width*(k + 1))) 0 $((width*k + width/2)) $heightUp $color
+    echo $(triangle $((width*k + 1)) 0 $((width*(k + 1) - 1)) 0 $((width*k + width/2)) $heightUp $color)
     if [[ $color == $whiteArrowColor ]]; then
       color=$blackArrowColor
     else
       color=$whiteArrowColor
     fi
-    triangle $((width*k)) $bottom $((width*(k + 1))) $bottom $((width*k + width/2)) $heightDown $color
-  done
-  for (( k = 7; k < 13; ++k )); do
-    triangle $((width*k)) 0 $((width*(k + 1))) 0 $((width*k + width/2)) $heightUp $color
-    if [[ $color == $whiteArrowColor ]]; then
-      color=$blackArrowColor
-    else
-      color=$whiteArrowColor
-    fi
-    triangle $((width*k)) $bottom $((width*(k + 1))) $bottom $((width*k + width/2)) $heightDown $color
+    echo $(triangle $((width*k + 1)) $bottom $((width*(k + 1) - 1)) $bottom $((width*k + width/2)) $heightDown $color)
   done
 }
 
@@ -155,13 +186,11 @@ dame() {
   count=$3
   color=$4
 
-  colorW=white
-  colorB=gray
-  if [[ $color == $blackCheckerColor ]]; then
-    colorCount=$colorB
+  if [[ $color == "white" ]]; then
+    colorCount=$blackCheckerColor
     color=$whiteCheckerColor
   else
-    colorCount=$colorW
+    colorCount=$whiteCheckerColor
     color=$blackCheckerColor
   fi
 
@@ -178,7 +207,7 @@ dame() {
     x=$((x+1)) # add middle space
   fi
 
-  fontSize=$width
+  fontSize=$(( width - 2 ))
   drawCount=$count
   max=4
   if [[ $drawCount -gt $max ]]; then
@@ -187,8 +216,8 @@ dame() {
     else
       y=$((11 - max - 1))
     fi
-    SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="'$blackCheckerColor'" fill="'$color'" />'
-    SVG=$SVG'<text text-anchor="middle" x="'$((width*x - radius))'" y="'$((width*(y + 1) - (radius / 4)))'" font-size="'$fontSize'" fill="'$colorCount'">'$count'</text>'
+    SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="'$checkerStokeColor'" fill="'$color'" />'
+    SVG=$SVG'<text text-anchor="middle" x="'$((width*x - radius))'" y="'$((width*(y + 1) - (radius / 4) - 2))'" font-size="'$fontSize'" fill="'$colorCount'">'$count'</text>'
     drawCount=$max
   fi
 
@@ -199,7 +228,7 @@ dame() {
       y=$((10 - k))
     fi
 
-    SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="'$blackCheckerColor'" fill="'$color'" />'
+    SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="'$checkerStokeColor'" fill="'$color'" />'
   done
 
 }
@@ -208,8 +237,6 @@ diagram() {
   width=$1
   name=$2
   positions="${@:3}"
-
-  plateau $width
 
   for pos in $positions
   do

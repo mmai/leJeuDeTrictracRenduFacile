@@ -77,29 +77,37 @@ setup_colors
 
 # ------------------------------- script logic here
 SVG=''
+frameColor=brown
+matColor=green
+whiteArrowColor=white
+blackArrowColor=gray
+whiteCheckerColor=white
+blackCheckerColor=black
+textColor=black
+
 draw_svg() {
   width=$1
   tableWidth=$((width*13))
   tableHeight=$((width*11))
   header=$((3 * width / 2))
-  lineWidth=2
+  lineWidth=$((width / 4))
   name=$(echo $2 | tr '_' ' ')
+
   cat <<EOF
   <svg version="1.1" baseProfile="full" width="$tableWidth" height="$tableWidth" xmlns="http://www.w3.org/2000/svg">
 
   <!-- legend -->
-  <text text-anchor="middle" x="50%" y="$((width))" font-size="$((width / 2))" fill="black">$name</text>'
+  <text text-anchor="middle" x="50%" y="$((width))" font-size="$((width / 2))" fill="$textColor">$name</text>'
 
   <!-- bordures exterieures -->
-  <rect x="0" y="$header" width="100%" height="$((tableHeight + 3))" fill="gray" stroke="gray"></rect>
+  <rect x="0" y="$header" width="100%" height="$((tableHeight + 2 * $lineWidth))" fill="$frameColor" stroke="$frameColor"></rect>
 
   <svg  x="$lineWidth" y="$((header + lineWidth))" width="$((tableWidth - 2 * lineWidth))" viewBox="0 0 $((width*13)) $((width*13))">
     <!-- white background -->
-    <rect x="0" y="0" width="100%" height="$tableHeight" fill="white" stroke="white"></rect>
-    <!-- middle separator line -->
-    <rect x="0" y="0" width="100%" height="$tableHeight" fill="none" stroke="gray" stroke-width="$lineWidth"></rect>
+    <rect x="0" y="2" width="100%" height="$((tableHeight - 2))" fill="$matColor" stroke="$matColor"></rect>
 
-    <rect x="$((tableWidth / 2 - 2))" y="0" width="4" height="$tableHeight" fill="gray" stroke="gray" stroke-width="$lineWidth"></rect>
+    <!-- middle separator line -->
+    <rect x="$(( (tableWidth - $width) / 2 + 2))" y="0" width="$(( width - 4 ))" height="$tableHeight" fill="$frameColor" stroke="$frameColor"></rect>
     $SVG
   </svg>
 
@@ -112,32 +120,30 @@ text() {
 }
 
 triangle() {
-  SVG=$SVG'<polygon points="'$1','$2' '$3','$4' '$5','$6'" fill="'$7'" stroke="gray" />'
+  SVG=$SVG'<polygon points="'$1','$2' '$3','$4' '$5','$6'" fill="'$7'" stroke="'$blackArrowColor'" />'
 }
 
 plateau() {
   width=$1
-  color1=white
-  color2=gray
   heightUp=$((width*5))
   heightDown=$((width*6))
   bottom=$((width*11))
-  color=$color1
+  color=$whiteArrowColor
   for (( k = 0; k < 6; ++k )); do
     triangle $((width*k)) 0 $((width*(k + 1))) 0 $((width*k + width/2)) $heightUp $color
-    if [[ $color == $color1 ]]; then
-      color=$color2
+    if [[ $color == $whiteArrowColor ]]; then
+      color=$blackArrowColor
     else
-      color=$color1
+      color=$whiteArrowColor
     fi
     triangle $((width*k)) $bottom $((width*(k + 1))) $bottom $((width*k + width/2)) $heightDown $color
   done
   for (( k = 7; k < 13; ++k )); do
     triangle $((width*k)) 0 $((width*(k + 1))) 0 $((width*k + width/2)) $heightUp $color
-    if [[ $color == $color1 ]]; then
-      color=$color2
+    if [[ $color == $whiteArrowColor ]]; then
+      color=$blackArrowColor
     else
-      color=$color1
+      color=$whiteArrowColor
     fi
     triangle $((width*k)) $bottom $((width*(k + 1))) $bottom $((width*k + width/2)) $heightDown $color
   done
@@ -149,17 +155,14 @@ dame() {
   count=$3
   color=$4
 
-  checkerColorW=white
-  checkerColorB=dimgray
-
   colorW=white
   colorB=gray
-  if [[ $color == $color1 ]]; then
+  if [[ $color == $blackCheckerColor ]]; then
     colorCount=$colorB
-    color=$checkerColorW
+    color=$whiteCheckerColor
   else
     colorCount=$colorW
-    color=$checkerColorB
+    color=$blackCheckerColor
   fi
 
   radius=$((width/2))
@@ -184,7 +187,7 @@ dame() {
     else
       y=$((11 - max - 1))
     fi
-    SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="gray" fill="'$color'" />'
+    SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="'$blackCheckerColor'" fill="'$color'" />'
     SVG=$SVG'<text text-anchor="middle" x="'$((width*x - radius))'" y="'$((width*(y + 1) - (radius / 4)))'" font-size="'$fontSize'" fill="'$colorCount'">'$count'</text>'
     drawCount=$max
   fi
@@ -196,7 +199,7 @@ dame() {
       y=$((10 - k))
     fi
 
-    SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="black" fill="'$color'" />'
+    SVG=$SVG'<circle cx="'$((width*x - radius))'" cy="'$((width*y + radius))'" r="'$radius'" stroke="'$blackCheckerColor'" fill="'$color'" />'
   done
 
 }

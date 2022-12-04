@@ -13,6 +13,7 @@ site_dir: html/
 
 nav:
   - Présentation: index.md
+  - Notice: notice.md
   - Préface: tome1/preface.md
   - Avertissement: tome1/avertissement.md
   - Introduction: tome1/introduction.md

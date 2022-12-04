@@ -14,14 +14,14 @@ site_dir: html/
 nav:
   - Présentation: index.md
   - Notice: notice.md
-  - Préface: tome1/preface.md
-  - Avertissement: tome1/avertissement.md
-  - Introduction: tome1/introduction.md
-  - Section 1: tome1/section1.md
-  - Section 2: tome1/section2.md
-  - Section 3: tome1/section3.md
-  - Section 4: tome2/section4.md
-  - Section 5: tome2/section5.md
+  - Préface: preface.md
+  - Avertissement: avertissement.md
+  - Introduction: introduction.md
+  - Section 1: section1.md
+  - Section 2: section2.md
+  - Section 3: section3.md
+  - Section 4: section4.md
+  - Section 5: section5.md
 
 # -----  Config for Material theme ------
 theme:

@@ -16,6 +16,8 @@ Modifications apportées par rapport à l'édition originale :
 
 Les sources du site sont disponibles sur [ce dépôt git](https://github.com/mmai/leJeuDeTrictracRenduFacile/). Vous pouvez y signaler des erreurs et proposer des corrections en [créant un ticket](https://github.com/mmai/leJeuDeTrictracRenduFacile/issues).
 
+Vous pouvez également lire ce livre sur une liseuse en téléchargeant l'[édition epub](trictracFacile.epub).
+
 Vous pourriez être intéressés par les transcriptions de deux autres vieux traités : 
 
 - toujours sur le trictrac, sans doute plus agréable à lire par sa qualité littéraire : [Cours complet de Trictrac](https://mmai.github.io/coursCompletdeTrictrac)

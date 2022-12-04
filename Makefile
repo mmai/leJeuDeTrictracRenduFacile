@@ -3,11 +3,11 @@ servedocs:
 viewdocs:
 	firefox http://127.0.0.1:8000
 diagrams:
-	./postProcess.sh src/tome1/section1.md
-	./postProcess.sh src/tome1/section2.md
-	./postProcess.sh src/tome1/section3.md
-	./postProcess.sh src/tome2/section4.md
-	./postProcess.sh src/tome2/section5.md
+	./postProcess.sh src/section1.md
+	./postProcess.sh src/section2.md
+	./postProcess.sh src/section3.md
+	./postProcess.sh src/section4.md
+	./postProcess.sh src/section5.md
 builddocs: diagrams
 	mkdocs build
 deploy: builddocs

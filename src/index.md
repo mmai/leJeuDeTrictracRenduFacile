@@ -18,8 +18,9 @@ Les sources du site sont disponibles sur [ce dépôt git](https://github.com/mma
 
 Vous pouvez également lire ce livre sur une liseuse en téléchargeant l'[édition epub](trictracFacile.epub).
 
-Vous pourriez être intéressés par les transcriptions de deux autres vieux traités : 
+Enfin, si vous aimez vous plonger dans d'anciens traités de jeux oubliés, je vous invite à jeter un oeil à ces ouvrages, adaptés selon le même procédé : 
 
-- toujours sur le trictrac, sans doute plus agréable à lire par sa qualité littéraire : [Cours complet de Trictrac](https://mmai.github.io/coursCompletdeTrictrac)
+- [Cours complet de Trictrac](https://mmai.github.io/coursCompletdeTrictrac) par Pierre Marie Michel Lepeintre, 1818
+- [Traité complet du jeu de Trictrac](https://mmai.github.io/traiteCompletTrictrac) seconde édition par N. Guiton l'aîné, 1822
 - sur le jeu de piquet, en anglais : [The laws of Piquet adopted by the Portland and Turf Clubs with A Treatise on the Game by Cavendish](https://mmai.github.io/piquetBook/).
 

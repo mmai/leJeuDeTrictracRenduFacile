@@ -26,6 +26,7 @@ nav:
 # -----  Config for Material theme ------
 theme:
   name: material
+  custom_dir: overrides
   language: fr
   features:
     # - announce.dismiss
@@ -47,18 +48,16 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
-
-  analytics:
-    gtag: G-7P8EEWM1YZ
 extra:
   analytics:
-    provider: google
-    property: G-7P8EEWM1YZ
+    provider: plausible
+    domain: mmai.github.io
+    src: "https://webstats.rhumbs.fr/js/touch.js"
   social:
       - icon: fontawesome/brands/github
         link: https://github.com/mmai
       - icon: fontawesome/brands/mastodon
-        link: https://mamot.fr/@mmai
+        link: https://social.rhumbs.fr/@mmai
 # ----- Config for Readthedoc theme ------
 # theme:
   # name: readthedocs

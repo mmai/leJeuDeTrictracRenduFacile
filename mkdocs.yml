@@ -75,7 +75,7 @@ extra:
       - icon: fontawesome/brands/github
         link: https://github.com/mmai
       - icon: fontawesome/brands/mastodon
-        link: https://social.rhumbs.fr/@mmai
+        link: https://mamot.fr/@mmai
 # ----- Config for Readthedoc theme ------
 # theme:
   # name: readthedocs

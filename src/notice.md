@@ -1,10 +1,10 @@
 # LE JEU DE TRICTRAC RENDU FACILE
 
-Pour toute personne d'un esprit juste et persévérant 
+Pour toute personne d'un esprit juste et persévérant
 
 OUVRAGE CONTENANT DES RÈGLES ET DES TABLES ENTIÈREMENT NOUVELLES, SERVANT A CALCULER FACILEMENT LES CHANCES POUR ET CONTRE CHACUN DES DEUX JOUEURS, ET N'EXIGEANT QUE LA CONNAISSANCE DES PREMIERS ÉLÉMENTS DE L'ARITHMÉTIQUE.
 
-(La première partie est destinée aux personnes qui ne connaissent absolummt point ce jeu ; la deuxième à celles qui veulent acquérir une grande force.)
+(La première partie est destinée aux personnes qui ne connaissent absolument point ce jeu ; la deuxième à celles qui veulent acquérir une grande force.)
 
 PAR J. L. Ancien élève de l'École Polytechnique, officier d'artillerie, professeur de mathématiques à l'École militaire de La Flèche.
 
@@ -22,6 +22,6 @@ La seconde est l'hospitalité. On reçoit des orphelines, des enfants de parents
 
 La troisième est le soulagement gratuit des malades à domicile, tant le jour que la nuit ; ce qui comprend toutes les oeuvres de miséricorde dont les malades, soit » riches, soit pauvres, peuvent avoir besoin.
 
-Les religieuses de la Providence de la Flèche accomplissent leur triple mission avec un zèle au-dessus de tout éloge. Mais , si les ressources pécuniaires répondaient à leur dévoûment, elles pourraient recevoir un plus grand nombre d'orphelines et d'incurables, soit gratuitement, soit pour des pensions excessivement modiques. Les personnes donc qui achèteront cet ouvrage, outre l'avantage personnel qu'elles pourront en retirer, feront une œuvre de charité. Elles contribueront à fournir au pauvre qui n'a rien le logement, la nourriture et le vêtement.
+Les religieuses de la Providence de la Flèche accomplissent leur triple mission avec un zèle au-dessus de tout éloge. Mais , si les ressources pécuniaires répondaient à leur dévouement, elles pourraient recevoir un plus grand nombre d'orphelines et d'incurables, soit gratuitement, soit pour des pensions excessivement modiques. Les personnes donc qui achèteront cet ouvrage, outre l'avantage personnel qu'elles pourront en retirer, feront une œuvre de charité. Elles contribueront à fournir au pauvre qui n'a rien le logement, la nourriture et le vêtement.
 
 (Communiqué par M. l'Aumonier de Vélablisumcut.)

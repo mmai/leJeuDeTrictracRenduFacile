@@ -36,7 +36,7 @@ Au nombre de trous du gagnant on ajoute 2, ce qu'on nomme _la consolation_; de c
 
 **223. Marqué bredouille. Pavillon.**
 
-On a vu (n° 143) que, si l'on arrive à douze points sans être interrompu par des points de l'adversaire, on est en _bredouille_ : on d'ouble les points, en doublant le trou. De même, si les trous de celui qui gagne le marqué ont été pris sans être interrompus par aucun de l'adversaire, _on double le nombre de ces trous augmenté de la consolation, avant d'en retrancher le nombre de trous de l'adversaire_. Si l'on a pris huit trous de suite, et que l'adversaire en ait pris ensuite neuf, on dit : neuf et deux font onze, onze fois deux font vingt-deux, vingt-deux moins huit donnent pour reste quatorze, valeur du marqué. Cette valeur diffère bien de trois, qui est celle du _marqué simple_, dont les trous ont été pris avec interruption.
+On a vu (n° 143) que, si l'on arrive à douze points sans être interrompu par des points de l'adversaire, on est en _bredouille_ : on double les points, en doublant le trou. De même, si les trous de celui qui gagne le marqué ont été pris sans être interrompus par aucun de l'adversaire, _on double le nombre de ces trous augmenté de la consolation, avant d'en retrancher le nombre de trous de l'adversaire_. Si l'on a pris huit trous de suite, et que l'adversaire en ait pris ensuite neuf, on dit : neuf et deux font onze, onze fois deux font vingt-deux, vingt-deux moins huit donnent pour reste quatorze, valeur du marqué. Cette valeur diffère bien de trois, qui est celle du _marqué simple_, dont les trous ont été pris avec interruption.
 
 On indique la non-interruption des trous au moyen du pavillon placé dans le trou où était d'a bord le fichet; lorsque le pavillon est au milieu de la bande, cela signifie qu'un seul joueur a des trous ou bien que les deux joueurs sont débredouillés.
 
@@ -72,7 +72,7 @@ Si le prix de la fiche est modique, on compte cinq jetons pour une fiche en fave
 
 **231. Perte d'un joueur.**
 
-La perte d'un joueur se compose : 10 des fiches qu'il a données à l'adVersaire pour le paiement des marqués et qui n'ont point été remises dans le panier, 2° de ce qu'il doit pour les postillons, 3° de ce qu'il lui manque de ses vingt jetons, et 4° enfin de la queue.
+La perte d'un joueur se compose : 10 des fiches qu'il a données à l'adversaire pour le paiement des marqués et qui n'ont point été remises dans le panier, 2° de ce qu'il doit pour les postillons, 3° de ce qu'il lui manque de ses vingt jetons, et 4° enfin de la queue.
 
 **232. Compter ses jetons sur la fin.**
 
@@ -80,7 +80,7 @@ Lorsqu'on est sur la fin, il faut savoir à un jeton près quelle est la différ
 
 **233. Papier et crayon.**
 
-On a vu (cf. n° 220) que l'on peut avec un papier et un crayon noter les marqués que perd chaque joueur. Cette méthode est plus facile et plus courte que l'autre. On écrit sous le nom de chaque joueur le nombre dont il est marqué, la valeur du marqué qu'il perd. Lorsque le papier fait voir que l'on a terminé le nombre convenu-de marqués, on connait s'il y a des postillons; au compte de celui qui les a on ajoute vingt-huit pour le premier, et huit pour chacun des autres; ensuite on fait l'addition pour chaque colonne, et l'on retranche la plus petite somme de l'autre. Au reste on ajoute le nombre de jetons on de fiches dont on est convenu en commençant, et qu'on appelle _la queue_. Les dizaines sont des fiches, cinq unités valent une fiche.
+On a vu (cf. n° 220) que l'on peut avec un papier et un crayon noter les marqués que perd chaque joueur. Cette méthode est plus facile et plus courte que l'autre. On écrit sous le nom de chaque joueur le nombre dont il est marqué, la valeur du marqué qu'il perd. Lorsque le papier fait voir que l'on a terminé le nombre convenu de marqués, on connait s'il y a des postillons; au compte de celui qui les a on ajoute vingt-huit pour le premier, et huit pour chacun des autres; ensuite on fait l'addition pour chaque colonne, et l'on retranche la plus petite somme de l'autre. Au reste on ajoute le nombre de jetons on de fiches dont on est convenu en commençant, et qu'on appelle _la queue_. Les dizaines sont des fiches, cinq unités valent une fiche.
 
 **234. Gagner avec plus de marqués.**
 
@@ -96,7 +96,7 @@ On a les marqués dix-neuf, soixante-neuf, quinze, dont la somme est cent trois;
 
 **237. Un trou fait une fiche.**
 
-On a pour marqués cinquante et un, quatorze, cinq, sept ; l'adversaire a dix-neuf, soixante-neuf, trente-trois, treize. On note chaque marqué avec deux jetons ; après le septième, il n'a plus ni fiche ni jeton, on a trois fiches et vingt-six jetons. Il perd le huitième marqué, il donne deux fiches, ce qui en fait sept en comptant les deux pour les quarante jetons qu'on a ; on en rend sept à l'adversaire, qui en met deux pour noter le huitième marqué; il lui en reste cinq, qui n'ont aucune valeur. Si le huitième marqué était douze au lieu de treize, on lui rendrait huit jetons, et après en avoir mis deux, il lui en resterait six, qui valent une fiche ; il n'en perdrait que six au lieu de sept. Cette différence d',unè fiche pour un trou n'a point lieu dans la méthode par le papier et le crayon: on perd soixante-dix-sept ; l'adversaire perd cent trente-quatre ; la différence ou la perte est cinquante-sept, et en retranchant un, cela fait cinquante-six, toujours six fiches.
+On a pour marqués cinquante et un, quatorze, cinq, sept ; l'adversaire a dix-neuf, soixante-neuf, trente-trois, treize. On note chaque marqué avec deux jetons ; après le septième, il n'a plus ni fiche ni jeton, on a trois fiches et vingt-six jetons. Il perd le huitième marqué, il donne deux fiches, ce qui en fait sept en comptant les deux pour les quarante jetons qu'on a ; on en rend sept à l'adversaire, qui en met deux pour noter le huitième marqué; il lui en reste cinq, qui n'ont aucune valeur. Si le huitième marqué était douze au lieu de treize, on lui rendrait huit jetons, et après en avoir mis deux, il lui en resterait six, qui valent une fiche ; il n'en perdrait que six au lieu de sept. Cette différence d'une fiche pour un trou n'a point lieu dans la méthode par le papier et le crayon: on perd soixante-dix-sept ; l'adversaire perd cent trente-quatre ; la différence ou la perte est cinquante-sept, et en retranchant un, cela fait cinquante-six, toujours six fiches.
 
 ### 12.3 Différentes manières de jouer la partie a écrire
 
@@ -144,7 +144,7 @@ Mais si deux joueurs étaient marqués cinq fois et l'autre deux, alors chacun d
 
 **247. Queue et postillons.**
 
-L'ordre et la règle relatifs au paiement des queues et des postillons sont les mêmes qu'à l'autre partie : ainsi la queue des jetons appartient à celui qui, avant le paiement des pbstillons, se trouve avoir plus de jetons que les autres, et la queue définitive à celui qui, après le paiement des postillons, se trouve avoir le plus grand gain ; chacun des joueurs lui paie le nombre de fiches convenu.
+L'ordre et la règle relatifs au paiement des queues et des postillons sont les mêmes qu'à l'autre partie : ainsi la queue des jetons appartient à celui qui, avant le paiement des postillons, se trouve avoir plus de jetons que les autres, et la queue définitive à celui qui, après le paiement des postillons, se trouve avoir le plus grand gain ; chacun des joueurs lui paie le nombre de fiches convenu.
 
 **248. Droit de conseil.**
 
@@ -162,7 +162,7 @@ Cette partie ne doit avoir lieu qu'entre trois joueurs de force égale ou à peu
 
 **251. Grand avantage. Danger.**
 
-Le succès d'une grande bredouille est l'avantage le plus considérable auquel un joueurpuisse aspirer; ce succès détermine le plus souvent le sort de la partie ; l'espoir de l'obtenir, ou la crainte d'en être frappé, influent sur la plupart des coups. Celui qui a lieu de la craindre, parce que l'adversaire n'a pas encore de trou, se refuse souvent à faire une tenue qui, s'il n'était pas arrêté par cette crainte, lui offrirait des avantages presque assurés ; celui, au contraire, qui y aspire, sans avoir à la redouter, hasarde souvent une tenue incertaine, mais que semble justifier l'appât séduisant du prix attaché au succès. C'est surtout quand ce dernier est près d'arriver au but que la lutte devient plus intéressante. C'est alors que, de part et d'autre, on emploie tous les moyens que suggèrent la prudence et la sagesse des combinaisons : d'un côté, pour opposer et accumuler des obstacles, et préparer des écueils contre lesquels viennent souvent se briser les prétentions et les espérances de l'adversaire ; de l'autre, pour les franchir et en triompher.
+Le succès d'une grande bredouille est l'avantage le plus considérable auquel un joueur puisse aspirer; ce succès détermine le plus souvent le sort de la partie ; l'espoir de l'obtenir, ou la crainte d'en être frappé, influent sur la plupart des coups. Celui qui a lieu de la craindre, parce que l'adversaire n'a pas encore de trou, se refuse souvent à faire une tenue qui, s'il n'était pas arrêté par cette crainte, lui offrirait des avantages presque assurés ; celui, au contraire, qui y aspire, sans avoir à la redouter, hasarde souvent une tenue incertaine, mais que semble justifier l'appât séduisant du prix attaché au succès. C'est surtout quand ce dernier est près d'arriver au but que la lutte devient plus intéressante. C'est alors que, de part et d'autre, on emploie tous les moyens que suggèrent la prudence et la sagesse des combinaisons : d'un côté, pour opposer et accumuler des obstacles, et préparer des écueils contre lesquels viennent souvent se briser les prétentions et les espérances de l'adversaire ; de l'autre, pour les franchir et en triompher.
 
 **252. Sacrifice du marqué.**
 
@@ -170,7 +170,7 @@ Dès l'instant qu'un joueur s'aperçoit que le danger de la grande bredouille de
 
 **253. Règle de conduite.**
 
-L'espoir ou la crainte de la grande bredouille, le bénéfice ou la perte considérable qui en résultent, doivent fixer principalement l'attention des joueurs et régler la conduite de leur jeu dans la plupart des circonstances. L'ambition doit être modérée par la prudence ; il ne faut pas se livrer à l'entreprise d'une grande bredouille si, en s'y abandonnant, on s'expose à en éprouver soi-même le désastre. C'est ce qui peut arriver lorsque l'adversaire n'a pas encore de trou : car alors, en perdant la bredouille, on la lui donne ; mais lorsqu'on a la bredouille en second, et que, par conséquent, on n'a plus à la redouter, on peut permettre un peu plus d'essor à son ambition. Cet essor cependant doit être soumis aux règles de la prudence et de la circonspection; il ne doit pas aller jusqu'à compromettre le marqué, la queue, le postillon, et tous les avantages qui seraientacquis en se contentant de marquer en petite bredouille. Il faut de plus le concours de probabilités qui justifient cette entreprise : car l'ambition ne doit pas être portée jusqu'à une témérité inconsidérée. Cette partie est extrêmement importante et difficile ; j'y reviendrai aux numéros 386, 449, 450.
+L'espoir ou la crainte de la grande bredouille, le bénéfice ou la perte considérable qui en résultent, doivent fixer principalement l'attention des joueurs et régler la conduite de leur jeu dans la plupart des circonstances. L'ambition doit être modérée par la prudence ; il ne faut pas se livrer à l'entreprise d'une grande bredouille si, en s'y abandonnant, on s'expose à en éprouver soi-même le désastre. C'est ce qui peut arriver lorsque l'adversaire n'a pas encore de trou : car alors, en perdant la bredouille, on la lui donne ; mais lorsqu'on a la bredouille en second, et que, par conséquent, on n'a plus à la redouter, on peut permettre un peu plus d'essor à son ambition. Cet essor cependant doit être soumis aux règles de la prudence et de la circonspection; il ne doit pas aller jusqu'à compromettre le marqué, la queue, le postillon, et tous les avantages qui seraient acquis en se contentant de marquer en petite bredouille. Il faut de plus le concours de probabilités qui justifient cette entreprise : car l'ambition ne doit pas être portée jusqu'à une témérité inconsidérée. Cette partie est extrêmement importante et difficile ; j'y reviendrai aux numéros 386, 449, 450.
 
 **254. Avantages à l'adversaire.**
 

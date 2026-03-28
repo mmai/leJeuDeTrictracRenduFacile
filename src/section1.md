@@ -16,7 +16,7 @@ On ne peut jouer au trictrac que deux personnes à la fois.
 
 **4. Désignation des joueurs.**
 
-J'adresserai toujours la parole à un même joueur, que j'appellerai vous; l'autre joueur sera désigné parle mot Vadversaire. Tout ce que je vous dirai s'appliquera également à l'adversaire, sans qu'il soit nécessaire de le dire : car les droits et les devoirs sont égaux pour les deux joueurs. Si cet adversaire n'existe pas, vous le supposerez, et vous jouerez pour lui, c'est-à-dire que vous jetterez les dez, placerez les dames, et ferez généralement tout ce que cet adversaire aurait à faire. Vous en prendrez ensuite un véritable, auquel vous montrerez le peu que vous saurez. Je supposerai que l'adversaire est devant le haut du trictrac.
+J'adresserai toujours la parole à un même joueur, que j'appellerai vous; l'autre joueur sera désigné par le mot adversaire. Tout ce que je vous dirai s'appliquera également à l'adversaire, sans qu'il soit nécessaire de le dire : car les droits et les devoirs sont égaux pour les deux joueurs. Si cet adversaire n'existe pas, vous le supposerez, et vous jouerez pour lui, c'est-à-dire que vous jetterez les dés, placerez les dames, et ferez généralement tout ce que cet adversaire aurait à faire. Vous en prendrez ensuite un véritable, auquel vous montrerez le peu que vous saurez. Je supposerai que l'adversaire est devant le haut du trictrac.
 
 **5. Objets nécessaires.**
 
@@ -25,7 +25,7 @@ Il faut une boîte ou une table, qu'on appelle aussi trictrac; deux cornets, tre
 **6. Trictrac en botte ou à charnières.**
 
 ![figure 1](figure1.png)
- 
+
 Etant ouvert (fig. 1), le trictrac est Composé de quatre fortes bandes, deux grandes, AB, DC, et deux petites, AD, BC, assemblées entre elles, formant un carré long ou rectangle; le fond est formé de planches minces. Les grandes bandes sont coupées par le milieu E, F; ces deux milieux sont réunis par une double bande qui partage le trictrac en deux parties égales, réunies par deux charnières. Cette bande de séparation est double, afin que rien ne puisse tomber quand le trictrac est fermé et contient les objets nécessaires pour jouer.
 
 **7. Tablier.**
@@ -110,7 +110,7 @@ Vous laissez à l'autre joueur le choix des dames. Hâtez-vous de mettre vos dam
 
 **26. Places des joueurs. Numéro des flèches. Nombre des dames.**
 
-Je supposerai toujours que vous êtes devant le milieu de la grande bande AB, qui est en bas. L'adversaire est vis-à-vis vous. La moitié inférieure du tablier sera _votre jeu_, l'autre moitié sera l_e jeu de l'adversaire_. Votre talon sera à gauche, l'adversaire aura le sien à sa droite. Vos onze autres flèches seront numérotées 1, 2, 3,..., 10, 11. Les onze flèches de l'adversaire le seront de même. Vous aurez toujours les dames blanches.
+Je supposerai toujours que vous êtes devant le milieu de la grande bande AB, qui est en bas. L'adversaire est vis-à-vis vous. La moitié inférieure du tablier sera _votre jeu_, l'autre moitié sera l*e jeu de l'adversaire*. Votre talon sera à gauche, l'adversaire aura le sien à sa droite. Vos onze autres flèches seront numérotées 1, 2, 3,..., 10, 11. Les onze flèches de l'adversaire le seront de même. Vous aurez toujours les dames blanches.
 
 **27. Dessin des figures.**
 
@@ -148,11 +148,11 @@ Lorsqu'on joue tout à bas, on prend deux dames du talon; on en laisse une sur l
 
 **33. Marche du trictrac. Jeu ordinaire. Passer au retour.**
 
-Chaque joueur a le droit de faire, en jouant, tout le tour du tablier, en comnlençant à son talon et finissant à celui de l'adversaire ; il suit ses flèches 1, 2, 3, ... 10, 11 ; puis celles de l'adversaire 11, 10,9, ... 2, 1, et le talon; ensuite il sort ses dames hors des flèches : au trictrac les dames ne reculent jamais. On comprend facilement que les dames des deux joueurs se rencontreront bientôt et bien souvent ; cela donnera lieu à des coups que j'expliquerai. Tant qu'un joueur laisse ses quinze dames dans sa moitié du tablier, on dit que c'est _le jeu ordinaire_. On dit qu'un _joueur passe_ au retour lorsqu'il est amené à placer une ou plusieurs dames sur une ou plusieurs flèches de l'adversaire; ces dames sont des _dames passées au retour_. Les joueurs ne peuvent cependant passer au retour qu'en se conformant à certaines règles que je dirai. D'après ce qui vient d'être dit, on voit que chaque joueur a sa première et sa deuxième table.
+Chaque joueur a le droit de faire, en jouant, tout le tour du tablier, en commençant à son talon et finissant à celui de l'adversaire ; il suit ses flèches 1, 2, 3, ... 10, 11 ; puis celles de l'adversaire 11, 10,9, ... 2, 1, et le talon; ensuite il sort ses dames hors des flèches : au trictrac les dames ne reculent jamais. On comprend facilement que les dames des deux joueurs se rencontreront bientôt et bien souvent ; cela donnera lieu à des coups que j'expliquerai. Tant qu'un joueur laisse ses quinze dames dans sa moitié du tablier, on dit que c'est _le jeu ordinaire_. On dit qu'un _joueur passe_ au retour lorsqu'il est amené à placer une ou plusieurs dames sur une ou plusieurs flèches de l'adversaire; ces dames sont des _dames passées au retour_. Les joueurs ne peuvent cependant passer au retour qu'en se conformant à certaines règles que je dirai. D'après ce qui vient d'être dit, on voit que chaque joueur a sa première et sa deuxième table.
 
 **34. Nécessité de tout jouer.**
 
-A chaque fois que vous jetez les dés vous êtes forcé de tout jouer, c'est-à-dire d'_avancer deux dames d'autant de fléches qu'il y a d'unités dans chaque nombre, ou une dame d'autant de flèches qu'il y a d unités dans la somme des deux nombres_. C est la première règle du jeu, la plus importante, celle qui remporte sur presque toutes les autres.
+A chaque fois que vous jetez les dés vous êtes forcé de tout jouer, c'est-à-dire d'_avancer deux dames d'autant de flèches qu'il y a d'unités dans chaque nombre, ou une dame d'autant de flèches qu'il y a d unités dans la somme des deux nombres_. C est la première règle du jeu, la plus importante, celle qui remporte sur presque toutes les autres.
 
 **35. Se souvenir des numéros des flèches.**
 
@@ -170,7 +170,7 @@ On peut se faire des règles faciles à appliquer pour voir promptement où vont
 
 _Premier cas_. — Votre daine ne sort pas de votre jeu ; il faut _au numéro de la flèche de départ ajouter le nombre à jouer; la somme est le numéro de la flèche où la dame s'arrête_. En effet, jouer une dame, c'est l'avancer d'autant de flèches qu'il y a d'unités dans le nombre que l'on joue. Le nombre sept porte une dame de votre troisième flèche à la dixième.
 
-_Deuxième cas_. — Votre dame ne sort pas du jeu de l'adversaire; il faut _du numéro de la flèche de départ retrancher le nombre à jouer; le reste est le numéro de la flèche où rotre dame 9 'arrête:_ car, dans le jeu de l'adversaire, vos dames vont du côté de son talon, et alors les numéros des flèches vont en diminuant. Le nombre sept porte une de vos dames de sa dixième flèche à sa troisième.
+_Deuxième cas_. — Votre dame ne sort pas du jeu de l'adversaire; il faut _du numéro de la flèche de départ retrancher le nombre à jouer; le reste est le numéro de la flèche où notre dame s'arrête:_ car, dans le jeu de l'adversaire, vos dames vont du côté de son talon, et alors les numéros des flèches vont en diminuant. Le nombre sept porte une de vos dames de sa dixième flèche à sa troisième.
 
 _Troisième cas_, le plus difficile. — Une de vos dames va de votre jeu dans celui de l'adversaire; il faut _ajouter le numéro de la flèche de départ au nombre à jouer, et de vingt-trois retrancher cette somme ; le reste est le numéro de la flèche où la dame s'arrête_. En effet, à cause du talon il ne faut compter que vingt-trois flèches; vingt-trois égale les trois nombres suivants : le numéro de la flèche de départ, le nombre à jouer et le le numéro de la flèche où la dame s'arrête. Donc si l'on en connaît deux, il est facile d'avoir le troisième.
 
@@ -196,7 +196,7 @@ Chaque joueur peut faire sept cases et demie avec ses quinze dames. Vous casez d
 
 **42. Lois pour jouer.**
 
-La nécessité de jouer ses dames à des flèches quelconques est restreinte par plusieurs lois que je ferai connaître. La première est celle-ci : _Vous ne pouvez placer ni une dame, ni deux, sur une flèche ou l'adversaire a une ou plusieurs dames, même si cette flèche est dans votre jeu; vous ne pouvez non plus. vous y reposer_. Il en est de même pour l'adversaire. (cf. n° 4.) Deuxième loi : _À la onzième flèche de L'adversaire vous ne pouvez placer ni une dame, ni deux ; vous pouvez vous y reposer_. Troisième loi : _À votre onzième fléche vous ne pouvez avoir une dame seule_.
+La nécessité de jouer ses dames à des flèches quelconques est restreinte par plusieurs lois que je ferai connaître. La première est celle-ci : _Vous ne pouvez placer ni une dame, ni deux, sur une flèche ou l'adversaire a une ou plusieurs dames, même si cette flèche est dans votre jeu; vous ne pouvez non plus. vous y reposer_. Il en est de même pour l'adversaire. (cf. n° 4.) Deuxième loi : _À la onzième flèche de L'adversaire vous ne pouvez placer ni une dame, ni deux ; vous pouvez vous y reposer_. Troisième loi : _À votre onzième flèche vous ne pouvez avoir une dame seule_.
 
 **43. Coin. Prendre son coin. Avoir son coin.**
 
@@ -212,7 +212,7 @@ Si vous avez votre coin, si l'adversaire n'a pas le sien, et si votre coup porte
 
 **46. Dame touchée, dame jouée.**
 
-Vous connaissez déjà cinq règles (cf. numéros 34, 42, 44, dernières lignes); vous ne faites que commencer, et cependant il y a une autre règle à laquelle vous devez vous conformer à chaque coup que vous jouez. 11 faut prendre dès à présent l'habitude de la suivre toujours, car vous verrez corn-bien on a regret de l'avoir négligée ou oubliée.
+Vous connaissez déjà cinq règles (cf. numéros 34, 42, 44, dernières lignes); vous ne faites que commencer, et cependant il y a une autre règle à laquelle vous devez vous conformer à chaque coup que vous jouez. 11 faut prendre dès à présent l'habitude de la suivre toujours, car vous verrez combien on a regret de l'avoir négligée ou oubliée.
 
 _Dame touchée, dame jouée_ ; cela veut dire : _Toute dame touchée doit être jouée_, si c'est possible, à moins qu'avant de la toucher on ait dit: _J'adoube_. Avant de toucher aucune dame pour jouer votre coup, il faut être bien sur de la place que vous lui destinez, car à ce jeu on est obligé de suivre exactement les règles. Dès que vous avez touché une de vos dames, vous êtes forcé de la jouer, et il arrive souvent qu'elle va à une place qui vous est désavantageuse.
 
@@ -230,7 +230,7 @@ On remplit également lorsqu'on fait les six cases suivantes, les cases des flè
 
 ![figure 4](diag-trictrac-figure_4-4W1-6W1-7W3-8W2-9W2-10W2-11W2-12W2.svg)
 
- ou lorsqu'_en passant au retour_ (cf. nos 33, 41), on y fait ses six dernières cases, c'est-à-dire celles du talon et des cinq premières flèches (fig. 5). 
+ou lorsqu'_en passant au retour_ (cf. nos 33, 41), on y fait ses six dernières cases, c'est-à-dire celles du talon et des cinq premières flèches (fig. 5).
 
 ![figure 5](diag-trictrac-figure_5-15W1-16W1-19W2-20W3-21W2-22W2-23W2-24W2.svg)
 
@@ -268,7 +268,7 @@ Avec la fig. 6, cherchez les coups qui peuvent remplir. Pour n'en oublier aucun,
 
 ![figure 7](diag-trictrac-figure7-1W3-2W3-3W3-4W4-5W1-6W1.svg)
 
-Ceci est nouveau et demande plus d'attention, plus de travail. Ici les dames surnuméraires sont des surcases. Couvrez la première demi case avec la première surcase, et la deuxième demi-case avec la deuxième surcase, cela donne 4-4; on peut aussi couvrir la deuxième demi-case avec la troisième surcase, avec la quatrième, et on a 4-3, 4-2. Couvrez la première demi-case avec la deuxième surcase, et la dellxième demi-case avec la troisième surcase, puis avec la quatrième, vous avez 3-3, 3-2 ; la troisième surcase sur la première demi-case et la quatrième surcase sur la deuxième demi-case ajoutent 2-2. On a donc 4-4, 4-3, 4-2, 3-3, 3-2, 2-2.
+Ceci est nouveau et demande plus d'attention, plus de travail. Ici les dames surnuméraires sont des surcases. Couvrez la première demi case avec la première surcase, et la deuxième demi-case avec la deuxième surcase, cela donne 4-4; on peut aussi couvrir la deuxième demi-case avec la troisième surcase, avec la quatrième, et on a 4-3, 4-2. Couvrez la première demi-case avec la deuxième surcase, et la deuxième demi-case avec la troisième surcase, puis avec la quatrième, vous avez 3-3, 3-2 ; la troisième surcase sur la première demi-case et la quatrième surcase sur la deuxième demi-case ajoutent 2-2. On a donc 4-4, 4-3, 4-2, 3-3, 3-2, 2-2.
 
 Mais on peut aussi couvrir la deuxième demi-case avec la première surcase, et la première demi-case avec la deuxième surcase, cela donne 5-3; la première demi-case peut être couverte par la troisième surcase, par la quatrième, et on a 5-2,,5-1. Couvrez la deuxième demi-case avec la deuxième surcase, et la première demi-case avec la troisième surcase, avec la quatrième, cela donne 4-2, 4-1 ; la troisième surcase sur la deuxième demi-case, et la quatrième surcase sur la première demi-case, 3-1. On a ainsi la série 5-3, 5-2, 5-1, 4-2, 4-1, 3-1. Il y a aussi la double surcase, qui ajoute 2-1.
 
@@ -302,7 +302,7 @@ Il est aisé de comprendre qu'avec une demi-case à faire il est plus facile de 
 
 **60. Conserver.**
 
-Si vous avez un plein, chaque coup que vous pouvez jouer en laissant deux dames sur chacune des six flèches vous vaut un gain; on dit que vous conservez. Il faut donc conserver aussi long-temps qu'il est possible. Vous conserverez bien des fois avec la fig. 3, si les coups n'ont pas de grands nombres.
+Si vous avez un plein, chaque coup que vous pouvez jouer en laissant deux dames sur chacune des six flèches vous vaut un gain; on dit que vous conservez. Il faut donc conserver aussi longtemps qu'il est possible. Vous conserverez bien des fois avec la fig. 3, si les coups n'ont pas de grands nombres.
 
 **61. Passer au retour.**
 
@@ -348,7 +348,7 @@ Soit la figure ci-jointe; les dames du talon ne peuvent servir à remplir au cou
 
 **69. Deux demi-cases à faire.**
 
-Pour n'oublier aucun coup, il faut suivre la même marche qu'au n° 54. Avec cette figure, combinez les dames surnuméraires avec les demi-cases prises dans l'ordre naturel, c'est-à-dire couvrez la première demi-case avec la première dame surnu-maire, et la deuxième demi-case avec la deuxième dame surnuméraire; puis avec la troisième dame surnuméraire, avec la quatrième, avec la cinquième, ce qui donne les coups 5 - 5, 5-4, 5 - 3, 5-2. 
+Pour n'oublier aucun coup, il faut suivre la même marche qu'au n° 54. Avec cette figure, combinez les dames surnuméraires avec les demi-cases prises dans l'ordre naturel, c'est-à-dire couvrez la première demi-case avec la première dame surnuméraire, et la deuxième demi-case avec la deuxième dame surnuméraire; puis avec la troisième dame surnuméraire, avec la quatrième, avec la cinquième, ce qui donne les coups 5 - 5, 5-4, 5 - 3, 5-2.
 
 ![figure 11](diag-trictrac-figure11-2W1-3W1-4W1-5W1-6W1-7W1-8W1-9W2-10W2-11W2-12W2.svg)
 
@@ -372,7 +372,7 @@ Vous remplissez si l'un des deux nombres ou leur somme est six, ou quatre, ou de
 
 **73. Remplir de deux façons, de trois façons.**
 
-Vous remplissez de deux façons par 6.4, 6-1, 5-2, qui donnent à choisir entre deux dames qui peuvent couvrir la dixième flèche. Avec 4-2, vous remplissez du pelit nombre, du grand, de la somme : de trois façons.
+Vous remplissez de deux façons par 6.4, 6-1, 5-2, qui donnent à choisir entre deux dames qui peuvent couvrir la dixième flèche. Avec 4-2, vous remplissez du petit nombre, du grand, de la somme : de trois façons.
 
 **74. Mettre dedans.**
 
@@ -404,17 +404,17 @@ Lorsqu'on est obligé de rompre par 5-4, et que l'adversaire est également prè
 
 **79. Refaire son plein (cf. n° 63).**
 
-Supposez que, dans la fig.13, vous portiez deux dames de la septième tlèche de l'adversaire à sa hùitième. Si vous amenez 6-2, vous êtes forcé de tout jouer (cf. n° 34), et il n'y a qu'une seule manière de le faire, c'est de jouer tout d'une de votre neuvième flèche à la sixième de l'adversaire, en vous reposant sur votre coin. Vous rompez ainsi votre plein; mais si, ensuite, vous amenez 1-1, vous remplissez de deux façons : la meilleure manière de jouer est de remplir de la dame surnuméraire de votre huitième flèche, et de porter celle qui est à la sixième de l'adversaire à sa cinquième. Dans ce moment, vos trois dames surnuméraires sont à votre septième flèche, à votre dixième et à la cinquième de l'adversaire. Si vous amenez 6-3, vous êtes forcé de rompre de nouveau en jouant de votre huitième flèche à la sixième de l'adversaire. Si, au coup suivant, vous amenez 4-1, vous remplissez avec la dame surnuméraire de la septième flèche, et vous jouez le 4 de la cinquième flèche de l'adversaire à sa première. Vous faites donc votre grand jan pour la troisième fois.
+Supposez que, dans la fig.13, vous portiez deux dames de la septième flèche de l'adversaire à sa huitième. Si vous amenez 6-2, vous êtes forcé de tout jouer (cf. n° 34), et il n'y a qu'une seule manière de le faire, c'est de jouer tout d'une de votre neuvième flèche à la sixième de l'adversaire, en vous reposant sur votre coin. Vous rompez ainsi votre plein; mais si, ensuite, vous amenez 1-1, vous remplissez de deux façons : la meilleure manière de jouer est de remplir de la dame surnuméraire de votre huitième flèche, et de porter celle qui est à la sixième de l'adversaire à sa cinquième. Dans ce moment, vos trois dames surnuméraires sont à votre septième flèche, à votre dixième et à la cinquième de l'adversaire. Si vous amenez 6-3, vous êtes forcé de rompre de nouveau en jouant de votre huitième flèche à la sixième de l'adversaire. Si, au coup suivant, vous amenez 4-1, vous remplissez avec la dame surnuméraire de la septième flèche, et vous jouez le 4 de la cinquième flèche de l'adversaire à sa première. Vous faites donc votre grand jan pour la troisième fois.
 
-Vous voyez maintenant que je vous ai fait jouer 1 -1 en laissant la dame surnuméraire de votre septième flèche, pour qu'elle servît à remplir une troisième fois. Donc, quand vous êtes obligé de rompre et que vous pouvez le faire par plus d'un endroit, vous devez avoir l'attention de choisir celui qui donne le plus d'avantage pour l'elnplir de nouveau par la situation des dames qui restent. On doit prévoir l'obligation de rompre son grand jan, et se réserver au moins une dame en arrière de la flèche par laquelle on rompra, pour remplir de nouveau.
+Vous voyez maintenant que je vous ai fait jouer 1 -1 en laissant la dame surnuméraire de votre septième flèche, pour qu'elle servît à remplir une troisième fois. Donc, quand vous êtes obligé de rompre et que vous pouvez le faire par plus d'un endroit, vous devez avoir l'attention de choisir celui qui donne le plus d'avantage pour l'emplir de nouveau par la situation des dames qui restent. On doit prévoir l'obligation de rompre son grand jan, et se réserver au moins une dame en arrière de la flèche par laquelle on rompra, pour remplir de nouveau.
 
 **80. Reprendre son coin.**
 
-Si, avec les deux jeux de la fig. 13, l'adversaire amène 1 -1, il le joue de sa septième flèche à sa huitième. Si vous avez 6-6, vous ne pouvez le jouer qu'en passant votre coin. S'il vous vient ensuite un des coups It-3, 4-1, 3-1, vous reprenez votre coin et remplissez de nouveau.
+Si, avec les deux jeux de la fig. 13, l'adversaire amène 1 -1, il le joue de sa septième flèche à sa huitième. Si vous avez 6-6, vous ne pouvez le jouer qu'en passant votre coin. S'il vous vient ensuite un des coups 4-3, 4-1, 3-1, vous reprenez votre coin et remplissez de nouveau.
 
 **81. Remplir en jouant un seul nombre.**
 
-Lorsque, des deux nombres amenés, l'un achève le plein et l'autre est impossible à jouer, on remplit néanmoins, et l'on gagne comme à l'ordinaire. Supposons que dans la ug. 13 l'adversaire ait son plein fait, que dans votre jeu une des dames de la. neuvième flèche soit portée à la sixième, les dames ainsi placées sur votre trictrac toujours ouvert (cf. n° 39), vous amenez 6-3, 6-2, 6-1 : vous ne pouvez jouer le 6, et vous remplissez du 3, du 2, de l'as.
+Lorsque, des deux nombres amenés, l'un achève le plein et l'autre est impossible à jouer, on remplit néanmoins, et l'on gagne comme à l'ordinaire. Supposons que dans la fig. 13 l'adversaire ait son plein fait, que dans votre jeu une des dames de la. neuvième flèche soit portée à la sixième, les dames ainsi placées sur votre trictrac toujours ouvert (cf. n° 39), vous amenez 6-3, 6-2, 6-1 : vous ne pouvez jouer le 6, et vous remplissez du 3, du 2, de l'as.
 
 **82. Remplir en passant (cf. n° 64).**
 
@@ -496,7 +496,7 @@ Vous avez vu que le grand jan, semblable au petit jan, en diffère en dix articl
 
 **98. Pouvoir remplir.**
 
-Pour pouvoir remplir au coup suivant, il faut les quatre mêmes conditions qu'au * n° 67; et en outre, s'il reste une demi-case à faire, il faut qu'une dame surnuméraire ne soit pas à plus de douze flèches de la dame à couvrir, puisque la plus forte somme des nombres est douze.
+Pour pouvoir remplir au coup suivant, il faut les quatre mêmes conditions qu'au \* n° 67; et en outre, s'il reste une demi-case à faire, il faut qu'une dame surnuméraire ne soit pas à plus de douze flèches de la dame à couvrir, puisque la plus forte somme des nombres est douze.
 
 **99. Une case à faire (cf. n˚53, 68).**
 
@@ -510,7 +510,7 @@ Pour avoir tous les coups qui remplissent, il faut combiner deux à deux les dam
 
 Pour n'oublier aucun coup, combinez les dames surnuméraires avec les deux demi-cases prises dans Tordre naturel, c'est-à-dire couvrez la première demi-case avec la première dame surnuméraire, et la deuxième demi - case avec la deuxième dame surnuméraire, puis avec la troisième dame surnuméraire, avec la quatrième, avec la cinquième : ce qui donne les coups 5-5, 5-4, 5-3, 5-2. Couvrez ensuite la première demi-case avec la deuxième dame surnuméraire, et la deuxième demi-case avec la troisième dame surnuméraire, puis avec la quatrième, avec la cinquième : ce qui donne les coups 4-4, 4-3, 4-2. On peut couvrir la première demi-case avec la troisième dame surnuméraire, et la deuxième demi-case avec la quatrième da- • me surnuméraire, puis avec la cinquième: ce qui donne les coups 3-3, 3-2. Enfin couvrez la première demi-case avec la quatrième dame surnuméraire, et la deuxième demi-case avec la cinquième dame surnuméraire: cela donne 2-2. Ainsi l'ordre naturel donne les coups 5-5, 5-4, 5-3, 5-2, 4-4, 4-3, 4-2, 3-3, 3-2, 2-2.
 
-Pour l'ordre inverse, couvrez la deuxième demi-case avec la première dame surnuméraire, et la première demi-case avec la deuxième dame surnuméraire, puis avec la troisième, avec la quatrième, avec la cinquième : ce qui donne les coups 6-4, 6-3, 6-2, 6-1. Couvrez ensuite la deuxième demi-case avec la deuxième dame surnulllérajre, et la première demi-case avec la troisième dame surnuméraire, puis avec la quatrième, avec la cinquième : cela donne 5-3, 5-2, 5-1. On peut couvrir la deuxième demi - case avec la troisième dame surnuméraire, et la première demi-case avec la quatrième dame surnuméraire, puis avec la cinquième : cela donne 4-2, 4-1. Enfin couvrez la deuxième demi-case avec la quatrième dame surnuméraire, et la première demi-case avec la cinquième dame surnuméraire, 3-1. Ainsi l'ordre inverse donne les coups, 6-4, 6-3, 6-2, 6-1, 5-3, 5-2, 5-1, 4-2, 4-1, 3-1. On peut remarquer que les deux séries ont trois coups communs, 5-3, 5-2, 4-2.
+Pour l'ordre inverse, couvrez la deuxième demi-case avec la première dame surnuméraire, et la première demi-case avec la deuxième dame surnuméraire, puis avec la troisième, avec la quatrième, avec la cinquième : ce qui donne les coups 6-4, 6-3, 6-2, 6-1. Couvrez ensuite la deuxième demi-case avec la deuxième dame surnuméraire, et la première demi-case avec la troisième dame surnuméraire, puis avec la quatrième, avec la cinquième : cela donne 5-3, 5-2, 5-1. On peut couvrir la deuxième demi - case avec la troisième dame surnuméraire, et la première demi-case avec la quatrième dame surnuméraire, puis avec la cinquième : cela donne 4-2, 4-1. Enfin couvrez la deuxième demi-case avec la quatrième dame surnuméraire, et la première demi-case avec la cinquième dame surnuméraire, 3-1. Ainsi l'ordre inverse donne les coups, 6-4, 6-3, 6-2, 6-1, 5-3, 5-2, 5-1, 4-2, 4-1, 3-1. On peut remarquer que les deux séries ont trois coups communs, 5-3, 5-2, 4-2.
 
 **101. Demi-cases non contiguës.**
 
@@ -524,13 +524,13 @@ Les deux séries étant supposées inconnues, essayez 6-2 ; dans l'ordre naturel
 
 ![figure 16](diag-trictrac-figure16-16W1-17W1-19W3-20W2-21W3-22W2-23W1-24W2.svg)
 
-Vous remplissez si l'un des deux llombres ou leur somme est six, ou quatre, ou deux, ou bien si la somme desdeux nombres est sept. Avec 3-2, on remplit du deux; 2-1 remplit du deux, le plus grand; 3-1 remplit par la somme.
+Vous remplissez si l'un des deux llombres ou leur somme est six, ou quatre, ou deux, ou bien si la somme des deux nombres est sept. Avec 3-2, on remplit du deux; 2-1 remplit du deux, le plus grand; 3-1 remplit par la somme.
 
 **104. Remplir de deux façons, de trois façons (cf. n° 73).**
 
 Vous remplissez de deux façons par 6-4, 6-1, 5-2, qui donnent à choisir entre deux dames qui peuvent couvrir la première flèche. Avec 4-2, vous remplissez du petit nombre, du grand, de la somme, de trois façons.
 
-Si les deux dames des flèches septième et huitième sont portées au coin, elles ne peuvent servir à remplir au coup suivant, car les deux dames ne peuvent sortir séparement.
+Si les deux dames des flèches septième et huitième sont portées au coin, elles ne peuvent servir à remplir au coup suivant, car les deux dames ne peuvent sortir séparément.
 
 **105. Mettre dedans (cf. n° 74).**
 
@@ -542,9 +542,9 @@ Avec la fig. 5, vous pouvez conserver plusieurs fois, si les nombres ne sont pas
 
 **107. Conserver par impuissance (cf. n° 76).**
 
-On conserve ainsi dans quatre cas. Si l'on a une dame surnuméraire à la cinquième flèche de l'adversaire, une case à sa huitième flèche, l'adversaire en ayant une à sa neuvième, et si l'on amène G-6, on ne peut jouer de sa huitième flèche, à cause des dames qu'a l'adversaire à sa neuvième ; dans la première table de l'adversaire, on ne peut jouer que le cinq. Si vous portez votre case à votre coin, 6-1 ne vous permet de jouer que l'as, même si l'adversaire n'a plus de dames dans son jeu. On a son coin et la troisième dame surnuméraire à la quatrième flèche, l'adversaire a une damè à sa neuvième flèche; on amène 6-3, on ne peut passer les dames de son coin à cause de la dame de l'adversaire ; on joue le trois de la quatrième flèche à la première. Le quatrième cas est semblable au premier : l'adversaire a des cases à ses flèches neuvième et dixième; vous ne pouvez jouer ni 6-6, ni 6-5 ; vous jouez le cinq de la cinquième flèche de l'adversaire.
+On conserve ainsi dans quatre cas. Si l'on a une dame surnuméraire à la cinquième flèche de l'adversaire, une case à sa huitième flèche, l'adversaire en ayant une à sa neuvième, et si l'on amène 6-6, on ne peut jouer de sa huitième flèche, à cause des dames qu'a l'adversaire à sa neuvième ; dans la première table de l'adversaire, on ne peut jouer que le cinq. Si vous portez votre case à votre coin, 6-1 ne vous permet de jouer que l'as, même si l'adversaire n'a plus de dames dans son jeu. On a son coin et la troisième dame surnuméraire à la quatrième flèche, l'adversaire a une dame à sa neuvième flèche; on amène 6-3, on ne peut passer les dames de son coin à cause de la dame de l'adversaire ; on joue le trois de la quatrième flèche à la première. Le quatrième cas est semblable au premier : l'adversaire a des cases à ses flèches neuvième et dixième; vous ne pouvez jouer ni 6-6, ni 6-5 ; vous jouez le cinq de la cinquième flèche de l'adversaire.
 
-**108. Privilége de la bande.**
+**108. Privilège de la bande.**
 
 Une loi fort singulière est celle-ci : Lorsque toutes les dames sont entrées dans la première table de l'adversaire, on compte pour une flèche la bande AD, fig. 1, contiguë aux deux talons. Cette loi a des applications très importantes.
 
@@ -552,7 +552,7 @@ Une loi fort singulière est celle-ci : Lorsque toutes les dames sont entrées d
 
 On a son jan de retour moins une dame à la deuxième flèche ; les dames surnuméraires sont au talon et aux flèches première, quatrième et sixième ; on amène 5-4 ; on remplit avec le quatre; puis, tout étant entré, on joue sur la bande le cinq de la quatrième flèche.
 
-**110. Conserver par le privilége de la bande.**
+**110. Conserver par le privilège de la bande.**
 
 La bande étant comptée pour une flèche, si l'on a son jan de retour, les trois dames surnuméraires étant placées, une au talon et deux à la cinquième flèche de l'adversaire, si l'on amène 6-6 ou 6-1, on conserve en jouant sur la bande les deux dames de la cinquième flèche, ou une de la cinquième flèche et une du talon. Si vous n'avez plus qu'une dame dans la deuxième table de l'adversaire, et si vous amenez un nombre par lequel vous pouvez entrer cette dame, vous avez le droit, après l'avoir entrée, de jouer l'autre nombre sur la bande pour conserver; on a 6-6, et les trois dames surnuméraires aux flèches première, cinquième, sixième; on joue le premier 6 de la sixième flèche au talon, puis le deuxième 6 de la cinquième à la bande.
 
@@ -614,7 +614,7 @@ Avant d'aller plus loin, il est bien utile de réfléchir sur ce qui précède, 
 
 **122. Jans**
 
-On a vu (cf. n° 47, 2eme alinéa) qu'on nomme jan tout coup qui apporte un gain à l'un des joueurs ; néanmoins, on donne spécialement le nom de jan aux trois pleins que l'on fait dans ses deux tables et dans la première table de l'adversaire. Il y a cinq autres jans moins importants et plus rares, mais qu'il est nécessaire de connaître, car ils apportent un bénéfice. Je vais les expliquer.
+On a vu (cf. n° 47, 2ème alinéa) qu'on nomme jan tout coup qui apporte un gain à l'un des joueurs ; néanmoins, on donne spécialement le nom de jan aux trois pleins que l'on fait dans ses deux tables et dans la première table de l'adversaire. Il y a cinq autres jans moins importants et plus rares, mais qu'il est nécessaire de connaître, car ils apportent un bénéfice. Je vais les expliquer.
 
 **123. Jan de trois coups. Jan de six dames.**
 
@@ -654,7 +654,7 @@ La marche pour battre est la même que pour jouer. Une dame qui bat ne change pa
 
 **131. Battre de une, deux, trois façons.**
 
-Dans la fig. 17, 4-1 bat d'une façon ; 3-1 bat de deux façons, du trois, du trois et un, des flèches onzième et dizième; 4-3 bat de trois façons, du trois, du quatre, du quatre et trois, des flèches onzième, dixième et septième. Quand on bat de deux façons, de trois façons, le gain est double, triple. On voit déjà la grande similitude entre battre et remplir, quand il manque une dame au plein.
+Dans la fig. 17, 4-1 bat d'une façon ; 3-1 bat de deux façons, du trois, du trois et un, des flèches onzième et dixième; 4-3 bat de trois façons, du trois, du quatre, du quatre et trois, des flèches onzième, dixième et septième. Quand on bat de deux façons, de trois façons, le gain est double, triple. On voit déjà la grande similitude entre battre et remplir, quand il manque une dame au plein.
 
 **132. Battre plusieurs dames.**
 
@@ -688,11 +688,10 @@ Quand le coup est simple, il y a deux passages; il suffit que l'un soit ouvert. 
 
 On peut du même coup battre à vrai des dames et en battre d'autres à faux. Si, avec les deux jeux de la figure 18 (page 14 5), l'adversaire amène 6-6, il bat à vrai les dames des flèches première, sixième, septième ; il bat à faux les dames des flèches troisième, quatrième, cinquième.
 
-Les dames des flèches sixième et septième sont battues à vrai. On peut établir cette règle : _On bat toujours à vrai si l'on hat par l'un des deux nombres__.
+Les dames des flèches sixième et septième sont battues à vrai. On peut établir cette règle : \_On bat toujours à vrai si l'on hat par l'un des deux nombres\_\_.
 
 **139. Ce qu'on va voir.**
 
 Vous avez un gain pour tous les coups suivants : battre le coin, faire un des trois pleins, conserver, sortir le premier ses dames des flèches, battre à vrai une dame, faire le jan de trois coups, le jan de deux dames, le jan de mézéas. Vous donnez un gain à l'adversaire pour chaque nombre que vous ne jouez pas, pour le battre à faux, pour les deux contre-jans.
 
 Je vais vous faire connaitre comment on nomme ce que l'on gagne, et comment on le marque. Ensuite je dirai la valeur de ces différents gains.
-
